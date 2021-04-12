@@ -1,1 +1,0 @@
-# lgelape.github.io
