@@ -5,12 +5,192 @@
     <link>/menu/</link>
       <atom:link href="/menu/index.xml" rel="self" type="application/rss+xml" />
     <description>Lucas Gelape</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><copyright>© 2021</copyright>
+    <generator>Wowchemy (https://wowchemy.com)</generator><copyright>© 2021</copyright><lastBuildDate>Thu, 23 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hu1d16897e3fa93fcb083438e47d0c5cbc_11292_512x512_fill_lanczos_center_2.png</url>
       <title>Lucas Gelape</title>
       <link>/menu/</link>
     </image>
+    
+    <item>
+      <title>Projects - Volt Data Lab</title>
+      <link>/menu/en/blog/voltdatalab/</link>
+      <pubDate>Thu, 23 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/menu/en/blog/voltdatalab/</guid>
+      <description>&lt;p&gt;As a data analyst at &lt;a href=&#34;https://www.voltdata.info/en-lg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Volt Data Lab&lt;/a&gt;, I participated in some projects that involved data collection, analysis and visualization, from many different sources.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://sciencepulse.org/index&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Science Pulse&lt;/a&gt;: online tool to connect journalists to scientific conversation in social media, by finding content from a list of trustworthy sources of experts/researchers who engage on social media (mainly on Twitter). This project involved working with R on remote servers and Shiny.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://lgelape.github.io/software/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R Packages&lt;/a&gt;: two packages to extract data from APIs developed by Volt Data Lab: &lt;a href=&#34;https://github.com/sergiospagnuolo/pollingBR/blob/master/vignettes/Introduction_pollingBR.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;code&gt;pollingBR&lt;/code&gt;&lt;/a&gt;, which gets data about electoral polls compiled by news website Poder360; and &lt;a href=&#34;https://github.com/sergiospagnuolo/crossfire/blob/master/Introduction_crossfire.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;code&gt;crossfire&lt;/code&gt;&lt;/a&gt;, that gets data about gun shootings in Rio de Janeiro and Recife&amp;rsquo;s metropolitan areas, collected by the Fogo Cruzado initiative.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.voltdata.info/conteudo/2019/estatsticas-de-podcasts&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Data and statics on podcasts in Brazil, 2019 (in Portuguese)&lt;/a&gt;: report produced by Sérgio Spagnuolo and I, in which we collected and analysed data on Brazilian and International podcasts hosted on &lt;a href=&#34;https://www.pocketcasts.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pocket Casts&lt;/a&gt;. Data was collected in July and August, 2019 and the &lt;a href=&#34;https://github.com/sergiospagnuolo/pesquisa-podcasts&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code can be found on GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://tierraderesistentes.com/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Terra de Resistentes&lt;/a&gt;: collaborative project which investigates threats to environmental leaders and their communities in seven countries on Latin America. I contributed with data analysis and visualization on &lt;a href=&#34;https://tierraderesistentes.com/en/index.php/2020/03/06/el-cercado-indigena/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;threats to indigenous communities in Rondônia&lt;/a&gt;. This story involved data analysis from indigenous lands, deforestation, illegal roads, hidrography, mining and rural lands.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>São Paulo: subnational alignment and challenges from Covid-19 in the country`s largest city</title>
+      <link>/menu/en/blog/sp_covid19/</link>
+      <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/menu/en/blog/sp_covid19/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://nepolufjf.wordpress.com/2020/04/07/sao-paulo-alinhamento-subnacional-e-os-desafios-do-combate-a-covid-19-na-maior-cidade-do-pais/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;How did the city of São Paulo responded to the first weeks&#39; challenges of the new coronavirus pandemic?&lt;/a&gt;.
+In this blog post, I described the first measures taken by mayor Bruno Covas (PSDB) and his relationship with governor João Doria (PSDB). I also discussed the main health, social care and urban transportation policies during this period. To conclude, I pointed out some of the challenges the city was poised to face: how to maintain isolation policies, reach vulnerable populations, increase testing and hospital capacities and planning the economy reopening.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://nepolufjf.wordpress.com/2020/04/07/sao-paulo-alinhamento-subnacional-e-os-desafios-do-combate-a-covid-19-na-maior-cidade-do-pais/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;This post was published on April 7th, 2020, in Portuguese (original title &amp;ldquo;São Paulo: alinhamento subnacional e os desafios do combate à Covid-19 na maior cidade do país&amp;rdquo;)&lt;/a&gt; in the blog series &lt;a href=&#34;https://nepolufjf.wordpress.com/os-governos-municipais-frente-ao-coronavirus/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Municipal governments facing the coronavirus&amp;rdquo;&lt;/a&gt; from the Study Group on Local Politics (NEPOL), Federal University of Juiz de Fora.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Unlike other world leaders, Bolsonaro`s evaluation does not change during the pandemic</title>
+      <link>/menu/en/blog/bolsonaro_aprovacao/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/menu/en/blog/bolsonaro_aprovacao/</guid>
+      <description>&lt;p&gt;How did Jair Bolsonaro&amp;rsquo;s evaluation was compared to other world leaders on the first weeks of the new coronavirus pandemic? &lt;a href=&#34;https://nucleo.jor.br/pesquisas/2020-04-01-popularidade-bolsonaro-lideres-coronavirus&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;By comparing surveys about the Brazilian president approval rating with others from seven world leaders&lt;/a&gt;, I found that, unlike the others, Bolsonaro was the only who did not get a bump on his approval ratings in the period. I analyzed the result from the perspective of the &lt;em&gt;rally-round-the-flag-effect&lt;/em&gt; which can explain political leaders&#39; sudden increase in approval during hard times.&lt;/p&gt;
+&lt;p&gt;Analysis published in portuguese on &lt;em&gt;Núcleo Jornalismo&lt;/em&gt;., on April 1st, 2020. Original title: &lt;em&gt;Na contramão de outros líderes, avaliação de Bolsonaro fica estagnada durante pandemia&lt;/em&gt;. &lt;a href=&#34;https://docs.google.com/spreadsheets/d/1v5-qq_4eLAi-Putcgc7pTkdcCUR5q97wuWZr0JQqwXE/edit#gid=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Data&lt;/a&gt; and &lt;a href=&#34;https://gist.github.com/lgelape/7022068fe55e18c7a100cfceb01a70d9&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code&lt;/a&gt; are available on the hyperlinks.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Territorial Representation and Marielle Franco</title>
+      <link>/menu/en/blog/marielle_franco/</link>
+      <pubDate>Sat, 17 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/menu/en/blog/marielle_franco/</guid>
+      <description>&lt;p&gt;In March 2018, after a news website published a short note Marielle Franco&amp;rsquo;s number of votes at the Maré neighborhood, I published an analysis on &lt;em&gt;Medium&lt;/em&gt; called &lt;a href=&#34;https://medium.com/@lgelape/representa%C3%A7%C3%A3o-territorial-e-marielle-franco-b1884061bf1c&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Territorial Representation and Marielle Franco&lt;/em&gt;&lt;/a&gt; (in portuguese), which showed how her votes were distributed across the city of Rio de Janeiro que investigava a distribuição dos votos dela na cidade do Rio de Janeiro.&lt;/p&gt;
+&lt;p&gt;In the text I discuss some precautions and data issues for spatial analysis of Brazilian election, and I also present some ideas on &amp;ldquo;territorial representation&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;Code used in the analysis is available &lt;a href=&#34;https://github.com/lgelape/texto_mariellefranco&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;in a repo on my GitHub profile&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./vereadores_PSOL.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Class speakers, Graduation Class in Law, UFMG, 2nd semester of 2015</title>
+      <link>/menu/en/blog/direito_ufmg/</link>
+      <pubDate>Wed, 14 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/menu/en/blog/direito_ufmg/</guid>
+      <description>&lt;p&gt;In January, 2015, with Amanda Cristina Viana, I was one of the class speakers of the 2014 2nd semester graduation class. The UFMG Law School Journal (&lt;em&gt;Revista da Faculdade de Direito da UFMG&lt;/em&gt;) was kind to publish in its &lt;a href=&#34;https://www.direito.ufmg.br/revista/index.php/revista/article/view/1691&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;issue 66 &lt;em&gt;Historical Memory&lt;/em&gt; section&lt;/a&gt; (in Portuguese).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Courses</title>
+      <link>/menu/en/courses/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/menu/en/courses/</guid>
+      <description>&lt;h2 id=&#34;short-courses&#34;&gt;Short courses&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/lgelape/modus_2019&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Introduction to Statistics&lt;/strong&gt;&lt;/a&gt;, Modus - Intensive Courses in Research Methodologies for Social Sciences, Graduate Program of Political Science, UFMG, 2019. (In Portuguese)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Introduction to Spatial Data Analysis&lt;/strong&gt;, Faculty of Philosophy and Human Sciences, UFMG, 2017. (In Portuguese)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Introduction to R&lt;/strong&gt;, UFMG&amp;rsquo;s Law School, 2017 (&lt;a href=&#34;https://fmeireles.com/teaching/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;co-taught with Fernando Meireles&lt;/a&gt;). (In Portuguese)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;teaching-assistant&#34;&gt;Teaching assistant&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Quantitative Methods and Research Techniques I&lt;/strong&gt;, (taught by prof. Glauco Peres da Silva, undergraduate level), Political Science Department, USP, 2018. (In Portuguese)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Introduction to R&lt;/strong&gt; (taught by prof. Rogério Barbosa, short course), Intensive Training on Quantitative Methodology (MQ), UFMG, 2017. (In Portuguese)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/leobarone/mq_ufmg_17&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Web data collection and analysis with R&lt;/strong&gt;&lt;/a&gt;, (taught by prof. Leonardo Barone, short course), Intensive Training on Quantitative Methodology (MQ), UFMG, 2017. (In Portuguese)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;workshops&#34;&gt;Workshops&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;The use of maps in Political Science&lt;/strong&gt;, workshop at the VIII Seminar of Political Science and International Relations, UFPE, 2019. (In Portuguese)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>/menu/en/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/menu/en/research/</guid>
+      <description>&lt;p&gt;PhD Candidate, Political Science, University of São Paulo (CNPq scholarship). Visiting fellow at Harvard University from 09/2019 to 02/2020 (Capes PrInt scholarship). MA in Political Science, 2017 (CNPq scholarship), and Bachelor of Laws, 2014, Federal University of Minas Gerais.&lt;/p&gt;
+&lt;p&gt;Researcher at &lt;a href=&#34;https://cebrap.org.br/pesquisador/lgelape/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Brazilian Center for Analysis and Planning (Cebrap)&lt;/a&gt; and collaborates at the &lt;a href=&#34;https://nepolufjf.wordpress.com/presentation/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Study Group on Local Politics (NEPOL-UFJF)&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Research interests&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Political Institutions&lt;/li&gt;
+&lt;li&gt;Electoral Studies&lt;/li&gt;
+&lt;li&gt;Local Politics&lt;/li&gt;
+&lt;li&gt;Electoral Geography&lt;/li&gt;
+&lt;li&gt;Legislative Studies&lt;/li&gt;
+&lt;li&gt;Political Parties&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;publications-and-current-work&#34;&gt;&lt;strong&gt;Publications and current work&lt;/strong&gt;:&lt;/h2&gt;
+&lt;h2 id=&#34;masters-thesis&#34;&gt;Masters&#39; Thesis&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Gelape, Lucas. &lt;a href=&#34;/publication/dissertacao/&#34;&gt;&lt;strong&gt;Electoral geography in municipal elections under the open-list electoral system: a study from Belo Horizonte, Rio de Janeiro and São Paulo&lt;/strong&gt;&lt;/a&gt;. Federal University of Minas Gerais, Belo Horizonte, 2017. (In Portuguese)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;peer-reviewed-articles&#34;&gt;Peer-reviewed articles&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Pereira, Rodolfo Viana and Lucas Gelape. &lt;a href=&#34;/publication/anacronismo_lista_aberta/&#34;&gt;Open-List Proportional Representation Anachronism in Brazil: the non-applicability of its original reasons for adoption&lt;/a&gt;. &lt;strong&gt;Revista de Informação Legislativa&lt;/strong&gt;, Brasília, v. 52, n. 205, p. 261–279, march. 2015. (In Portuguese)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;book-chapters&#34;&gt;Book chapters&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Soares, Fabiana de Menezes and Lucas Gelape. &lt;a href=&#34;/publication/almg/&#34;&gt;Legislative advising at ALMG: the &lt;em&gt;Amicus curiae&lt;/em&gt; of legislative process?&lt;/a&gt; In: SANTOS, Manoel Leonardo; ANASTASIA, Fátima (org.). &lt;strong&gt;Política e Desenvolvimento Institucional no Legislativo de Minas Gerais&lt;/strong&gt;. Belo Horizonte: Editora PUC Minas, 2016. p. 381–413. (In Portuguese)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;conference-papers&#34;&gt;Conference papers&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Gelape, Lucas; Feital, Thiago Álvares. &lt;a href=&#34;/publication/art_politics/&#34;&gt;From Art to Politics: challenging representation&lt;/a&gt;. &lt;strong&gt;Human Rights, Rule of Law and the Contemporary Social Challenges in Complex Societies: Proceedings of the XXVI World Congress of Philosophy of Law and Social Philosophy&lt;/strong&gt;. Belo Horizonte: Initia Via, 2015. p. 2211–2232.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;working-papers&#34;&gt;Working papers&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Building political and territorial linkages in cities: evidence from parliamentary requests in São Paulo. (In Portuguese) (with Telma Hoyler and Graziele Silotto). 2019.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Party&amp;rsquo;s restriction on individual political ambition: evidence from Brazilian city councilors (In Portuguese) (with Glauco Peres da Silva). 2021.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The incumbency effect of Brazilian city councilors: effects and mechanisms. (In Portuguese). 2021.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Integrated or local circuits: the career patterns of Brazilian city councilors. (In Portuguese). 2020.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Determinants of Minas Gerais&#39; city-councilors career decisions. (In Portuguese). 2019.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Electoral geography in municipal elections under the open-list electoral system: a study about Brazilian capitals. (In Portuguese). 2017.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;in-press&#34;&gt;In press&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Gelape, Lucas. Electoral geography and party strategies to city council elections under an OLPR system. (In Portuguese)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Software</title>
+      <link>/menu/en/software/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/menu/en/software/</guid>
+      <description>&lt;h2 id=&#34;r-packages&#34;&gt;&lt;strong&gt;R Packages&lt;/strong&gt;&lt;/h2&gt;
+&lt;h3 id=&#34;pollingbr&#34;&gt;pollingBR&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;pollingBR&lt;/code&gt; is a R package created to facilitate the extraction of date from the &lt;a href=&#34;https://www.poder360.com.br/pesquisas-de-opiniao/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;dataset of Brazilian electoral polls from the news website Poder360&lt;/a&gt;. The package extracts information from its’ open data API, developed by &lt;a href=&#34;https://www.voltdata.info/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Volt Data Lab&lt;/a&gt;. The package was developed with contributions from Sérgio Spagnuolo, Denisson Silva and Fernando Meireles.&lt;/p&gt;
+&lt;p&gt;To download it and for further instructions, please check the &lt;a href=&#34;https://github.com/sergiospagnuolo/pollingBR&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;code&gt;pollingBR&lt;/code&gt; repository on GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;crossfire&#34;&gt;crossfire&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;crossfire&lt;/code&gt; is a R package to extract data from &lt;a href=&#34;https://api.fogocruzado.org.br/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Fogo Cruzado&lt;/strong&gt;’s open data API&lt;/a&gt;, also developed by Volt Data Lab. &lt;a href=&#34;https://fogocruzado.org.br/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fogo Cruzado&lt;/a&gt; (Crossfire) is “a collaborative and digital platform to register gun shootings and gun violence on the metropolitan areas of Rio de Janeiro and Recife”. The package was developed with contributions from Sérgio Spagnuolo and Denisson Silva.&lt;/p&gt;
+&lt;p&gt;To download it and for further instructions, please check the &lt;a href=&#34;https://github.com/voltdatalab/crossfire&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;code&gt;crossfire&lt;/code&gt; repository on GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;newsatlasbr&#34;&gt;newsatlasbr&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;newsatlasbr&lt;/code&gt; is a R Package to extract data from &lt;a href=&#34;https://www.atlas.jor.br/plataforma/api/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;News Atlas&lt;/em&gt; open data API&lt;/a&gt;. &lt;em&gt;News Atlas&lt;/em&gt; is a project which &lt;a href=&#34;https://www.atlas.jor.br/english/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;maps Brazilian news outlets&lt;/a&gt;. I developed this package with contributions from Sérgio Spagnuolo and Renata Hirota.&lt;/p&gt;
+&lt;p&gt;To download it and for further instructions, please check the &lt;a href=&#34;https://github.com/voltdatalab/newsatlasbr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;code&gt;newsatlasbr&lt;/code&gt; repository on GitHub&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

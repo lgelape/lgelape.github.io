@@ -281,21 +281,6 @@
     </item>
     
     <item>
-      <title>Anacronismo do Sistema Proporcional de Lista Aberta no Brasil: ocaso das razões originárias de sua adoção</title>
-      <link>/publication/anacronismo_lista_aberta/</link>
-      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/anacronismo_lista_aberta/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;PEREIRA, Rodolfo Viana; GELAPE, Lucas. Anacronismo do Sistema Proporcional de Lista Aberta no Brasil: ocaso das razões originárias de sua adoção. &lt;strong&gt;Revista de Informação Legislativa&lt;/strong&gt;, Brasília, v. 52, n. 205, p. 261–279, mar. 2015.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Sumário:&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Introdução. 2. O sistema eleitoral de lista aberta no Brasil. 2.1. Características gerais e funcionamento da lista aberta brasileira. 2.2. Críticas ao sistema eleitoral brasileiro de representação proporcional. 3. A introdução da lista aberta no Brasil. 3.1. O Código Eleitoral de 1932. 3.2. A experiência eleitoral com o Código de 1932 e a reforma da legislação. 4. Críticas à base de justificação e manutenção do sistema eleitoral de lista aberta no Brasil. 5. Considerações finais.&lt;/li&gt;
-&lt;/ol&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Discurso dos oradores da turma de formandos em Direito da UFMG, 2º semestre de 2014</title>
       <link>/blog/direito_ufmg/</link>
       <pubDate>Wed, 14 Jan 2015 00:00:00 +0000</pubDate>
@@ -359,15 +344,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/research/</guid>
       <description>&lt;p&gt;Aluno de doutorado em Ciência Política da USP (desde 2017), bolsista de doutorado do CNPq. Pesquisador visitante (doutorado sanduíche) no Departamento de Governo da Universidade Harvard (09/2019 a 02/2020), com bolsa Capes-PrInt. Mestre em Ciência Política (2017), com bolsa do CNPq, e bacharel em Direito (2014) pela UFMG.&lt;/p&gt;
-&lt;p&gt;Sou também pesquisador do &lt;a href=&#34;https://cebrap.org.br/pesquisador/lgelape/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Núcleo de Instituições Políticas e Eleições (Cebrap)&lt;/a&gt;, e pesquisador-colaborador do &lt;a href=&#34;https://nepolufjf.wordpress.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Núcleo de Estudos sobre Política Local (NEPOL-UFJF)&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Sou também pesquisador do &lt;a href=&#34;https://cebrap.org.br/pesquisador/lgelape/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Núcleo de Instituições Políticas e Eleições (Cebrap)&lt;/a&gt; e pesquisador-colaborador do &lt;a href=&#34;https://nepolufjf.wordpress.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Núcleo de Estudos sobre Política Local (NEPOL-UFJF)&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Áreas de interesse&lt;/strong&gt;:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Instituições Políticas;&lt;/li&gt;
-&lt;li&gt;Estudos Eleitorais;&lt;/li&gt;
-&lt;li&gt;Política Local;&lt;/li&gt;
-&lt;li&gt;Geografia Eleitoral;&lt;/li&gt;
-&lt;li&gt;Estudos Legislativos;&lt;/li&gt;
-&lt;li&gt;Partidos Políticos.&lt;/li&gt;
+&lt;li&gt;Instituições Políticas&lt;/li&gt;
+&lt;li&gt;Estudos Eleitorais&lt;/li&gt;
+&lt;li&gt;Política Local&lt;/li&gt;
+&lt;li&gt;Geografia Eleitoral&lt;/li&gt;
+&lt;li&gt;Estudos Legislativos&lt;/li&gt;
+&lt;li&gt;Partidos Políticos&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;publicações-e-trabalhos-em-andamento&#34;&gt;&lt;strong&gt;Publicações e trabalhos em andamento:&lt;/strong&gt;&lt;/h2&gt;
 &lt;h2 id=&#34;dissertação-de-mestrado&#34;&gt;Dissertação de mestrado&lt;/h2&gt;
@@ -422,7 +407,7 @@
       <description>&lt;h2 id=&#34;pacotes-r&#34;&gt;&lt;strong&gt;Pacotes R&lt;/strong&gt;&lt;/h2&gt;
 &lt;h3 id=&#34;pollingbr&#34;&gt;pollingBR&lt;/h3&gt;
 &lt;p&gt;O &lt;code&gt;pollingBR&lt;/code&gt; é um pacote em R, criado para facilitar a utilização de dados contidos no &lt;a href=&#34;https://www.poder360.com.br/pesquisas-de-opiniao/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;banco de dados de pesquisas eleitorais do site Poder360&lt;/a&gt;. O pacote extrai dados da API deste repositório, desenvolvida pelo &lt;a href=&#34;https://www.voltdata.info/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Volt Data Lab&lt;/a&gt;. Este pacote foi produzido por mim com contribuições de Sérgio Spagnuolo, Denisson Silva e Fernando Meireles.&lt;/p&gt;
-&lt;p&gt;Para download e instruções de uso, acesse o &lt;a href=&#34;https://github.com/voltdatalab/pollingBR&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;repositório do &lt;code&gt;pollingBR&lt;/code&gt; no GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Para download e instruções de uso, acesse o &lt;a href=&#34;https://github.com/sergiospagnuolo/pollingBR&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;repositório do &lt;code&gt;pollingBR&lt;/code&gt; no GitHub&lt;/a&gt;.&lt;/p&gt;
 &lt;h3 id=&#34;crossfire&#34;&gt;crossfire&lt;/h3&gt;
 &lt;p&gt;O &lt;code&gt;crossfire&lt;/code&gt; é um pacote em R utilizado para extrair dados da &lt;a href=&#34;https://api.fogocruzado.org.br/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;API de dados abertos do projeto &lt;strong&gt;Fogo Cruzado&lt;/strong&gt;&lt;/a&gt;, desenvolvida pelo &lt;a href=&#34;https://www.voltdata.info/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Volt Data Lab&lt;/a&gt;. O pacote foi desenvolvido por mim, com contribuições de Sérgio Spagnuolo e Denisson Silva.&lt;/p&gt;
 &lt;p&gt;O &lt;a href=&#34;https://fogocruzado.org.br/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fogo Cruzado&lt;/a&gt; é &amp;ldquo;uma plataforma digital colaborativa que tem o objetivo de registrar a incidência de tiroteios e a prevalência de violência armada na região metropolitana do Rio de Janeiro e de Recife&amp;rdquo;.&lt;/p&gt;
