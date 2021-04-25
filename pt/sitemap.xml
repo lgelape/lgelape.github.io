@@ -482,6 +482,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="menu"
+                href="/menu/tag/fhc/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="pt"
                 href="/tag/fhc/"
                 />
@@ -514,6 +519,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="menu"
+                href="/menu/tag/politica-local/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="pt"
                 href="/tag/politica-local/"
                 />
@@ -524,6 +534,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/tag/sao-paulo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="menu"
+                href="/menu/tag/sao-paulo/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -658,11 +673,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="menu"
-                href="/menu/tag/marielle-franco/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="pt"
                 href="/tag/marielle-franco/"
                 />
@@ -673,11 +683,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/tag/psol/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="menu"
-                href="/menu/tag/psol/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -707,32 +712,18 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="menu"
-                href="/menu/tag/rio-de-janeiro/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="pt"
                 href="/tag/rio-de-janeiro/"
                 />
   </url><url>
-    <loc>/publication-type/6/</loc>
-    <lastmod>2016-03-01T00:00:00+00:00</lastmod>
+    <loc>/publication-type/7/</loc>
+    <lastmod>2017-01-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tag/consultoria-legislativa/</loc>
-    <lastmod>2016-03-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication/almg/</loc>
-    <lastmod>2016-03-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tag/estudos-legislativos/</loc>
-    <lastmod>2016-03-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/fabiana-de-menezes-soares/</loc>
-    <lastmod>2016-03-01T00:00:00+00:00</lastmod>
+    <loc>/publication/dissertacao/</loc>
+    <lastmod>2017-01-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication_types/</loc>
-    <lastmod>2016-03-01T00:00:00+00:00</lastmod>
+    <lastmod>2017-01-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -750,6 +741,24 @@
                 />
   </url><url>
     <loc>/publication/</loc>
+    <lastmod>2017-01-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/vereadores/</loc>
+    <lastmod>2017-01-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication-type/6/</loc>
+    <lastmod>2016-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/consultoria-legislativa/</loc>
+    <lastmod>2016-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/almg/</loc>
+    <lastmod>2016-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/estudos-legislativos/</loc>
+    <lastmod>2016-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/fabiana-de-menezes-soares/</loc>
     <lastmod>2016-03-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/blog/direito_ufmg/</loc>
@@ -764,27 +773,6 @@
                 hreflang="pt"
                 href="/blog/direito_ufmg/"
                 />
-  </url><url>
-    <loc>/publication-type/1/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tag/art-theory/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tag/art-theory-and-politics/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication/art_politics/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tag/philosophy-of-law/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tag/political-theory/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/thiago-alvares-feital/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/categories/</loc>
     <xhtml:link

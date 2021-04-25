@@ -435,9 +435,24 @@
   </url><url>
     <loc>/en/tag/electoral-reform/</loc>
     <lastmod>2020-09-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="menu"
+                href="/menu/tag/electoral-reform/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tag/electoral-reform/"
+                />
   </url><url>
     <loc>/en/tag/fhc/</loc>
     <lastmod>2020-09-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="menu"
+                href="/menu/tag/fhc/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -451,9 +466,29 @@
   </url><url>
     <loc>/en/tag/political-reform/</loc>
     <lastmod>2020-09-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="menu"
+                href="/menu/tag/political-reform/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tag/political-reform/"
+                />
   </url><url>
     <loc>/en/tag/reelection/</loc>
     <lastmod>2020-09-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="menu"
+                href="/menu/tag/reelection/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tag/reelection/"
+                />
   </url><url>
     <loc>/en/blog/vantagens_reeleicao/</loc>
     <lastmod>2020-09-24T00:00:00+00:00</lastmod>
@@ -483,9 +518,24 @@
   </url><url>
     <loc>/en/tag/local-politics/</loc>
     <lastmod>2020-04-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="menu"
+                href="/menu/tag/local-politics/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tag/local-politics/"
+                />
   </url><url>
     <loc>/en/tag/politica-local/</loc>
     <lastmod>2020-04-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="menu"
+                href="/menu/tag/politica-local/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -499,6 +549,11 @@
   </url><url>
     <loc>/en/tag/sao-paulo/</loc>
     <lastmod>2020-04-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="menu"
+                href="/menu/tag/sao-paulo/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -624,24 +679,9 @@
   </url><url>
     <loc>/en/tag/electoral-geography/</loc>
     <lastmod>2018-03-17T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="menu"
-                href="/menu/tag/electoral-geography/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tag/electoral-geography/"
-                />
   </url><url>
     <loc>/en/tag/marielle-franco/</loc>
     <lastmod>2018-03-17T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="menu"
-                href="/menu/tag/marielle-franco/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -657,11 +697,6 @@
     <lastmod>2018-03-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="menu"
-                href="/menu/tag/psol/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="pt"
                 href="/tag/psol/"
                 />
@@ -673,11 +708,6 @@
   </url><url>
     <loc>/en/tag/rio-de-janeiro/</loc>
     <lastmod>2018-03-17T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="menu"
-                href="/menu/tag/rio-de-janeiro/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"

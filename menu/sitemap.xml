@@ -302,6 +302,121 @@
                 href="/menu/tag/local-elections/"
                 />
   </url><url>
+    <loc>/menu/tag/electoral-reform/</loc>
+    <lastmod>2020-09-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tag/electoral-reform/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="menu"
+                href="/menu/tag/electoral-reform/"
+                />
+  </url><url>
+    <loc>/menu/tag/fhc/</loc>
+    <lastmod>2020-09-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tag/fhc/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/tag/fhc/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="menu"
+                href="/menu/tag/fhc/"
+                />
+  </url><url>
+    <loc>/menu/tag/political-reform/</loc>
+    <lastmod>2020-09-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tag/political-reform/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="menu"
+                href="/menu/tag/political-reform/"
+                />
+  </url><url>
+    <loc>/menu/tag/reelection/</loc>
+    <lastmod>2020-09-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tag/reelection/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="menu"
+                href="/menu/tag/reelection/"
+                />
+  </url><url>
+    <loc>/menu/en/blog/vantagens_reeleicao/</loc>
+    <lastmod>2020-09-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/menu/en/blog/geografia_eleicoes/</loc>
+    <lastmod>2020-08-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/menu/tag/local-politics/</loc>
+    <lastmod>2020-04-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tag/local-politics/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="menu"
+                href="/menu/tag/local-politics/"
+                />
+  </url><url>
+    <loc>/menu/tag/politica-local/</loc>
+    <lastmod>2020-04-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tag/politica-local/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/tag/politica-local/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="menu"
+                href="/menu/tag/politica-local/"
+                />
+  </url><url>
+    <loc>/menu/tag/sao-paulo/</loc>
+    <lastmod>2020-04-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tag/sao-paulo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/tag/sao-paulo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="menu"
+                href="/menu/tag/sao-paulo/"
+                />
+  </url><url>
+    <loc>/menu/en/blog/sp_covid19/</loc>
+    <lastmod>2020-04-07T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/menu/tag/g1/</loc>
     <lastmod>2018-11-10T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -322,76 +437,6 @@
   </url><url>
     <loc>/menu/en/blog/materias_g1/</loc>
     <lastmod>2018-11-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/menu/tag/electoral-geography/</loc>
-    <lastmod>2018-03-17T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tag/electoral-geography/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="menu"
-                href="/menu/tag/electoral-geography/"
-                />
-  </url><url>
-    <loc>/menu/tag/marielle-franco/</loc>
-    <lastmod>2018-03-17T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tag/marielle-franco/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="/tag/marielle-franco/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="menu"
-                href="/menu/tag/marielle-franco/"
-                />
-  </url><url>
-    <loc>/menu/tag/psol/</loc>
-    <lastmod>2018-03-17T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tag/psol/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="/tag/psol/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="menu"
-                href="/menu/tag/psol/"
-                />
-  </url><url>
-    <loc>/menu/tag/rio-de-janeiro/</loc>
-    <lastmod>2018-03-17T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tag/rio-de-janeiro/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="/tag/rio-de-janeiro/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="menu"
-                href="/menu/tag/rio-de-janeiro/"
-                />
-  </url><url>
-    <loc>/menu/en/blog/marielle_franco/</loc>
-    <lastmod>2018-03-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/menu/en/blog/direito_ufmg/</loc>
     <lastmod>2015-01-14T00:00:00+00:00</lastmod>
@@ -414,6 +459,8 @@
                 />
   </url><url>
     <loc>/menu/en/courses/</loc>
+  </url><url>
+    <loc>/menu/en/authors/admin/</loc>
   </url><url>
     <loc>/menu/publication_types/</loc>
     <xhtml:link

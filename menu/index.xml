@@ -56,6 +56,43 @@
     </item>
     
     <item>
+      <title>The advantages of reelection</title>
+      <link>/menu/en/blog/vantagens_reeleicao/</link>
+      <pubDate>Thu, 24 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/menu/en/blog/vantagens_reeleicao/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www1.folha.uol.com.br/opiniao/2020/09/as-vantagens-da-reeleicao.shtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Article published at &lt;em&gt;Folha de S. Paulo&lt;/em&gt;&lt;/a&gt;, on 24 sep. 2020. I contest former president Fernando Henrique Cardoso&amp;rsquo;s objection to reelection.&lt;/p&gt;
+&lt;p&gt;There is considerable evidence in the literature that reelection might not imply electoral or financial advantages, as well as it can induce the elected behavior and be an instrument of accountability.&lt;/p&gt;
+&lt;p&gt;So, I suggest caution on reform proposals, but also institutional creativity in case legislators decide to pursue this theme.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Electoral Geography</title>
+      <link>/menu/en/blog/geografia_eleicoes/</link>
+      <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/menu/en/blog/geografia_eleicoes/</guid>
+      <description>&lt;p&gt;In August 2020, I participated in a &amp;ldquo;live&amp;rdquo; about electoral geography, in the &lt;a href=&#34;https://www.youtube.com/playlist?list=PLnOtuNzPX7Jf9rpfvzIHa6ZlQLnnXKpz2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;We R Live&lt;/a&gt; series (about spatial analysis with R) from the &lt;a href=&#34;https://www.youtube.com/channel/UCLAeX4dyujMoy4xqHvxSDpQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Geocast&lt;/a&gt; channel. In my presentation, I talked about how political science uses geography (theoretically and methodologically) to study elections, especially in Brazil. I also discussed the strengths and weaknesses of using R in these analyses.&lt;/p&gt;
+&lt;p&gt;To those interested in learning more about using R for spatial analysis, Geocast&amp;rsquo;s &amp;ldquo;We R Live&amp;rdquo; series is an excellent starting point. Over the last few years, there was a shortage of materials on how to use R for this goal, especially in Portuguese. Since the development of the &lt;a href=&#34;https://r-spatial.github.io/sf/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;code&gt;sf&lt;/code&gt;&lt;/a&gt;, this has been changing and this series is an excellent example of this trend.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/KN4kkvKkb_w&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>São Paulo: subnational alignment and challenges from Covid-19 in the country&#39;s largest city</title>
+      <link>/menu/en/blog/sp_covid19/</link>
+      <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/menu/en/blog/sp_covid19/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://nepolufjf.wordpress.com/2020/04/07/sao-paulo-alinhamento-subnacional-e-os-desafios-do-combate-a-covid-19-na-maior-cidade-do-pais/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;How did the city of São Paulo respond to the first weeks&#39; challenges of the new coronavirus pandemic?&lt;/a&gt;.
+In this blog post, I described the first measures taken by mayor Bruno Covas (PSDB) and his relationship with governor João Doria (PSDB). I also discussed the main health, social care, and urban transportation policies during this period. To conclude, I pointed out some of the challenges the city was poised to face: how to maintain isolation policies, reach vulnerable populations, increase testing and hospital capacities, and planning the economy reopening.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://nepolufjf.wordpress.com/2020/04/07/sao-paulo-alinhamento-subnacional-e-os-desafios-do-combate-a-covid-19-na-maior-cidade-do-pais/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;This post was published on April 7th, 2020, in Portuguese (original title &amp;ldquo;São Paulo: alinhamento subnacional e os desafios do combate à Covid-19 na maior cidade do país&amp;rdquo;)&lt;/a&gt; in the blog series &lt;a href=&#34;https://nepolufjf.wordpress.com/os-governos-municipais-frente-ao-coronavirus/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Municipal governments facing the coronavirus&amp;rdquo;&lt;/a&gt; from the Study Group on Local Politics (NEPOL), Federal University of Juiz de Fora.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>News stories on G1</title>
       <link>/menu/en/blog/materias_g1/</link>
       <pubDate>Sat, 10 Nov 2018 00:00:00 +0000</pubDate>
@@ -136,18 +173,6 @@
 &lt;p&gt;&lt;a href=&#34;https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/08/15/proporcao-de-eleitores-com-voto-facultativo-nas-eleicoes-e-a-mais-baixa-das-ultimas-eleicoes.ghtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Proportion of voters that are not required to vote is the lowest in the last election&lt;/a&gt;. Original: Proporção de eleitores com voto facultativo é a mais baixa das últimas eleições. 15 aug. 2018. (com Clara Velasco e Leandro Oliveira)&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Territorial Representation and Marielle Franco</title>
-      <link>/menu/en/blog/marielle_franco/</link>
-      <pubDate>Sat, 17 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>/menu/en/blog/marielle_franco/</guid>
-      <description>&lt;p&gt;In March 2018, after a news website published a short note Marielle Franco&amp;rsquo;s number of votes at the Maré neighborhood, I published an analysis on &lt;em&gt;Medium&lt;/em&gt; called &lt;a href=&#34;https://medium.com/@lgelape/representa%C3%A7%C3%A3o-territorial-e-marielle-franco-b1884061bf1c&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Territorial Representation and Marielle Franco&lt;/em&gt;&lt;/a&gt; (in Portuguese), which showed how her votes were distributed across the city of Rio de Janeiro.&lt;/p&gt;
-&lt;p&gt;In the text, I discuss some precautions and data issues for spatial analysis of Brazilian elections, and I also present some ideas on &amp;ldquo;territorial representation&amp;rdquo;.&lt;/p&gt;
-&lt;p&gt;Code used in the analysis is available &lt;a href=&#34;https://github.com/lgelape/texto_mariellefranco&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;in a repo on my GitHub profile&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;./vereadores_PSOL.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
