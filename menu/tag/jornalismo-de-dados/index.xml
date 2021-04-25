@@ -5,7 +5,7 @@
     <link>/menu/tag/jornalismo-de-dados/</link>
       <atom:link href="/menu/tag/jornalismo-de-dados/index.xml" rel="self" type="application/rss+xml" />
     <description>Jornalismo de Dados</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><copyright>© 2021</copyright><lastBuildDate>Thu, 23 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><copyright>© 2021</copyright><lastBuildDate>Mon, 12 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hu1d16897e3fa93fcb083438e47d0c5cbc_11292_512x512_fill_lanczos_center_2.png</url>
       <title>Jornalismo de Dados</title>
@@ -13,24 +13,18 @@
     </image>
     
     <item>
-      <title>Projects - Volt Data Lab</title>
-      <link>/menu/en/blog/voltdatalab/</link>
-      <pubDate>Thu, 23 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/menu/en/blog/voltdatalab/</guid>
-      <description>&lt;p&gt;As a data analyst at &lt;a href=&#34;https://www.voltdata.info/en-lg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Volt Data Lab&lt;/a&gt;, I participated in some projects that involved data collection, analysis and visualization, from many different sources.&lt;/p&gt;
+      <title>Science Pulse</title>
+      <link>/menu/en/blog/science_pulse/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/menu/en/blog/science_pulse/</guid>
+      <description>&lt;p&gt;Sou responsável pelo desenvolvimento dos algoritmos de curadoria de conteúdo e &lt;a href=&#34;https://sciencepulse.org/app/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;do aplicativo web&lt;/a&gt;, escrito com base em &lt;code&gt;Shiny&lt;/code&gt;, do &lt;a href=&#34;https://sciencepulse.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Science Pulse&lt;/a&gt;. Trata-se de uma ferramenta multiplataforma de &lt;em&gt;social listening&lt;/em&gt; da comunidade científica nas redes sociais, com o objetivo principal de conectar jornalistas com fontes na comunidade científica, que produzam conteúdo para as redes sociais. Atualmente, ela monitora contas de pesquisadores e instituições no Twitter, e de instituições no Facebook.&lt;/p&gt;
+&lt;p&gt;O aplicativo é &lt;em&gt;open-source&lt;/em&gt; e o código-fonte das versões pode ser acessado &lt;a href=&#34;https://github.com/voltdatalab/science-pulse-public&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;neste repositório do GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;O Science Pulse é um projeto desenvolvido pelo Volt Data Lab, com apoio do International Center for Journalists (ICFJ). Ele é liderado por Sérgio Spagnuolo, Knight Fellow do ICFJ e fundador do Volt.&lt;/p&gt;
+&lt;p&gt;A partir de dados coletados com o Science Pulse, também contribuí para a produção de matérias no Núcleo Jornalismo:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://sciencepulse.org/index&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Science Pulse&lt;/a&gt;: online tool to connect journalists to scientific conversation in social media, by finding content from a list of trustworthy sources of experts/researchers who engage on social media (mainly on Twitter). This project involved working with R on remote servers and Shiny.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://lgelape.github.io/software/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R Packages&lt;/a&gt;: two packages to extract data from APIs developed by Volt Data Lab: &lt;a href=&#34;https://github.com/sergiospagnuolo/pollingBR/blob/master/vignettes/Introduction_pollingBR.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;code&gt;pollingBR&lt;/code&gt;&lt;/a&gt;, which gets data about electoral polls compiled by news website Poder360; and &lt;a href=&#34;https://github.com/sergiospagnuolo/crossfire/blob/master/Introduction_crossfire.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;code&gt;crossfire&lt;/code&gt;&lt;/a&gt;, that gets data about gun shootings in Rio de Janeiro and Recife&amp;rsquo;s metropolitan areas, collected by the Fogo Cruzado initiative.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.voltdata.info/conteudo/2019/estatsticas-de-podcasts&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Data and statics on podcasts in Brazil, 2019 (in Portuguese)&lt;/a&gt;: report produced by Sérgio Spagnuolo and I, in which we collected and analysed data on Brazilian and International podcasts hosted on &lt;a href=&#34;https://www.pocketcasts.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pocket Casts&lt;/a&gt;. Data was collected in July and August, 2019 and the &lt;a href=&#34;https://github.com/sergiospagnuolo/pesquisa-podcasts&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code can be found on GitHub&lt;/a&gt;.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://tierraderesistentes.com/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Terra de Resistentes&lt;/a&gt;: collaborative project which investigates threats to environmental leaders and their communities in seven countries on Latin America. I contributed with data analysis and visualization on &lt;a href=&#34;https://tierraderesistentes.com/en/index.php/2020/03/06/el-cercado-indigena/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;threats to indigenous communities in Rondônia&lt;/a&gt;. This story involved data analysis from indigenous lands, deforestation, illegal roads, hidrography, mining and rural lands.&lt;/p&gt;
-&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://nucleo.jor.br/redes/2021-03-11-ciencia-dispara-twitter-divulgadores&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Em meio ao caos, ciência brasileira floresce no Twitter&lt;/em&gt;&lt;/a&gt; (com Alexandre Orrico), 11 mar. 2021;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://nucleo.jor.br/reportagem/2021-03-25-butantan-comunicao-digital&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;De cobras a funk: a guinada na comunicação do Butantan&lt;/em&gt;&lt;/a&gt; (com Laís Martins), 25 mar. 2021;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://nucleo.jor.br/curtas/2021-04-06-vazamento-facebook-dados-repercussao-twitter&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Campanha de especialistas busca mobilizar redes em favor de lockdown&lt;/em&gt;&lt;/a&gt;, 06 abr. 2021.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

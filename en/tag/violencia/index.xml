@@ -17,7 +17,7 @@
       <link>/en/blog/voltdatalab/</link>
       <pubDate>Thu, 23 Jul 2020 00:00:00 +0000</pubDate>
       <guid>/en/blog/voltdatalab/</guid>
-      <description>&lt;p&gt;As a data analyst at &lt;a href=&#34;https://www.voltdata.info/en-lg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Volt Data Lab&lt;/a&gt;, I participated in some projects that involved data collection, analysis and visualization, from many different sources.&lt;/p&gt;
+      <description>&lt;p&gt;As a data analyst at &lt;a href=&#34;https://www.voltdata.info/en-lg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Volt Data Lab&lt;/a&gt;, I participate in some projects that involved data collection, analysis and visualization, from many different sources.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;a href=&#34;https://sciencepulse.org/index&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Science Pulse&lt;/a&gt;: online tool to connect journalists to scientific conversation in social media, by finding content from a list of trustworthy sources of experts/researchers who engage on social media (mainly on Twitter). This project involved working with R on remote servers and Shiny.&lt;/p&gt;

@@ -2,44 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/en/tag/amazon/</loc>
-    <lastmod>2020-07-23T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="/tag/amazon/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="menu"
-                href="/menu/tag/amazon/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tag/amazon/"
-                />
-  </url><url>
-    <loc>/en/tag/amazonia/</loc>
-    <lastmod>2020-07-23T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="/tag/amazonia/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="menu"
-                href="/menu/tag/amazonia/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tag/amazonia/"
-                />
-  </url><url>
     <loc>/en/authors/</loc>
-    <lastmod>2020-07-23T00:00:00+00:00</lastmod>
+    <lastmod>2021-04-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -57,7 +21,7 @@
                 />
   </url><url>
     <loc>/en/blog/</loc>
-    <lastmod>2020-07-23T00:00:00+00:00</lastmod>
+    <lastmod>2021-04-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -69,26 +33,8 @@
                 href="/en/blog/"
                 />
   </url><url>
-    <loc>/en/tag/comunidades-indigenas/</loc>
-    <lastmod>2020-07-23T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="/tag/comunidades-indigenas/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="menu"
-                href="/menu/tag/comunidades-indigenas/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tag/comunidades-indigenas/"
-                />
-  </url><url>
     <loc>/en/tag/coronavirus/</loc>
-    <lastmod>2020-07-23T00:00:00+00:00</lastmod>
+    <lastmod>2021-04-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -106,7 +52,7 @@
                 />
   </url><url>
     <loc>/en/tag/covid-19/</loc>
-    <lastmod>2020-07-23T00:00:00+00:00</lastmod>
+    <lastmod>2021-04-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -124,7 +70,7 @@
                 />
   </url><url>
     <loc>/en/tag/data-journalism/</loc>
-    <lastmod>2020-07-23T00:00:00+00:00</lastmod>
+    <lastmod>2021-04-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -142,7 +88,7 @@
                 />
   </url><url>
     <loc>/en/tag/ddj/</loc>
-    <lastmod>2020-07-23T00:00:00+00:00</lastmod>
+    <lastmod>2021-04-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -160,12 +106,7 @@
                 />
   </url><url>
     <loc>/en/tag/elections/</loc>
-    <lastmod>2020-07-23T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="/tag/elections/"
-                />
+    <lastmod>2021-04-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="menu"
@@ -173,48 +114,30 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="pt"
+                href="/tag/elections/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="/en/tag/elections/"
                 />
   </url><url>
-    <loc>/en/tag/eleicoes/</loc>
-    <lastmod>2020-07-23T00:00:00+00:00</lastmod>
+    <loc>/en/blog/destaques/</loc>
+    <lastmod>2021-04-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="/tag/eleicoes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="menu"
-                href="/menu/tag/eleicoes/"
+                href="/blog/destaques/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tag/eleicoes/"
-                />
-  </url><url>
-    <loc>/en/tag/jornalismo-de-dados/</loc>
-    <lastmod>2020-07-23T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="/tag/jornalismo-de-dados/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="menu"
-                href="/menu/tag/jornalismo-de-dados/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tag/jornalismo-de-dados/"
+                href="/en/blog/destaques/"
                 />
   </url><url>
     <loc>/en/</loc>
-    <lastmod>2020-07-23T00:00:00+00:00</lastmod>
+    <lastmod>2021-04-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -232,7 +155,7 @@
                 />
   </url><url>
     <loc>/en/author/lucas-gelape/</loc>
-    <lastmod>2020-07-23T00:00:00+00:00</lastmod>
+    <lastmod>2021-04-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -249,29 +172,21 @@
                 href="/en/author/lucas-gelape/"
                 />
   </url><url>
-    <loc>/en/tag/podcasts/</loc>
-    <lastmod>2020-07-23T00:00:00+00:00</lastmod>
+    <loc>/en/tag/r/</loc>
+    <lastmod>2021-04-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="/tag/podcasts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="menu"
-                href="/menu/tag/podcasts/"
+                href="/tag/r/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tag/podcasts/"
+                href="/en/tag/r/"
                 />
   </url><url>
-    <loc>/en/blog/voltdatalab/</loc>
-    <lastmod>2020-07-23T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/en/tag/science/</loc>
-    <lastmod>2020-07-23T00:00:00+00:00</lastmod>
+    <lastmod>2021-04-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -288,8 +203,34 @@
                 href="/en/tag/science/"
                 />
   </url><url>
+    <loc>/en/blog/science_pulse/</loc>
+    <lastmod>2021-04-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/blog/science_pulse/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/blog/science_pulse/"
+                />
+  </url><url>
+    <loc>/en/tag/shiny/</loc>
+    <lastmod>2021-04-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/tag/shiny/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tag/shiny/"
+                />
+  </url><url>
     <loc>/en/tags/</loc>
-    <lastmod>2020-07-23T00:00:00+00:00</lastmod>
+    <lastmod>2021-04-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -307,7 +248,7 @@
                 />
   </url><url>
     <loc>/en/tag/twitter/</loc>
-    <lastmod>2020-07-23T00:00:00+00:00</lastmod>
+    <lastmod>2021-04-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -324,44 +265,8 @@
                 href="/en/tag/twitter/"
                 />
   </url><url>
-    <loc>/en/tag/violence/</loc>
-    <lastmod>2020-07-23T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="/tag/violence/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="menu"
-                href="/menu/tag/violence/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tag/violence/"
-                />
-  </url><url>
-    <loc>/en/tag/violencia/</loc>
-    <lastmod>2020-07-23T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="/tag/violencia/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="menu"
-                href="/menu/tag/violencia/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tag/violencia/"
-                />
-  </url><url>
     <loc>/en/tag/volt-data-lab/</loc>
-    <lastmod>2020-07-23T00:00:00+00:00</lastmod>
+    <lastmod>2021-04-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -378,26 +283,239 @@
                 href="/en/tag/volt-data-lab/"
                 />
   </url><url>
-    <loc>/en/tag/local-politics/</loc>
-    <lastmod>2020-04-07T00:00:00+00:00</lastmod>
+    <loc>/en/tag/amazon/</loc>
+    <lastmod>2021-04-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="menu"
-                href="/menu/tag/local-politics/"
+                href="/menu/tag/amazon/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/tag/amazon/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tag/local-politics/"
+                href="/en/tag/amazon/"
                 />
   </url><url>
-    <loc>/en/tag/politica-local/</loc>
-    <lastmod>2020-04-07T00:00:00+00:00</lastmod>
+    <loc>/en/tag/facebook/</loc>
+    <lastmod>2021-04-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/tag/facebook/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tag/facebook/"
+                />
+  </url><url>
+    <loc>/en/blog/nucleo_politica/</loc>
+    <lastmod>2021-04-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/blog/nucleo_politica/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/blog/nucleo_politica/"
+                />
+  </url><url>
+    <loc>/en/blog/nucleo_redes/</loc>
+    <lastmod>2021-04-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/blog/nucleo_redes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/blog/nucleo_redes/"
+                />
+  </url><url>
+    <loc>/en/tag/podcasts/</loc>
+    <lastmod>2021-04-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="menu"
-                href="/menu/tag/politica-local/"
+                href="/menu/tag/podcasts/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/tag/podcasts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tag/podcasts/"
+                />
+  </url><url>
+    <loc>/en/blog/voltdatalab/</loc>
+    <lastmod>2021-04-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/blog/voltdatalab/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/blog/voltdatalab/"
+                />
+  </url><url>
+    <loc>/en/tag/violence/</loc>
+    <lastmod>2021-04-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="menu"
+                href="/menu/tag/violence/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/tag/violence/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tag/violence/"
+                />
+  </url><url>
+    <loc>/en/tag/2020-elections/</loc>
+    <lastmod>2020-10-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/tag/2020-elections/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tag/2020-elections/"
+                />
+  </url><url>
+    <loc>/en/blog/pandemia_eleicoes/</loc>
+    <lastmod>2020-10-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/blog/pandemia_eleicoes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/blog/pandemia_eleicoes/"
+                />
+  </url><url>
+    <loc>/en/tag/local-elections/</loc>
+    <lastmod>2020-10-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/tag/local-elections/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tag/local-elections/"
+                />
+  </url><url>
+    <loc>/en/tag/electoral-reform/</loc>
+    <lastmod>2020-09-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="menu"
+                href="/menu/tag/electoral-reform/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tag/electoral-reform/"
+                />
+  </url><url>
+    <loc>/en/tag/fhc/</loc>
+    <lastmod>2020-09-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="menu"
+                href="/menu/tag/fhc/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/tag/fhc/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tag/fhc/"
+                />
+  </url><url>
+    <loc>/en/tag/political-reform/</loc>
+    <lastmod>2020-09-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="menu"
+                href="/menu/tag/political-reform/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tag/political-reform/"
+                />
+  </url><url>
+    <loc>/en/tag/reelection/</loc>
+    <lastmod>2020-09-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="menu"
+                href="/menu/tag/reelection/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tag/reelection/"
+                />
+  </url><url>
+    <loc>/en/blog/vantagens_reeleicao/</loc>
+    <lastmod>2020-09-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/blog/vantagens_reeleicao/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/blog/vantagens_reeleicao/"
+                />
+  </url><url>
+    <loc>/en/blog/geografia_eleicoes/</loc>
+    <lastmod>2020-08-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/blog/geografia_eleicoes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/blog/geografia_eleicoes/"
+                />
+  </url><url>
+    <loc>/en/tag/local-politics/</loc>
+    <lastmod>2020-04-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/en/tag/politica-local/</loc>
+    <lastmod>2020-04-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -413,11 +531,6 @@
     <lastmod>2020-04-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="menu"
-                href="/menu/tag/sao-paulo/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="pt"
                 href="/tag/sao-paulo/"
                 />
@@ -429,27 +542,22 @@
   </url><url>
     <loc>/en/blog/sp_covid19/</loc>
     <lastmod>2020-04-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/en/tag/covid19/</loc>
-    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="menu"
-                href="/menu/tag/covid19/"
+                hreflang="pt"
+                href="/blog/sp_covid19/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tag/covid19/"
+                href="/en/blog/sp_covid19/"
                 />
+  </url><url>
+    <loc>/en/tag/covid19/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/en/tag/executive-approval/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="menu"
-                href="/menu/tag/executive-approval/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -465,11 +573,6 @@
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="menu"
-                href="/menu/tag/jair-bolsonaro/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="pt"
                 href="/tag/jair-bolsonaro/"
                 />
@@ -481,11 +584,6 @@
   </url><url>
     <loc>/en/tag/presidential-popularity/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="menu"
-                href="/menu/tag/presidential-popularity/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -501,11 +599,6 @@
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="menu"
-                href="/menu/tag/rally-round-the-flag/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="pt"
                 href="/tag/rally-round-the-flag/"
                 />
@@ -517,9 +610,24 @@
   </url><url>
     <loc>/en/blog/bolsonaro_aprovacao/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/blog/bolsonaro_aprovacao/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/blog/bolsonaro_aprovacao/"
+                />
   </url><url>
     <loc>/en/tag/g1/</loc>
     <lastmod>2018-11-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="menu"
+                href="/menu/tag/g1/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -533,27 +641,22 @@
   </url><url>
     <loc>/en/blog/materias_g1/</loc>
     <lastmod>2018-11-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/en/tag/electoral-geography/</loc>
-    <lastmod>2018-03-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="menu"
-                href="/menu/tag/electoral-geography/"
+                hreflang="pt"
+                href="/blog/materias_g1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tag/electoral-geography/"
+                href="/en/blog/materias_g1/"
                 />
+  </url><url>
+    <loc>/en/tag/electoral-geography/</loc>
+    <lastmod>2018-03-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/en/tag/marielle-franco/</loc>
     <lastmod>2018-03-17T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="menu"
-                href="/menu/tag/marielle-franco/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -569,11 +672,6 @@
     <lastmod>2018-03-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="menu"
-                href="/menu/tag/psol/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="pt"
                 href="/tag/psol/"
                 />
@@ -587,11 +685,6 @@
     <lastmod>2018-03-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="menu"
-                href="/menu/tag/rio-de-janeiro/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="pt"
                 href="/tag/rio-de-janeiro/"
                 />
@@ -603,9 +696,29 @@
   </url><url>
     <loc>/en/blog/marielle_franco/</loc>
     <lastmod>2018-03-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/blog/marielle_franco/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/blog/marielle_franco/"
+                />
   </url><url>
     <loc>/en/blog/direito_ufmg/</loc>
     <lastmod>2015-01-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/blog/direito_ufmg/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/blog/direito_ufmg/"
+                />
   </url><url>
     <loc>/en/categories/</loc>
     <xhtml:link

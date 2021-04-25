@@ -67,6 +67,7 @@
       <guid>/blog/nucleo_redes/</guid>
       <description>&lt;p&gt;No &lt;a href=&#34;https://nucleo.jor.br/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Núcleo Jornalismo&lt;/a&gt;, contribuo com a análise de dados e, eventualmente, reportagem. Recentemente, a linha editorial do Núcleo se dedica a cobrir o impacto das redes sociais na sociedade. As matérias de redes sociais em que eu participei foram:&lt;/p&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://nucleo.jor.br/especiais/2021-04-15-influencers-armas-instagram&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Armas viram moeda de influência no Instagram&lt;/em&gt;&lt;/a&gt; (com Laís Martins), 15 abr. 2021;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://nucleo.jor.br/reportagem/2021-04-08-tabata-amaral-esquerda-ataques&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;As redes de esquerda odeiam Tabata Amaral. Por quê?&lt;/em&gt;&lt;/a&gt; (com Sérgio Spagnuolo e Laís Martins), 08 abr. 2021;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://nucleo.jor.br/reportagem/2021-04-01-facebook-comercio-armas&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Facebook ainda é usado para comprar e vender armas no Brasil&lt;/em&gt;&lt;/a&gt;, 01 abr. 2021;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://nucleo.jor.br/curtas/2021-04-06-vazamento-facebook-dados-repercussao-twitter&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Campanha de especialistas busca mobilizar redes em favor de lockdown&lt;/em&gt;&lt;/a&gt;, 06 abr. 2021;&lt;/li&gt;
@@ -84,13 +85,13 @@
       <description>&lt;p&gt;Como analista de dados no &lt;a href=&#34;https://www.voltdata.info/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Volt Data Lab&lt;/a&gt;, participei de projetos que envolveram coleta, análise e visualização de dados de diversas fontes.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;/blog/science_pulse/&#34;&gt;Science Pulse&lt;/a&gt;: &lt;a href=&#34;https://sciencepulse.org/app&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ferramenta online&lt;/a&gt; para conectar jornalistas à conversa científica nas redes sociais, por meio da disponibilização de postagens de uma lista de fontes (instituições científicas, pesquisadores, cientistas e afins) que se engajam nas redes (especialmente no Twitter). Este projeto envolveu programação em R em servidores remotos e desenvolvimento de aplicativo em Shiny.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;/blog/science_pulse/&#34;&gt;Science Pulse&lt;/a&gt;: &lt;a href=&#34;https://sciencepulse.org/app&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ferramenta online&lt;/a&gt; para conectar jornalistas à conversa científica nas redes sociais, por meio da disponibilização de postagens de uma lista de fontes (instituições científicas, pesquisadores, cientistas e afins) que se engajam nas redes (especialmente no Twitter). Este projeto envolveu programação em R em servidores remotos e desenvolvimento de aplicativo em &lt;code&gt;Shiny&lt;/code&gt;.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;a href=&#34;https://nucleo.jor.br/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Núcleo Jornalismo&lt;/a&gt;: contribuo com a análise de dados e, eventualmente, reportagem de matérias publicadas no Núcleo Jornalismo. Recentemente, a linha editorial do Núcleo se dedica a cobrir o impacto das redes sociais na sociedade, mas participei de matérias com outros enfoques. Minhas participações envolveram matérias sobre &lt;a href=&#34;/blog/nucleo_politica/&#34;&gt;política&lt;/a&gt; e &lt;a href=&#34;/blog/nucleo_redes/&#34;&gt;redes sociais&lt;/a&gt;.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;/software/&#34;&gt;Pacotes em R&lt;/a&gt;: desenvolvi dois pacotes que permitem extrair dados em APIs produzidas pelo Volt Data Lab: o &lt;code&gt;pollingBR&lt;/code&gt;, com dados de pesquisas eleitorais compiladas pelo Poder360; &lt;code&gt;crossfire&lt;/code&gt;, com dados de tiroteios nas regiões metropolitanas do Rio de Janeiro e Recife produzidos pelo Fogo Cruzado; e &lt;code&gt;newsatlasbr&lt;/code&gt;, que extrai dados do Atlas da Notícia.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;/software/&#34;&gt;Pacotes em R&lt;/a&gt;: desenvolvi dois pacotes que permitem extrair dados em APIs produzidas pelo Volt Data Lab: o &lt;a href=&#34;https://github.com/sergiospagnuolo/pollingBR&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;code&gt;pollingBR&lt;/code&gt;&lt;/a&gt;, com dados de pesquisas eleitorais compiladas pelo Poder360; &lt;a href=&#34;https://github.com/voltdatalab/crossfire&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;code&gt;crossfire&lt;/code&gt;&lt;/a&gt;, com dados de tiroteios nas regiões metropolitanas do Rio de Janeiro e Recife produzidos pelo Fogo Cruzado; e &lt;a href=&#34;https://github.com/voltdatalab/newsatlasbr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;code&gt;newsatlasbr&lt;/code&gt;&lt;/a&gt;, que extrai dados do Atlas da Notícia.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;a href=&#34;https://tierraderesistentes.com/pt/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Terra de Resistentes&lt;/a&gt;: projeto colaborativo que investigou ameaças a líderes ambientais e suas comunidades em sete países da América Latina. Contribuí com a análise e visualização de dados sobre &lt;a href=&#34;https://tierraderesistentes.com/pt/index.php/2020/03/06/el-cercado-indigena/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ameaças à comunidades indígenas em Rondônia&lt;/a&gt;. Esta matéria envolveu análise de dados de terras indígenas, desmatamento, estradas ilegais, hidrografia, processos de mineração e imóveis rurais. O projeto foi finalista na categoria &amp;ldquo;Cobertura&amp;rdquo; do &lt;a href=&#34;https://premioggm.org/premio-gabo/edicion/2020/trabajos/cobertura/tierra-de-resistentes/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prêmio Gabo 2020&lt;/a&gt;.&lt;/p&gt;
@@ -103,12 +104,12 @@
     </item>
     
     <item>
-      <title>Como a pandemia afeta as eleições?</title>
+      <title>Como a pandemia afeta as eleições</title>
       <link>/blog/pandemia_eleicoes/</link>
       <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
       <guid>/blog/pandemia_eleicoes/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://noticias.uol.com.br/colunas/observatorio-das-eleicoes/2020/10/15/como-a-pandemia-afeta-as-eleicoes.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Neste artigo&lt;/a&gt;, avalio como as evidências científicas sobre eleições realizadas ao redor do mundo durante a pandemia de Covid-19 podem jogar luz o que esperar deste cenário nas eleições locais brasileiras de 2020.&lt;/p&gt;
-&lt;p&gt;Artigo publicado na seção &amp;ldquo;Observatório das Eleições&amp;rdquo; do &lt;em&gt;UOL&lt;/em&gt;, em 15 out. 2020, iniciativa do INCT - Instituto de Democracia e da Democratização da Comunicação.&lt;/p&gt;
+&lt;p&gt;Artigo publicado na seção “Observatório das Eleições” do UOL, em 15 out. 2020, iniciativa do INCT - Instituto de Democracia e da Democratização da Comunicação.&lt;/p&gt;
 </description>
     </item>
     
@@ -117,8 +118,7 @@
       <link>/blog/vantagens_reeleicao/</link>
       <pubDate>Thu, 24 Sep 2020 00:00:00 +0000</pubDate>
       <guid>/blog/vantagens_reeleicao/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www1.folha.uol.com.br/opiniao/2020/09/as-vantagens-da-reeleicao.shtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Artigo publicado na seção &amp;ldquo;Tendências e Debates&amp;rdquo; da &lt;em&gt;Folha de S. Paulo&lt;/em&gt;&lt;/a&gt;, em 24 set. 2020.&lt;/p&gt;
-&lt;p&gt;Em resposta ao artigo &amp;ldquo;Reeleição e crises&amp;rdquo;, de autoria do ex-presidente Fernando Henrique Cardoso, em que ele faz um mea-culpa em relação à introdução, defendo que existem evidências científicas de que a reeleição pode não dar vantagens aos mandatários, bem como induzir comportamento dos eleitos e servir como instrumento de punição aos eleitos. Sugiro então cautela nas propostas de reforma, bem como mais criatividade institucional, como os legisladores decidam prosseguir no tema.&lt;/p&gt;
+      <description>&lt;p&gt;&lt;a href=&#34;https://www1.folha.uol.com.br/opiniao/2020/09/as-vantagens-da-reeleicao.shtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Artigo publicado na seção &amp;ldquo;Tendências e Debates&amp;rdquo; da &lt;em&gt;Folha de S. Paulo&lt;/em&gt;&lt;/a&gt;, em 24 set. 2020. Trata-se de uma resposta ao artigo &amp;ldquo;Reeleição e crises&amp;rdquo;, de autoria do ex-presidente Fernando Henrique Cardoso, em que ele faz um mea-culpa em relação à introdução do instituto. Defendo que existem evidências científicas de que a reeleição pode não dar vantagens aos mandatários, bem como induzir comportamento dos eleitos e servir como instrumento de punição aos eleitos. Sugiro então cautela nas propostas de reforma, bem como mais criatividade institucional, caso legisladores decidam prosseguir no tema.&lt;/p&gt;
 </description>
     </item>
     
@@ -128,7 +128,7 @@
       <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
       <guid>/blog/geografia_eleicoes/</guid>
       <description>&lt;p&gt;Participei em uma live sobre geografia eleitoral, na série de vídeos &lt;a href=&#34;https://www.youtube.com/playlist?list=PLnOtuNzPX7Jf9rpfvzIHa6ZlQLnnXKpz2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;We R Live&lt;/a&gt; (sobre análise espacial com R) do canal &lt;a href=&#34;https://www.youtube.com/channel/UCLAeX4dyujMoy4xqHvxSDpQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Geocast&lt;/a&gt;. Na minha apresentação, falei sobre como a Ciência Política utiliza aspectos geográficos para estudar eleições, especialmente no Brasil. Além disso, também discuti os pontos fortes e fracos do uso do R para essas análises.&lt;/p&gt;
-&lt;p&gt;Os slides da minha apresentação estão disponíveis &lt;a href=&#34;geografia_eleitoral_slides.pdf&#34;&gt;aqui&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Os slides da minha apresentação estão disponíveis &lt;a href=&#34;/slides/geografia_eleitoral_slides.pdf&#34;&gt;aqui&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Para os interessados em aprender mais sobre como usar o R para análises espaciais, a série do Geocast é uma excelente pedida. Nos últimos anos, havia um déficit de material didático sobre o assunto, especialmente em português. Desde a maior popularização do &lt;a href=&#34;https://r-spatial.github.io/sf/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;code&gt;sf&lt;/code&gt;&lt;/a&gt;, isso vem mudando e esses vídeos são um ótimo exemplo deste movimento.&lt;/p&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
@@ -165,7 +165,8 @@
       <link>/blog/materias_g1/</link>
       <pubDate>Sat, 10 Nov 2018 00:00:00 +0000</pubDate>
       <guid>/blog/materias_g1/</guid>
-      <description>&lt;p&gt;No período de julho a novembro de 2018, trabalhei no &lt;a href=&#34;https://g1.globo.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;G1&lt;/a&gt;, onde contribuí para uma série de matérias sobre política - em especial sobre as eleições.&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;./g1.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;No período de julho a novembro de 2018, trabalhei no &lt;a href=&#34;https://g1.globo.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;G1&lt;/a&gt;, onde contribuí para uma série de matérias sobre política - em especial sobre as eleições.&lt;/p&gt;
 &lt;p&gt;Neste &lt;em&gt;post&lt;/em&gt;, reúno os links das matérias das quais participei. A maior parte delas foi publicada na seção &amp;ldquo;&lt;a href=&#34;https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Eleição em números&lt;/a&gt;&amp;rdquo; e envolveram diversos temas, como financiamento de partidos e campanhas, cotas de candidaturas femininas, reeleição, pesquisas eleitorais, perfil dos candidatos e do eleitorado e resultados eleitorais.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -257,26 +258,17 @@
     </item>
     
     <item>
-      <title>A geografia do voto em eleições municipais no sistema eleitoral de lista aberta: um estudo a partir de Belo Horizonte, Rio de Janeiro e São Paulo</title>
-      <link>/publication/dissertacao/</link>
-      <pubDate>Fri, 20 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/dissertacao/</guid>
+      <title>Anacronismo do Sistema Proporcional de Lista Aberta no Brasil: ocaso das razões originárias de sua adoção</title>
+      <link>/publication/anacronismo_lista_aberta/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/anacronismo_lista_aberta/</guid>
       <description>&lt;ul&gt;
-&lt;li&gt;GELAPE, Lucas. &lt;strong&gt;A geografia do voto em eleições municipais no sistema eleitoral de lista aberta: um estudo a partir de Belo Horizonte, Rio de Janeiro e São Paulo&lt;/strong&gt;. Dissertação de Mestrado – Universidade Federal de Minas Gerais, Belo Horizonte, 2017.&lt;/li&gt;
+&lt;li&gt;PEREIRA, Rodolfo Viana; GELAPE, Lucas. Anacronismo do Sistema Proporcional de Lista Aberta no Brasil: ocaso das razões originárias de sua adoção. &lt;strong&gt;Revista de Informação Legislativa&lt;/strong&gt;, Brasília, v. 52, n. 205, p. 261–279, mar. 2015.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Resumo:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Esta dissertação investiga a distribuição espacial dos votos dos vereadores eleitos nos municípios de São Paulo, Rio de Janeiro e Belo Horizonte, nas eleições de 2008 e 2012. Seu objetivo principal é identificar padrões de votações desses políticos, apresentando umadiscussão acerca dos principais meios apontados pela literatura para tal caracterização. Assim, o trabalho oferece contribuições a três correntes de estudos da ciência política: (1) geografia eleitoral; (2) funcionamento do sistema eleitoral de lista aberta; e (3) política em nívelmunicipal. Inicialmente, realiza-se uma revisão dos principais estudos concernentes à dissertação, assentando as bases teóricas do trabalho. Em seguida, apresenta-se o desenho da pesquisa, ressaltando-se que a estratégia adotada para a identificação de padrões de votação éa classificação dos vereadores segundo a tipologia proposta por Barry Ames, que consiste em classificar os candidatos em quatro tipos, de acordo com duas dimensões (horizontal e vertical) da distribuição espacial dos votos: (1) concentrados-dominantes; (2) concentradoscompartilhados; (3) dispersos-compartilhados; e (4) dispersos-dominantes. São discutidos ainda os índices utilizados pela literatura para a classificação dos candidatos nos tipos indicados. Por fim, são relatados os resultados empíricos encontrados na pesquisa,destacando-se a escolha feita pelo autor acerca de quais índices e modos de classificação parecem ser os mais adequados para a mensuração de cada dimensão nos casos estudados. Osresultados encontrados indicam uma estabilidade do número de vereadores de cada tipo, em um mesmo município, entre os dois pleitos analisados; e ainda uma predominância do tipo disperso-compartilhado em todos os municípios e eleições analisadas.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Consultoria Legislativa da ALMG: o Amicus curiae do processo legislativo?</title>
-      <link>/publication/almg/</link>
-      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/almg/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;SOARES, Fabiana de Menezes; GELAPE, Lucas. Consultoria Legislativa da ALMG: o Amicus curiae do processo legislativo? In: SANTOS, Manoel Leonardo; ANASTASIA, Fátima (org.). &lt;strong&gt;Política e Desenvolvimento Institucional no Legislativo de Minas Gerais&lt;/strong&gt;. Belo Horizonte: Editora PUC Minas, 2016. p. 381–413.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sumário:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Introdução. 2. O sistema eleitoral de lista aberta no Brasil. 2.1. Características gerais e funcionamento da lista aberta brasileira. 2.2. Críticas ao sistema eleitoral brasileiro de representação proporcional. 3. A introdução da lista aberta no Brasil. 3.1. O Código Eleitoral de 1932. 3.2. A experiência eleitoral com o Código de 1932 e a reforma da legislação. 4. Críticas à base de justificação e manutenção do sistema eleitoral de lista aberta no Brasil. 5. Considerações finais.&lt;/li&gt;
+&lt;/ol&gt;
 </description>
     </item>
     
@@ -285,7 +277,7 @@
       <link>/blog/direito_ufmg/</link>
       <pubDate>Wed, 14 Jan 2015 00:00:00 +0000</pubDate>
       <guid>/blog/direito_ufmg/</guid>
-      <description>&lt;p&gt;Em janeiro de 2015, junto com Amanda Cristina Viana, fui um dos oradores da turma de formandos do 2º semestre de 2014 do curso de graduação em Direito da Faculdade de Direito da UFMG. Gentilmente, a &lt;em&gt;Revista da Faculdade de Direito da UFMG&lt;/em&gt; publicou nossa fala na seção de &lt;em&gt;Memória Histórica&lt;/em&gt; do &lt;a href=&#34;https://www.direito.ufmg.br/revista/index.php/revista/article/view/1691&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;n. 66 da revista&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;Em janeiro de 2015, junto com Amanda Cristina Viana, fui um dos oradores da turma de formandos do 2º semestre de 2014 do curso de graduação em Direito da Faculdade de Direito da UFMG. Gentilmente, a &lt;em&gt;Revista da Faculdade de Direito da UFMG&lt;/em&gt; publicou nossa fala na seção de &lt;em&gt;Memória Histórica&lt;/em&gt; do &lt;a href=&#34;https://revista.direito.ufmg.br/index.php/revista/article/view/1691&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;n. 66 da revista&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

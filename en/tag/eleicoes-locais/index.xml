@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eleições locais | Lucas Gelape</title>
+    <link>/en/tag/eleicoes-locais/</link>
+      <atom:link href="/en/tag/eleicoes-locais/index.xml" rel="self" type="application/rss+xml" />
+    <description>Eleições locais</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><copyright>© 2021</copyright><lastBuildDate>Thu, 15 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu1d16897e3fa93fcb083438e47d0c5cbc_11292_512x512_fill_lanczos_center_2.png</url>
+      <title>Eleições locais</title>
+      <link>/en/tag/eleicoes-locais/</link>
+    </image>
+    
+    <item>
+      <title>Como a pandemia afeta as eleições?</title>
+      <link>/en/blog/pandemia_eleicoes/</link>
+      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/en/blog/pandemia_eleicoes/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://noticias.uol.com.br/colunas/observatorio-das-eleicoes/2020/10/15/como-a-pandemia-afeta-as-eleicoes.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Neste artigo&lt;/a&gt;, avalio como as evidências científicas sobre eleições realizadas ao redor do mundo durante a pandemia de Covid-19 podem jogar luz o que esperar deste cenário nas eleições locais brasileiras de 2020.&lt;/p&gt;
+&lt;p&gt;Artigo publicado na seção &amp;ldquo;Observatório das Eleições&amp;rdquo; do &lt;em&gt;UOL&lt;/em&gt;, em 15 out. 2020, iniciativa do INCT - Instituto de Democracia e da Democratização da Comunicação.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
