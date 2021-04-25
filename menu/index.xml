@@ -5,45 +5,12 @@
     <link>/menu/</link>
       <atom:link href="/menu/index.xml" rel="self" type="application/rss+xml" />
     <description>Lucas Gelape</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><copyright>© 2021</copyright><lastBuildDate>Mon, 12 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><copyright>© 2021</copyright><lastBuildDate>Thu, 15 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hu1d16897e3fa93fcb083438e47d0c5cbc_11292_512x512_fill_lanczos_center_2.png</url>
       <title>Lucas Gelape</title>
       <link>/menu/</link>
     </image>
-    
-    <item>
-      <title>Highlights</title>
-      <link>/menu/en/blog/destaques/</link>
-      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>/menu/en/blog/destaques/</guid>
-      <description>&lt;p&gt;These are some of my work&amp;rsquo;s highlights. They are a combination of articles, data analysis, presentations, and tools that I produced over the years.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;/en/blog/vantagens_reeleicao/&#34;&gt;The advantages of reelection&lt;/a&gt; (in Portuguese): op-ed published on &lt;em&gt;Folha de S. Paulo&lt;/em&gt;, in reply to former president Fernando Henrique Cardoso&amp;rsquo;s article against reelection;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/en/blog/science_pulse/&#34;&gt;Science Pulse&lt;/a&gt;: app web development in &lt;code&gt;Shiny&lt;/code&gt; from this scientific community social listening tool;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/en/blog/bolsonaro_aprovacao/&#34;&gt;Unlike other world leaders, Bolsonaro&amp;rsquo;s evaluation does not change during the pandemic&lt;/a&gt; (in Portuguese): analysis published on Núcleo Jornalismo, which was mentioned by other news outlets, such as &lt;em&gt;Jornal Nacional&lt;/em&gt; and &lt;em&gt;Folha de S. Paulo&lt;/em&gt;;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/en/blog/materias_g1/&#34;&gt;News stories published on G1&lt;/a&gt; (in Portuguese): I point out 3 stories that brought new angles to stories that were covered by other news outlets. &lt;a href=&#34;https://g1.globo.com/politica/noticia/2018/07/29/em-23-das-cidades-do-pais-partidos-nao-declaram-despesas-de-2017.ghtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;In 2/3 of the cities, parties do not report their 2017 expenses&lt;/em&gt;&lt;/a&gt; shows how parties organize across the country, trying to understand why they might not declare those expenses. &lt;a href=&#34;https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/10/08/numero-de-policiais-e-militares-no-legislativo-e-quatro-vezes-maior-do-que-o-de-2014.ghtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;The number of policemen and military elected for Legislative seats is four times higher than in 2014&lt;/em&gt;&lt;/a&gt; (with Gabriela Caesar and Ana Carolina Moreno) showed, on the night of the first round of the 2018 elections, that this number signaled the strength from the rightists&#39; politicians coming from the polls. &lt;a href=&#34;https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/11/07/resultados-da-votacao-por-urna-mostram-dobradinhas-na-maioria-dos-estados-no-2o-turno.ghtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Results by electoral precint shows partnerships (&amp;ldquo;dobradinhas&amp;rdquo;) in the 2nd round of most states&lt;/em&gt;&lt;/a&gt; uses very disaggregated data to better understand the second-round results from 2018.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/en/blog/geografia_eleicoes/&#34;&gt;Geocast&lt;/a&gt;: &lt;em&gt;live&lt;/em&gt; where I discuss the research on Electoral Geography and how R can help on it.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Núcleo Jornalismo - Social Media</title>
-      <link>/menu/en/blog/nucleo_redes/</link>
-      <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>/menu/en/blog/nucleo_redes/</guid>
-      <description>&lt;p&gt;At &lt;a href=&#34;https://nucleo.jor.br/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Núcleo Jornalismo&lt;/a&gt;, I contribute with data analysis and, occasionally, writing the stories. Recently, the website&amp;rsquo;s focus is the impact of social media on society. The news stories on social (all in Portuguese) that I participated in are:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://nucleo.jor.br/especiais/2021-04-15-influencers-armas-instagram&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Guns are used for digital influence on Instagram&lt;/em&gt;&lt;/a&gt; (with Laís Martins), 15 apr. 2021;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://nucleo.jor.br/reportagem/2021-04-08-tabata-amaral-esquerda-ataques&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Leftist social media hate Tabata Amaral. Why?&lt;/em&gt;&lt;/a&gt; (with Sérgio Spagnuolo and Laís Martins), 08 apr. 2021;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://nucleo.jor.br/curtas/2021-04-06-vazamento-facebook-dados-repercussao-twitter&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Experts mobilizing on social media in favor of lockdown&lt;/em&gt;&lt;/a&gt;, 06 apr. 2021;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://nucleo.jor.br/reportagem/2021-04-01-facebook-comercio-armas&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Facebook is still used to buy and sell guns in Brazil&lt;/em&gt;&lt;/a&gt;, 01 apr. 2021;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://nucleo.jor.br/reportagem/2021-03-25-butantan-comunicao-digital&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;From snakes to funk: the shift on Instituto Butantan&amp;rsquo;s communication&lt;/em&gt;&lt;/a&gt; (with Laís Martins), 25 mar. 2021;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://nucleo.jor.br/redes/2021-03-11-ciencia-dispara-twitter-divulgadores&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;In the midst of chaos, Brazilian science flourishes on  Twitter&lt;/em&gt;&lt;/a&gt; (with Alexandre Orrico), 11 mar. 2021.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
     
     <item>
       <title>How does the pandemic affects elections?</title>
@@ -56,39 +23,12 @@
     </item>
     
     <item>
-      <title>The advantages of reelection</title>
-      <link>/menu/en/blog/vantagens_reeleicao/</link>
-      <pubDate>Thu, 24 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/menu/en/blog/vantagens_reeleicao/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www1.folha.uol.com.br/opiniao/2020/09/as-vantagens-da-reeleicao.shtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Article published at &lt;em&gt;Folha de S. Paulo&lt;/em&gt;&lt;/a&gt;, on 24 sep. 2020. I contest former president Fernando Henrique Cardoso&amp;rsquo;s objection to reelection.&lt;/p&gt;
-&lt;p&gt;There is considerable evidence in the literature that reelection might not imply electoral or financial advantages, as well as it can induce the elected behavior and be an instrument of accountability.&lt;/p&gt;
-&lt;p&gt;So, I suggest caution on reform proposals, but also institutional creativity in case legislators decide to pursue this theme.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Electoral Geography</title>
-      <link>/menu/en/blog/geografia_eleicoes/</link>
-      <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/menu/en/blog/geografia_eleicoes/</guid>
-      <description>&lt;p&gt;In August 2020, I participated in a &amp;ldquo;live&amp;rdquo; about electoral geography, in the &lt;a href=&#34;https://www.youtube.com/playlist?list=PLnOtuNzPX7Jf9rpfvzIHa6ZlQLnnXKpz2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;We R Live&lt;/a&gt; series (about spatial analysis with R) from the &lt;a href=&#34;https://www.youtube.com/channel/UCLAeX4dyujMoy4xqHvxSDpQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Geocast&lt;/a&gt; channel. In my presentation, I talked about how political science uses geography (theoretically and methodologically) to study elections, especially in Brazil. I also discussed the strengths and weaknesses of using R in these analyses.&lt;/p&gt;
-&lt;p&gt;To those interested in learning more about using R for spatial analysis, Geocast&amp;rsquo;s &amp;ldquo;We R Live&amp;rdquo; series is an excellent starting point. Over the last few years, there was a shortage of materials on how to use R for this goal, especially in Portuguese. Since the development of the &lt;a href=&#34;https://r-spatial.github.io/sf/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;code&gt;sf&lt;/code&gt;&lt;/a&gt;, this has been changing and this series is an excellent example of this trend.&lt;/p&gt;
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/KN4kkvKkb_w&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-</description>
-    </item>
-    
-    <item>
-      <title>São Paulo: subnational alignment and challenges from Covid-19 in the country&#39;s largest city</title>
-      <link>/menu/en/blog/sp_covid19/</link>
-      <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/menu/en/blog/sp_covid19/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://nepolufjf.wordpress.com/2020/04/07/sao-paulo-alinhamento-subnacional-e-os-desafios-do-combate-a-covid-19-na-maior-cidade-do-pais/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;How did the city of São Paulo respond to the first weeks&#39; challenges of the new coronavirus pandemic?&lt;/a&gt;.
-In this blog post, I described the first measures taken by mayor Bruno Covas (PSDB) and his relationship with governor João Doria (PSDB). I also discussed the main health, social care, and urban transportation policies during this period. To conclude, I pointed out some of the challenges the city was poised to face: how to maintain isolation policies, reach vulnerable populations, increase testing and hospital capacities, and planning the economy reopening.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://nepolufjf.wordpress.com/2020/04/07/sao-paulo-alinhamento-subnacional-e-os-desafios-do-combate-a-covid-19-na-maior-cidade-do-pais/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;This post was published on April 7th, 2020, in Portuguese (original title &amp;ldquo;São Paulo: alinhamento subnacional e os desafios do combate à Covid-19 na maior cidade do país&amp;rdquo;)&lt;/a&gt; in the blog series &lt;a href=&#34;https://nepolufjf.wordpress.com/os-governos-municipais-frente-ao-coronavirus/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Municipal governments facing the coronavirus&amp;rdquo;&lt;/a&gt; from the Study Group on Local Politics (NEPOL), Federal University of Juiz de Fora.&lt;/p&gt;
+      <title>Unlike other world leaders, Bolsonaro&#39;s evaluation does not change during the pandemic</title>
+      <link>/menu/en/blog/bolsonaro_aprovacao/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/menu/en/blog/bolsonaro_aprovacao/</guid>
+      <description>&lt;p&gt;How did Jair Bolsonaro&amp;rsquo;s evaluation was compared to other world leaders in the first weeks of the new coronavirus pandemic? &lt;a href=&#34;https://nucleo.jor.br/pesquisas/2020-04-01-popularidade-bolsonaro-lideres-coronavirus&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;By comparing surveys about the Brazilian president&amp;rsquo;s approval rating with others from seven world leaders&lt;/a&gt;, I found that, unlike the others, Bolsonaro was the only one who did not get a bump on his approval ratings in the period. I analyzed the result from the perspective of the &lt;em&gt;rally-round-the-flag effect&lt;/em&gt; which can explain political leaders&#39; sudden increase in approval during hard times.&lt;/p&gt;
+&lt;p&gt;Analysis published in portuguese on &lt;em&gt;Núcleo Jornalismo&lt;/em&gt;, on April 1st, 2020. Original title: &lt;em&gt;Na contramão de outros líderes, avaliação de Bolsonaro fica estagnada durante pandemia&lt;/em&gt;. &lt;a href=&#34;https://docs.google.com/spreadsheets/d/1v5-qq_4eLAi-Putcgc7pTkdcCUR5q97wuWZr0JQqwXE/edit#gid=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Data&lt;/a&gt; and &lt;a href=&#34;https://gist.github.com/lgelape/7022068fe55e18c7a100cfceb01a70d9&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code&lt;/a&gt; are available on the hyperlinks.&lt;/p&gt;
 </description>
     </item>
     
@@ -173,6 +113,18 @@ In this blog post, I described the first measures taken by mayor Bruno Covas (PS
 &lt;p&gt;&lt;a href=&#34;https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/08/15/proporcao-de-eleitores-com-voto-facultativo-nas-eleicoes-e-a-mais-baixa-das-ultimas-eleicoes.ghtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Proportion of voters that are not required to vote is the lowest in the last election&lt;/a&gt;. Original: Proporção de eleitores com voto facultativo é a mais baixa das últimas eleições. 15 aug. 2018. (com Clara Velasco e Leandro Oliveira)&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Territorial Representation and Marielle Franco</title>
+      <link>/menu/en/blog/marielle_franco/</link>
+      <pubDate>Sat, 17 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/menu/en/blog/marielle_franco/</guid>
+      <description>&lt;p&gt;In March 2018, after a news website published a short note Marielle Franco&amp;rsquo;s number of votes at the Maré neighborhood, I published an analysis on &lt;em&gt;Medium&lt;/em&gt; called &lt;a href=&#34;https://medium.com/@lgelape/representa%C3%A7%C3%A3o-territorial-e-marielle-franco-b1884061bf1c&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Territorial Representation and Marielle Franco&lt;/em&gt;&lt;/a&gt; (in Portuguese), which showed how her votes were distributed across the city of Rio de Janeiro.&lt;/p&gt;
+&lt;p&gt;In the text, I discuss some precautions and data issues for spatial analysis of Brazilian elections, and I also present some ideas on &amp;ldquo;territorial representation&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;Code used in the analysis is available &lt;a href=&#34;https://github.com/lgelape/texto_mariellefranco&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;in a repo on my GitHub profile&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./vereadores_PSOL.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
