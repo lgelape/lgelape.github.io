@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Local Elections | Lucas Gelape</title>
+    <link>/menu/tag/local-elections/</link>
+      <atom:link href="/menu/tag/local-elections/index.xml" rel="self" type="application/rss+xml" />
+    <description>Local Elections</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><copyright>© 2021</copyright><lastBuildDate>Thu, 15 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu1d16897e3fa93fcb083438e47d0c5cbc_11292_512x512_fill_lanczos_center_2.png</url>
+      <title>Local Elections</title>
+      <link>/menu/tag/local-elections/</link>
+    </image>
+    
+    <item>
+      <title>How does the pandemic affects elections?</title>
+      <link>/menu/en/blog/pandemia_eleicoes/</link>
+      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/menu/en/blog/pandemia_eleicoes/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://noticias.uol.com.br/colunas/observatorio-das-eleicoes/2020/10/15/como-a-pandemia-afeta-as-eleicoes.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;In this article&lt;/a&gt; (in Portuguese), I evaluate the scientific evidence about the impact of Covid-19 on worldwide elections, to think how might they apply to the Brazilian 2020 local elections.&lt;/p&gt;
+&lt;p&gt;The article was published on the &amp;ldquo;Electoral Observatory&amp;rdquo; section of &lt;em&gt;UOL&lt;/em&gt;, a Brazilian news website, on October, 15th, 2020.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

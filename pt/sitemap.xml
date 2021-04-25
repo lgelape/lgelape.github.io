@@ -185,11 +185,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="menu"
-                href="/menu/tag/science/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="pt"
                 href="/tag/science/"
                 />
@@ -283,11 +278,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="menu"
-                href="/menu/tag/amazon/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="pt"
                 href="/tag/amazon/"
                 />
@@ -367,11 +357,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="menu"
-                href="/menu/tag/podcasts/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="pt"
                 href="/tag/podcasts/"
                 />
@@ -401,11 +386,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="menu"
-                href="/menu/tag/violence/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="pt"
                 href="/tag/violence/"
                 />
@@ -419,6 +399,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/tag/2020-elections/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="menu"
+                href="/menu/tag/2020-elections/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -445,6 +430,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/tag/local-elections/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="menu"
+                href="/menu/tag/local-elections/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -514,6 +504,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="menu"
+                href="/menu/tag/politica-local/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="pt"
                 href="/tag/politica-local/"
                 />
@@ -524,6 +519,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/tag/sao-paulo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="menu"
+                href="/menu/tag/sao-paulo/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -556,6 +556,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="menu"
+                href="/menu/tag/executive-approval/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="pt"
                 href="/tag/executive-approval/"
                 />
@@ -566,6 +571,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/tag/jair-bolsonaro/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="menu"
+                href="/menu/tag/jair-bolsonaro/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -598,6 +608,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="menu"
+                href="/menu/tag/presidential-popularity/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="pt"
                 href="/tag/presidential-popularity/"
                 />
@@ -611,6 +626,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="menu"
+                href="/menu/tag/rally-round-the-flag/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="pt"
                 href="/tag/rally-round-the-flag/"
                 />
@@ -621,11 +641,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/tag/g1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="menu"
-                href="/menu/tag/g1/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -658,6 +673,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="menu"
+                href="/menu/tag/marielle-franco/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="pt"
                 href="/tag/marielle-franco/"
                 />
@@ -668,6 +688,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/tag/psol/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="menu"
+                href="/menu/tag/psol/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -697,24 +722,32 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="menu"
+                href="/menu/tag/rio-de-janeiro/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="pt"
                 href="/tag/rio-de-janeiro/"
                 />
   </url><url>
-    <loc>/publication-type/2/</loc>
-    <lastmod>2015-03-01T00:00:00+00:00</lastmod>
+    <loc>/publication-type/6/</loc>
+    <lastmod>2016-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/anacronismo_lista_aberta/</loc>
-    <lastmod>2015-03-01T00:00:00+00:00</lastmod>
+    <loc>/tag/consultoria-legislativa/</loc>
+    <lastmod>2016-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tag/codigo-eleitoral-de-1932/</loc>
-    <lastmod>2015-03-01T00:00:00+00:00</lastmod>
+    <loc>/publication/almg/</loc>
+    <lastmod>2016-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tag/lista-aberta/</loc>
-    <lastmod>2015-03-01T00:00:00+00:00</lastmod>
+    <loc>/tag/estudos-legislativos/</loc>
+    <lastmod>2016-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/fabiana-de-menezes-soares/</loc>
+    <lastmod>2016-03-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication_types/</loc>
-    <lastmod>2015-03-01T00:00:00+00:00</lastmod>
+    <lastmod>2016-03-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -732,13 +765,7 @@
                 />
   </url><url>
     <loc>/publication/</loc>
-    <lastmod>2015-03-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/rodolfo-viana-pereira/</loc>
-    <lastmod>2015-03-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tag/sistema-eleitoral/</loc>
-    <lastmod>2015-03-01T00:00:00+00:00</lastmod>
+    <lastmod>2016-03-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/blog/direito_ufmg/</loc>
     <lastmod>2015-01-14T00:00:00+00:00</lastmod>

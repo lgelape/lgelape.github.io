@@ -28,28 +28,23 @@
     </item>
     
     <item>
-      <title>Projects - Volt Data Lab</title>
-      <link>/menu/en/blog/voltdatalab/</link>
-      <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>/menu/en/blog/voltdatalab/</guid>
-      <description>&lt;p&gt;As a data analyst at &lt;a href=&#34;https://www.voltdata.info/en-lg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Volt Data Lab&lt;/a&gt;, I participate in some projects that involved data collection, analysis, and visualization, from many different sources.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;/en/blog/science_pulse/&#34;&gt;Science Pulse&lt;/a&gt;: an online tool to connect journalists to the scientific conversation in social media, by finding content from a list of trustworthy sources of experts/researchers who engage on social media (mainly on Twitter). This project involved working with R on remote servers and Shiny.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://nucleo.jor.br/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Núcleo Jornalismo&lt;/a&gt;: data analysis and, eventually, write stories published at &lt;em&gt;Núcleo Jornalismo&lt;/em&gt;. Recently, &lt;em&gt;Núcleo&lt;/em&gt; has focused on the impacts of social media on society, but I also produced stories about other topics. My contributions were on stories on &lt;a href=&#34;/en/blog/nucleo_politica/&#34;&gt;politics&lt;/a&gt; and &lt;a href=&#34;/en/blog/nucleo_redes/&#34;&gt;social media&lt;/a&gt;.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;/en/software/&#34;&gt;R Packages&lt;/a&gt;: three packages to extract data from APIs developed by Volt Data Lab: &lt;a href=&#34;https://github.com/sergiospagnuolo/pollingBR/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;code&gt;pollingBR&lt;/code&gt;&lt;/a&gt;, which gets data about electoral polls compiled by news website Poder360;  &lt;a href=&#34;https://github.com/voltdatalab/crossfire&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;code&gt;crossfire&lt;/code&gt;&lt;/a&gt;, which gets data about gun shootings in Rio de Janeiro and Recife&amp;rsquo;s metropolitan areas, collected by the Fogo Cruzado initiative; and &lt;a href=&#34;https://github.com/voltdatalab/newsatlasbr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;code&gt;newsatlasbr&lt;/code&gt;&lt;/a&gt;, which extracts data from the Brazilian News Atlas.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.voltdata.info/conteudo/2019/estatsticas-de-podcasts&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Data and statics on podcasts in Brazil, 2019 (in Portuguese)&lt;/a&gt;: report produced by Sérgio Spagnuolo and I, in which we collected and analyzed data on Brazilian and International podcasts hosted on &lt;a href=&#34;https://www.pocketcasts.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pocket Casts&lt;/a&gt;. Data were collected in July and August 2019 and the &lt;a href=&#34;https://github.com/sergiospagnuolo/pesquisa-podcasts&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code can be found on GitHub&lt;/a&gt;.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://tierraderesistentes.com/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Terra de Resistentes&lt;/a&gt;: a collaborative project which investigates threats to environmental leaders and their communities in seven countries in Latin America. I contributed with data analysis and visualization on &lt;a href=&#34;https://tierraderesistentes.com/en/index.php/2020/03/06/el-cercado-indigena/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;threats to indigenous communities in Rondônia&lt;/a&gt;. This story involved data analysis from indigenous lands, deforestation, illegal roads, hydrography, mining, and rural lands.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
+      <title>How does the pandemic affects elections?</title>
+      <link>/menu/en/blog/pandemia_eleicoes/</link>
+      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/menu/en/blog/pandemia_eleicoes/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://noticias.uol.com.br/colunas/observatorio-das-eleicoes/2020/10/15/como-a-pandemia-afeta-as-eleicoes.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;In this article&lt;/a&gt; (in Portuguese), I evaluate the scientific evidence about the impact of Covid-19 on worldwide elections, to think how might they apply to the Brazilian 2020 local elections.&lt;/p&gt;
+&lt;p&gt;The article was published on the &amp;ldquo;Electoral Observatory&amp;rdquo; section of &lt;em&gt;UOL&lt;/em&gt;, a Brazilian news website, on October, 15th, 2020.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>São Paulo: subnational alignment and challenges from Covid-19 in the country&#39;s largest city</title>
+      <link>/menu/en/blog/sp_covid19/</link>
+      <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/menu/en/blog/sp_covid19/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://nepolufjf.wordpress.com/2020/04/07/sao-paulo-alinhamento-subnacional-e-os-desafios-do-combate-a-covid-19-na-maior-cidade-do-pais/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;How did the city of São Paulo respond to the first weeks&#39; challenges of the new coronavirus pandemic?&lt;/a&gt;.
+In this blog post, I described the first measures taken by mayor Bruno Covas (PSDB) and his relationship with governor João Doria (PSDB). I also discussed the main health, social care, and urban transportation policies during this period. To conclude, I pointed out some of the challenges the city was poised to face: how to maintain isolation policies, reach vulnerable populations, increase testing and hospital capacities, and planning the economy reopening.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://nepolufjf.wordpress.com/2020/04/07/sao-paulo-alinhamento-subnacional-e-os-desafios-do-combate-a-covid-19-na-maior-cidade-do-pais/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;This post was published on April 7th, 2020, in Portuguese (original title &amp;ldquo;São Paulo: alinhamento subnacional e os desafios do combate à Covid-19 na maior cidade do país&amp;rdquo;)&lt;/a&gt; in the blog series &lt;a href=&#34;https://nepolufjf.wordpress.com/os-governos-municipais-frente-ao-coronavirus/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Municipal governments facing the coronavirus&amp;rdquo;&lt;/a&gt; from the Study Group on Local Politics (NEPOL), Federal University of Juiz de Fora.&lt;/p&gt;
 </description>
     </item>
     
