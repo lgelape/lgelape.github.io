@@ -149,13 +149,13 @@
     <lastmod>2021-04-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="/en/author/lucas-gelape/"
+                hreflang="menu"
+                href="/menu/author/admin/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="menu"
-                href="/menu/author/admin/"
+                hreflang="en"
+                href="/en/author/lucas-gelape/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -182,6 +182,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/tag/science/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="menu"
+                href="/menu/tag/science/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -318,6 +323,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="menu"
+                href="/menu/tag/facebook/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="pt"
                 href="/tag/facebook/"
                 />
@@ -383,6 +393,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/tag/violence/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="menu"
+                href="/menu/tag/violence/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -467,11 +482,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="menu"
-                href="/menu/tag/fhc/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="pt"
                 href="/tag/fhc/"
                 />
@@ -504,11 +514,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="menu"
-                href="/menu/tag/politica-local/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="pt"
                 href="/tag/politica-local/"
                 />
@@ -519,11 +524,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/tag/sao-paulo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="menu"
-                href="/menu/tag/sao-paulo/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -556,11 +556,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="menu"
-                href="/menu/tag/executive-approval/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="pt"
                 href="/tag/executive-approval/"
                 />
@@ -571,11 +566,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/tag/jair-bolsonaro/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="menu"
-                href="/menu/tag/jair-bolsonaro/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -608,11 +598,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="menu"
-                href="/menu/tag/presidential-popularity/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="pt"
                 href="/tag/presidential-popularity/"
                 />
@@ -626,11 +611,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="menu"
-                href="/menu/tag/rally-round-the-flag/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="pt"
                 href="/tag/rally-round-the-flag/"
                 />
@@ -641,6 +621,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/tag/g1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="menu"
+                href="/menu/tag/g1/"
                 />
     <xhtml:link
                 rel="alternate"

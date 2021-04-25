@@ -28,23 +28,5 @@
 </description>
     </item>
     
-    <item>
-      <title>Science Pulse</title>
-      <link>/menu/en/blog/science_pulse/</link>
-      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>/menu/en/blog/science_pulse/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m responsible for developing the main infrastructure and the curation algorithms for Science Pulse&amp;rsquo;s &lt;a href=&#34;https://sciencepulse.org/app/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;web app&lt;/a&gt;, which was written in &lt;code&gt;Shiny&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;Science Pulse is a social listening platform, which monitors and curates content from scientists, professors, experts, and research institutions on social media (currently on Twitter and Facebook).&lt;/p&gt;
-&lt;p&gt;The app is &lt;em&gt;open-source&lt;/em&gt; and its&#39; source code can be found at &lt;a href=&#34;https://github.com/voltdatalab/science-pulse-public&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;its&#39; GitHub repository&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;The project is developed by Volt Data Lab, supported by the International Center for Journalists (ICFJ) and Agência Bori.&lt;/p&gt;
-&lt;p&gt;Using data collected on Science Pulse, I also produced these news stories for Núcleo Jornalismo:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://nucleo.jor.br/redes/2021-03-11-ciencia-dispara-twitter-divulgadores&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;In the midst of chaos, Brazilian science flourishes on  Twitter&lt;/em&gt;&lt;/a&gt; (with Alexandre Orrico), 11 mar. 2021;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://nucleo.jor.br/reportagem/2021-03-25-butantan-comunicao-digital&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;From snakes to funk: the shift on Instituto Butantan&amp;rsquo;s communication&lt;/em&gt;&lt;/a&gt; (with Laís Martins), 25 mar. 2021;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://nucleo.jor.br/curtas/2021-04-06-vazamento-facebook-dados-repercussao-twitter&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Experts mobilizing on social media in favor of lockdown&lt;/em&gt;&lt;/a&gt;, 06 apr. 2021.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
   </channel>
 </rss>

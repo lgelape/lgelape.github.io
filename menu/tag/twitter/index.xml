@@ -5,7 +5,7 @@
     <link>/menu/tag/twitter/</link>
       <atom:link href="/menu/tag/twitter/index.xml" rel="self" type="application/rss+xml" />
     <description>Twitter</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><copyright>© 2021</copyright><lastBuildDate>Sun, 11 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><copyright>© 2021</copyright><lastBuildDate>Mon, 12 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hu1d16897e3fa93fcb083438e47d0c5cbc_11292_512x512_fill_lanczos_center_2.png</url>
       <title>Twitter</title>
@@ -13,16 +13,34 @@
     </image>
     
     <item>
-      <title>Núcleo Jornalismo - Politics</title>
-      <link>/menu/en/blog/nucleo_politica/</link>
-      <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>/menu/en/blog/nucleo_politica/</guid>
-      <description>&lt;p&gt;At &lt;a href=&#34;https://nucleo.jor.br/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Núcleo Jornalismo&lt;/a&gt;, I contribute with data analysis and, occasionally, writing the stories. The news stories on politics (all in Portuguese) that I participated in are:&lt;/p&gt;
+      <title>Highlights</title>
+      <link>/menu/en/blog/destaques/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/menu/en/blog/destaques/</guid>
+      <description>&lt;p&gt;These are some of my work&amp;rsquo;s highlights. They are a combination of articles, data analysis, presentations, and tools that I produced over the years.&lt;/p&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/en/blog/vantagens_reeleicao/&#34;&gt;The advantages of reelection&lt;/a&gt; (in Portuguese): op-ed published on &lt;em&gt;Folha de S. Paulo&lt;/em&gt;, in reply to former president Fernando Henrique Cardoso&amp;rsquo;s article against reelection;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/en/blog/science_pulse/&#34;&gt;Science Pulse&lt;/a&gt;: app web development in &lt;code&gt;Shiny&lt;/code&gt; from this scientific community social listening tool;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/en/blog/bolsonaro_aprovacao/&#34;&gt;Unlike other world leaders, Bolsonaro&amp;rsquo;s evaluation does not change during the pandemic&lt;/a&gt; (in Portuguese): analysis published on Núcleo Jornalismo, which was mentioned by other news outlets, such as &lt;em&gt;Jornal Nacional&lt;/em&gt; and &lt;em&gt;Folha de S. Paulo&lt;/em&gt;;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/en/blog/materias_g1/&#34;&gt;News stories published on G1&lt;/a&gt; (in Portuguese): I point out 3 stories that brought new angles to stories that were covered by other news outlets. &lt;a href=&#34;https://g1.globo.com/politica/noticia/2018/07/29/em-23-das-cidades-do-pais-partidos-nao-declaram-despesas-de-2017.ghtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;In 2/3 of the cities, parties do not report their 2017 expenses&lt;/em&gt;&lt;/a&gt; shows how parties organize across the country, trying to understand why they might not declare those expenses. &lt;a href=&#34;https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/10/08/numero-de-policiais-e-militares-no-legislativo-e-quatro-vezes-maior-do-que-o-de-2014.ghtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;The number of policemen and military elected for Legislative seats is four times higher than in 2014&lt;/em&gt;&lt;/a&gt; (with Gabriela Caesar and Ana Carolina Moreno) showed, on the night of the first round of the 2018 elections, that this number signaled the strength from the rightists&#39; politicians coming from the polls. &lt;a href=&#34;https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/11/07/resultados-da-votacao-por-urna-mostram-dobradinhas-na-maioria-dos-estados-no-2o-turno.ghtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Results by electoral precint shows partnerships (&amp;ldquo;dobradinhas&amp;rdquo;) in the 2nd round of most states&lt;/em&gt;&lt;/a&gt; uses very disaggregated data to better understand the second-round results from 2018.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/en/blog/geografia_eleicoes/&#34;&gt;Geocast&lt;/a&gt;: &lt;em&gt;live&lt;/em&gt; where I discuss the research on Electoral Geography and how R can help on it.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Núcleo Jornalismo - Social Media</title>
+      <link>/menu/en/blog/nucleo_redes/</link>
+      <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/menu/en/blog/nucleo_redes/</guid>
+      <description>&lt;p&gt;At &lt;a href=&#34;https://nucleo.jor.br/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Núcleo Jornalismo&lt;/a&gt;, I contribute with data analysis and, occasionally, writing the stories. Recently, the website&amp;rsquo;s focus is the impact of social media on society. The news stories on social (all in Portuguese) that I participated in are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://nucleo.jor.br/especiais/2021-04-15-influencers-armas-instagram&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Guns are used for digital influence on Instagram&lt;/em&gt;&lt;/a&gt; (with Laís Martins), 15 apr. 2021;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://nucleo.jor.br/reportagem/2021-04-08-tabata-amaral-esquerda-ataques&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Leftist social media hate Tabata Amaral. Why?&lt;/em&gt;&lt;/a&gt; (with Sérgio Spagnuolo and Laís Martins), 08 apr. 2021;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://nucleo.jor.br/governo/2020-11-28-vereadores-jovens-brasil-2020&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Share of young city councilors keep falling in Brazil&lt;/em&gt;&lt;/a&gt;, 28 nov. 2020;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://nucleo.jor.br/media/2020-11-10-vereadores-reeleicao-desertos-noticia&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;In news deserts, city councilors run more for reelection&lt;/em&gt;&lt;/a&gt;, 10 nov. 2020;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://nucleo.jor.br/pesquisas/2020-04-01-popularidade-bolsonaro-lideres-coronavirus&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Unlike other world leaders, Bolsonaro&amp;rsquo;s evaluation does not change during the pandemic&lt;/em&gt;&lt;/a&gt;, 01 apr. 2020.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://nucleo.jor.br/curtas/2021-04-06-vazamento-facebook-dados-repercussao-twitter&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Experts mobilizing on social media in favor of lockdown&lt;/em&gt;&lt;/a&gt;, 06 apr. 2021;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://nucleo.jor.br/reportagem/2021-04-01-facebook-comercio-armas&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Facebook is still used to buy and sell guns in Brazil&lt;/em&gt;&lt;/a&gt;, 01 apr. 2021;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://nucleo.jor.br/reportagem/2021-03-25-butantan-comunicao-digital&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;From snakes to funk: the shift on Instituto Butantan&amp;rsquo;s communication&lt;/em&gt;&lt;/a&gt; (with Laís Martins), 25 mar. 2021;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://nucleo.jor.br/redes/2021-03-11-ciencia-dispara-twitter-divulgadores&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;In the midst of chaos, Brazilian science flourishes on  Twitter&lt;/em&gt;&lt;/a&gt; (with Alexandre Orrico), 11 mar. 2021.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
