@@ -45,5 +45,48 @@
 </description>
     </item>
     
+    <item>
+      <title>Núcleo Jornalismo - Social Media</title>
+      <link>/menu/en/blog/nucleo_redes/</link>
+      <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/menu/en/blog/nucleo_redes/</guid>
+      <description>&lt;p&gt;At &lt;a href=&#34;https://nucleo.jor.br/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Núcleo Jornalismo&lt;/a&gt;, I contribute with data analysis and, occasionally, writing the stories. Recently, the website&amp;rsquo;s focus is the impact of social media on society. The news stories on social (all in Portuguese) that I participated in are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://nucleo.jor.br/especiais/2021-04-15-influencers-armas-instagram&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Guns are used for digital influence on Instagram&lt;/em&gt;&lt;/a&gt; (with Laís Martins), 15 apr. 2021;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://nucleo.jor.br/reportagem/2021-04-08-tabata-amaral-esquerda-ataques&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Leftist social media hate Tabata Amaral. Why?&lt;/em&gt;&lt;/a&gt; (with Sérgio Spagnuolo and Laís Martins), 08 apr. 2021;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://nucleo.jor.br/curtas/2021-04-06-vazamento-facebook-dados-repercussao-twitter&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Experts mobilizing on social media in favor of lockdown&lt;/em&gt;&lt;/a&gt;, 06 apr. 2021;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://nucleo.jor.br/reportagem/2021-04-01-facebook-comercio-armas&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Facebook is still used to buy and sell guns in Brazil&lt;/em&gt;&lt;/a&gt;, 01 apr. 2021;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://nucleo.jor.br/reportagem/2021-03-25-butantan-comunicao-digital&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;From snakes to funk: the shift on Instituto Butantan&amp;rsquo;s communication&lt;/em&gt;&lt;/a&gt; (with Laís Martins), 25 mar. 2021;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://nucleo.jor.br/redes/2021-03-11-ciencia-dispara-twitter-divulgadores&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;In the midst of chaos, Brazilian science flourishes on  Twitter&lt;/em&gt;&lt;/a&gt; (with Alexandre Orrico), 11 mar. 2021.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Projects - Volt Data Lab</title>
+      <link>/menu/en/blog/voltdatalab/</link>
+      <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/menu/en/blog/voltdatalab/</guid>
+      <description>&lt;p&gt;As a data analyst at &lt;a href=&#34;https://www.voltdata.info/en-lg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Volt Data Lab&lt;/a&gt;, I participate in some projects that involved data collection, analysis, and visualization, from many different sources.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;/en/blog/science_pulse/&#34;&gt;Science Pulse&lt;/a&gt;: an online tool to connect journalists to the scientific conversation in social media, by finding content from a list of trustworthy sources of experts/researchers who engage on social media (mainly on Twitter). This project involved working with R on remote servers and Shiny.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://nucleo.jor.br/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Núcleo Jornalismo&lt;/a&gt;: data analysis and, eventually, write stories published at &lt;em&gt;Núcleo Jornalismo&lt;/em&gt;. Recently, &lt;em&gt;Núcleo&lt;/em&gt; has focused on the impacts of social media on society, but I also produced stories about other topics. My contributions were on stories on &lt;a href=&#34;/en/blog/nucleo_politica/&#34;&gt;politics&lt;/a&gt; and &lt;a href=&#34;/en/blog/nucleo_redes/&#34;&gt;social media&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;/en/software/&#34;&gt;R Packages&lt;/a&gt;: three packages to extract data from APIs developed by Volt Data Lab: &lt;a href=&#34;https://github.com/sergiospagnuolo/pollingBR/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;code&gt;pollingBR&lt;/code&gt;&lt;/a&gt;, which gets data about electoral polls compiled by news website Poder360;  &lt;a href=&#34;https://github.com/voltdatalab/crossfire&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;code&gt;crossfire&lt;/code&gt;&lt;/a&gt;, which gets data about gun shootings in Rio de Janeiro and Recife&amp;rsquo;s metropolitan areas, collected by the Fogo Cruzado initiative; and &lt;a href=&#34;https://github.com/voltdatalab/newsatlasbr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;code&gt;newsatlasbr&lt;/code&gt;&lt;/a&gt;, which extracts data from the Brazilian News Atlas.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.voltdata.info/conteudo/2019/estatsticas-de-podcasts&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Data and statics on podcasts in Brazil, 2019 (in Portuguese)&lt;/a&gt;: report produced by Sérgio Spagnuolo and I, in which we collected and analyzed data on Brazilian and International podcasts hosted on &lt;a href=&#34;https://www.pocketcasts.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pocket Casts&lt;/a&gt;. Data were collected in July and August 2019 and the &lt;a href=&#34;https://github.com/sergiospagnuolo/pesquisa-podcasts&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code can be found on GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://tierraderesistentes.com/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Terra de Resistentes&lt;/a&gt;: a collaborative project which investigates threats to environmental leaders and their communities in seven countries in Latin America. I contributed with data analysis and visualization on &lt;a href=&#34;https://tierraderesistentes.com/en/index.php/2020/03/06/el-cercado-indigena/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;threats to indigenous communities in Rondônia&lt;/a&gt;. This story involved data analysis from indigenous lands, deforestation, illegal roads, hydrography, mining, and rural lands.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>

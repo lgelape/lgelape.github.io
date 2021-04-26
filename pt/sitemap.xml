@@ -149,13 +149,13 @@
     <lastmod>2021-04-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="/en/author/lucas-gelape/"
+                hreflang="menu"
+                href="/menu/author/admin/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="menu"
-                href="/menu/author/admin/"
+                hreflang="en"
+                href="/en/author/lucas-gelape/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -172,6 +172,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="menu"
+                href="/menu/tag/r/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="pt"
                 href="/tag/r/"
                 />
@@ -182,6 +187,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/tag/science/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="menu"
+                href="/menu/tag/science/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -208,6 +218,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/tag/shiny/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="menu"
+                href="/menu/tag/shiny/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -242,6 +257,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="menu"
+                href="/menu/tag/twitter/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="pt"
                 href="/tag/twitter/"
                 />
@@ -255,6 +275,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="menu"
+                href="/menu/tag/volt-data-lab/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="pt"
                 href="/tag/volt-data-lab/"
                 />
@@ -265,6 +290,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/tag/amazon/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="menu"
+                href="/menu/tag/amazon/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -308,6 +338,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="menu"
+                href="/menu/tag/facebook/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="pt"
                 href="/tag/facebook/"
                 />
@@ -347,6 +382,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="menu"
+                href="/menu/tag/podcasts/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="pt"
                 href="/tag/podcasts/"
                 />
@@ -376,6 +416,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="menu"
+                href="/menu/tag/violence/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="pt"
                 href="/tag/violence/"
                 />
@@ -389,11 +434,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/tag/2020-elections/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="menu"
-                href="/menu/tag/2020-elections/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -420,11 +460,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/tag/local-elections/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="menu"
-                href="/menu/tag/local-elections/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -489,6 +524,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="menu"
+                href="/menu/tag/politica-local/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="pt"
                 href="/tag/politica-local/"
                 />
@@ -499,6 +539,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/tag/sao-paulo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="menu"
+                href="/menu/tag/sao-paulo/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -531,11 +576,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="menu"
-                href="/menu/tag/executive-approval/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="pt"
                 href="/tag/executive-approval/"
                 />
@@ -546,11 +586,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/tag/jair-bolsonaro/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="menu"
-                href="/menu/tag/jair-bolsonaro/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -583,11 +618,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="menu"
-                href="/menu/tag/presidential-popularity/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="pt"
                 href="/tag/presidential-popularity/"
                 />
@@ -598,11 +628,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/tag/rally-round-the-flag/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="menu"
-                href="/menu/tag/rally-round-the-flag/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -653,11 +678,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="menu"
-                href="/menu/tag/marielle-franco/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="pt"
                 href="/tag/marielle-franco/"
                 />
@@ -668,11 +688,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/tag/psol/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="menu"
-                href="/menu/tag/psol/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -699,11 +714,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/tag/rio-de-janeiro/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="menu"
-                href="/menu/tag/rio-de-janeiro/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -759,27 +769,6 @@
                 hreflang="pt"
                 href="/blog/direito_ufmg/"
                 />
-  </url><url>
-    <loc>/publication-type/1/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tag/art-theory/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tag/art-theory-and-politics/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication/art_politics/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tag/philosophy-of-law/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tag/political-theory/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/thiago-alvares-feital/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/categories/</loc>
     <xhtml:link
