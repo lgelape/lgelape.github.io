@@ -5,12 +5,26 @@
     <link>/author/lucas-gelape/</link>
       <atom:link href="/author/lucas-gelape/index.xml" rel="self" type="application/rss+xml" />
     <description>Lucas Gelape</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><copyright>© 2021</copyright><lastBuildDate>Mon, 12 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><copyright>© 2021</copyright><lastBuildDate>Mon, 23 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/author/lucas-gelape/avatar_hueb019099b5914a46a6ba21e4a843cb59_3394522_270x270_fill_q75_lanczos_center.JPG</url>
+      <url>/media/icon_hu1d16897e3fa93fcb083438e47d0c5cbc_11292_512x512_fill_lanczos_center_2.png</url>
       <title>Lucas Gelape</title>
       <link>/author/lucas-gelape/</link>
     </image>
+    
+    <item>
+      <title>Apesar de tudo, carreiras políticas locais: padrões alternativos, reeleição e partidos nas trajetórias de vereadores</title>
+      <link>/publication/tese/</link>
+      <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/tese/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Gelape, Lucas. &lt;strong&gt;Apesar de tudo, carreiras políticas locais: padrões alternativos, reeleição e partidos nas trajetórias de vereadores&lt;/strong&gt;. Tese de Doutorado – Universidade de São Paulo, São Paulo, 2022.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Resumo:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Essa tese possui dois objetivos principais. Em primeiro lugar, ela busca responder qual o padrão de carreiras políticas no Brasil a partir do cargo de vereador. A teoria evidencia diferentes padrões de carreira em sistemas políticos multinível, sendo que o caso brasileiro se aproximaria do tipo &amp;ldquo;integrado&amp;rdquo;. Este diagnóstico é centrado, porém, em análises baseadas em deputados federais, enquanto a literatura comparada aponta a possibilidade de existência de carreiras regionais, se o foco for deslocado das câmaras baixas nacionais. Propomos então um olhar para a posição de vereador, com base naqueles eleitos entre 2000 e 2020. As suas trajetórias evidenciam que quase a totalidade (mais de 99%) deles nunca conquista mandatos eletivos em nível estadual, tendo portanto uma circulação em cargos locais. Este resultado, contudo, é condicionado pelo tamanho do eleitorado do município, uma vez que, naqueles com mais de 500 mil eleitores, os vereadores conquistam essas vitórias, em carreiras que &amp;ldquo;integram&amp;rdquo; cargos estaduais e nacionais. Existem portanto padrões alternativos/equivalentes de carreiras no país a partir da vereança, com duas possibilidades diferentes de trajetórias condicionadas pelo tamanho do município. Nosso segundo objetivo é o de investigar o papel da estrutura de oportunidades políticas nas decisões de carreira, ao analisar como dois fatores &amp;ndash; a reeleição e os partidos políticos &amp;ndash; as afetam. Para analisar o primeiro fator, empregamos um desenho de regressão descontínua em eleições acirradas, no intuito de avaliar a vantagem dos vereadores eleitos no Brasil entre 2000 e 2016 na busca pela reeleição. Observamos que há uma pequena desvantagem eleitoral dos vencedores em eleições acirradas na sua probabilidade incondicional de reeleição. Além disso, a incumbência traz um efeito positivo sobre a probabilidade destes vereadores se recandidatarem, bem como um forte efeito negativo na probabilidade deles se recandidatarem e vencerem (probabilidade condicional). Esses resultados se aproximam daqueles encontrados para prefeitos, mas se afastam daqueles encontrados para deputados brasileiros. Para avaliar a relevância dos partidos políticos, testamos se a existência de copartidários que seriam candidatos competitivos à prefeitura afeta a probabilidade de um vereador eleito em 2012 disputar o cargo de prefeito em 2016. Inicialmente, avaliamos um survey realizado com vereadores mineiros e encontramos que um número substantivo deles desejava o cargo de prefeito em 2015, mas poucos efetivamente concorreram a ele em 2016. Em seguida, recorremos a um grafo acíclico dirigido (DAG) para encontrarmos as variáveis de controle necessárias para identificarmos esse efeito causal, pareamos o banco que inclui todos vereadores eleitos em 2012 por meio de um nearest neighbor matching baseado nessas variáveis e estimamos o efeito médio do tratamento sobre os tratados (ATT) com modelos de regressão multivariados. Encontramos evidências (robustas a várias especificações) de que o tratamento tem um efeito negativo na probabilidade dos vereadores disputarem a eleição para prefeito. Ou seja, mesmo em municípios, onde os vínculos entre políticos e partidos seriam mais frágeis, há evidências de que as agremiações articulam o jogo eleitoral e afetam as carreiras dos indivíduos.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./tese.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Destaques</title>
@@ -265,6 +279,21 @@
       <description>&lt;ul&gt;
 &lt;li&gt;Soares, Fabiana de Menezes; Gelape, Lucas. Consultoria Legislativa da ALMG: o Amicus curiae do processo legislativo? In: Santos, Manoel Leonardo; Anastasia, Fátima (org.). &lt;strong&gt;Política e Desenvolvimento Institucional no Legislativo de Minas Gerais&lt;/strong&gt;. Belo Horizonte: Editora PUC Minas, 2016. p. 381–413.&lt;/li&gt;
 &lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Anacronismo do Sistema Proporcional de Lista Aberta no Brasil: ocaso das razões originárias de sua adoção</title>
+      <link>/publication/anacronismo_lista_aberta/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/anacronismo_lista_aberta/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Pereira, Rodolfo Viana; Gelape, Lucas. Anacronismo do Sistema Proporcional de Lista Aberta no Brasil: ocaso das razões originárias de sua adoção. &lt;strong&gt;Revista de Informação Legislativa&lt;/strong&gt;, Brasília, v. 52, n. 205, p. 261–279, mar. 2015.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sumário:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Introdução. 2. O sistema eleitoral de lista aberta no Brasil. 2.1. Características gerais e funcionamento da lista aberta brasileira. 2.2. Críticas ao sistema eleitoral brasileiro de representação proporcional. 3. A introdução da lista aberta no Brasil. 3.1. O Código Eleitoral de 1932. 3.2. A experiência eleitoral com o Código de 1932 e a reforma da legislação. 4. Críticas à base de justificação e manutenção do sistema eleitoral de lista aberta no Brasil. 5. Considerações finais.&lt;/li&gt;
+&lt;/ol&gt;
 </description>
     </item>
     
