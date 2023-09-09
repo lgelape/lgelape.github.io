@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Incumbency advantage | Lucas Gelape</title>
+    <link>/en/tag/incumbency-advantage/</link>
+      <atom:link href="/en/tag/incumbency-advantage/index.xml" rel="self" type="application/rss+xml" />
+    <description>Incumbency advantage</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><copyright>© 2023</copyright><lastBuildDate>Mon, 23 May 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu1d16897e3fa93fcb083438e47d0c5cbc_11292_512x512_fill_lanczos_center_3.png</url>
+      <title>Incumbency advantage</title>
+      <link>/en/tag/incumbency-advantage/</link>
+    </image>
+    
+    <item>
+      <title>In spite of all, local political careers: alternative patterns, incumbency advantage and political parties on city councilors trajectories</title>
+      <link>/en/publication/tese/</link>
+      <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
+      <guid>/en/publication/tese/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Gelape, Lucas. &lt;strong&gt;In spite of all, local political careers: alternative patterns, incumbency advantage and political parties on city councilors trajectories&lt;/strong&gt;. PhD Dissertation – University of São Paulo, São Paulo, 2022.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This dissertation has two main goals. First, it tries to identify the pattern of political careers in Brazil, from the city councilor&amp;rsquo;s office. The theory has shown different career patterns in multi-level political systems, pointing out that the Brazilian case is closer to the &amp;ldquo;integrated&amp;rdquo; type. This finding, however, is a product of analysis based on federal deputies, while the comparative politics literature has shown the possibility of regional careers if the focus is shifted from the national lower houses. We propose to study careers that include a term as a city councilor in Brazil and conduct an investigation based on all the councilors elected between 2000 and 2020. Their trajectories show that almost all of them (more than 99%) never win a state-level electoral office and only circulate in local offices. This result, however, is conditioned on the city&amp;rsquo;s electorate, since in cities with more than 500,000 voters, councilors can win those state-level seats, in careers that &amp;ldquo;integrate&amp;rdquo; state and/or national offices. Thus, when looking from the city councilor office, there are alternative/equivalent career paths in the country, with two distinct possibilities, conditioned on the city&amp;rsquo;s electorate size. Our second goal is to investigate the role of the political opportunities structure on career decisions, by analyzing how two factors &amp;ndash; the incumbency and political parties &amp;ndash; can affect them. To study the first factor, we use a regression discontinuity design to study close elections and assess the incumbency advantage of city councilors elected between 2000 and 2016. We find that barely winners have a small electoral disadvantage measured by their unconditional reelection probability. Moreover, we find that incumbency has a positive effect on their decision to rerun, and a strong negative effect on their chances of winning if they decide to rerun (conditional probability). These results are close to those found for Brazilian mayors and diverge from those found for deputies. Finally, to assess the relevance of political parties, we test if the existence of co-partisans who would be competitive candidates for mayor affect the probability that a city councilor elected in 2012 would run for mayor in 2016. We first use a survey conducted with city councilors from the state of Minas Gerais and find that while a substantial number of them report in 2015 a wish to run for mayor, very few do run for it in 2016. Our identification strategy is based on a directed acyclic graph (DAG) to find the variables we should control for, a nearest neighbor matching on observations from all city councilors elected in 2012, and multivariate regressions to estimate the average treatment effect on the treated (ATT). We find evidence, robust to several specifications, that the treatment has a negative effect on the probability that city councilors who face competitive co-partisans end up running for mayor. Therefore, even in cities, where the bond between politicians and parties is arguably weaker, we find evidence that parties are an important factor in the electoral arena and have an effect on individuals&amp;rsquo; careers.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./tese.png&#34; alt=&#34;png&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,9 +5,9 @@
     <link>/en/tag/shiny/</link>
       <atom:link href="/en/tag/shiny/index.xml" rel="self" type="application/rss+xml" />
     <description>Shiny</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><copyright>© 2021</copyright><lastBuildDate>Mon, 12 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><copyright>© 2023</copyright><lastBuildDate>Mon, 12 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/media/icon_hu1d16897e3fa93fcb083438e47d0c5cbc_11292_512x512_fill_lanczos_center_2.png</url>
+      <url>/media/icon_hu1d16897e3fa93fcb083438e47d0c5cbc_11292_512x512_fill_lanczos_center_3.png</url>
       <title>Shiny</title>
       <link>/en/tag/shiny/</link>
     </image>
@@ -19,7 +19,7 @@
       <guid>/en/blog/science_pulse/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m responsible for developing the main infrastructure and the curation algorithms for Science Pulse&amp;rsquo;s &lt;a href=&#34;https://sciencepulse.org/app/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;web app&lt;/a&gt;, which was written in &lt;code&gt;Shiny&lt;/code&gt;.&lt;/p&gt;
 &lt;p&gt;Science Pulse is a social listening platform, which monitors and curates content from scientists, professors, experts, and research institutions on social media (currently on Twitter and Facebook).&lt;/p&gt;
-&lt;p&gt;The app is &lt;em&gt;open-source&lt;/em&gt; and its&#39; source code can be found at &lt;a href=&#34;https://github.com/voltdatalab/science-pulse-public&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;its&#39; GitHub repository&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The app is &lt;em&gt;open-source&lt;/em&gt; and its&amp;rsquo; source code can be found at &lt;a href=&#34;https://github.com/voltdatalab/science-pulse-public&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;its&amp;rsquo; GitHub repository&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;The project is developed by Volt Data Lab, supported by the International Center for Journalists (ICFJ) and Agência Bori.&lt;/p&gt;
 &lt;p&gt;Using data collected on Science Pulse, I also produced these news stories for Núcleo Jornalismo:&lt;/p&gt;
 &lt;ul&gt;

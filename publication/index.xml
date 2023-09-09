@@ -5,12 +5,190 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publicações</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><copyright>© 2021</copyright><lastBuildDate>Tue, 01 Mar 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>© 2023</copyright><lastBuildDate>Thu, 11 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/media/icon_hu1d16897e3fa93fcb083438e47d0c5cbc_11292_512x512_fill_lanczos_center_2.png</url>
+      <url>/media/icon_hu1d16897e3fa93fcb083438e47d0c5cbc_11292_512x512_fill_lanczos_center_3.png</url>
       <title>Publicações</title>
       <link>/publication/</link>
     </image>
+    
+    <item>
+      <title>Collective Candidacies and Mandates in Brazil: Challenges and Pitfalls of a Gambiarra</title>
+      <link>/publication/mandatos_coletivos_gambiarra/</link>
+      <pubDate>Thu, 11 May 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/mandatos_coletivos_gambiarra/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Mendonça, Ricardo Fabrino; Gelape, Lucas; Cruz, Carlos Estevão C. 2023. Collective Candidacies and Mandates in Brazil: Challenges and Pitfalls of a Gambiarra. In: Bua, Adrian; Bussu, Sonia (org.). &lt;strong&gt;Reclaiming Participatory Governance: social movements and the reinvention of democratic innovation&lt;/strong&gt;. New York: Routledge, p. 154-159.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Resumo&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;In this chapter, we examine the democratic innovation of collective candidacies and mandates in Brazil. These candidacies can be defined as a group formed within a party list to run together for a single seat in parliament. These groups usually adopt participatory practices on their campaigns and, when elected, in their legislative activities. Such innovation arose from a crisis of legitimacy of representative institutions in the country, which deepened over the last decade. We read this phenomenon through the idea of gambiarra (which can be translated as a kludge, workaround or stopgap). This gambiarra reinvents electoral politics through improvisation, amid institutional constraints, currently happening in a legal limbo of uncertainty and open possibilities. By making sense of this phenomenon as a gambiarra, we stress its precarious yet creative status. The chapter presents the capacity of collective candidacies and mandates to renovate institutional politics, while pointing out some limitations and risks derived from these practices.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./collective_candidacies.jpeg&#34; alt=&#34;png&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;em&gt;Fonte da figura: produzido pelos autores a partir de dados de &lt;a href=&#34;https://npms.paginas.ufsc.br/files/2021/01/MandatosColetivos_RelatorioPesquisa_2021JAN08.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Secchi e Leal (2020).&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Restrição partidária às decisões de carreira de políticos brasileiros: evidências de vereadores brasileiros</title>
+      <link>/publication/restricao_partidaria/</link>
+      <pubDate>Mon, 18 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/restricao_partidaria/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Gelape, Lucas; Silva, Glauco Peres da. 2022. Restrição partidária às decisões de carreira de políticos brasileiros: evidências de vereadores brasileiros. &lt;strong&gt;Revista de Sociologia e Política&lt;/strong&gt;, v. 30, e014.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Resumo:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Introdução:&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Quanto a competição intrapartidária afeta as decisões de carreira de políticos brasileiros? Sabemos que carreiras resultam da interação entre vontades individuais, de um lado, e estrutura de oportunidades políticas, de outro. As instâncias partidárias são elementos centrais nesta estrutura e moldam a composição das chapas em uma eleição, pois são o lugar inicial da disputa política. Nesse sentido, elas deveriam afetar as escolhas de carreira de vereadores brasileiros.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Materiais e Métodos:&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Analisamos descritivamente um survey aplicado a 422 vereadores de Minas Gerais em 2015. A partir desses dados, comparamos as escolhas de carreira declaradas por estes vereadores com seu registro de candidatura em 2016 para verificar a convergência entre esses dois fatos. Em seguida, a partir das decisões de carreira de todos os vereadores eleitos em 2012 no Brasil, construímos uma amostra por meio de matching e estimamos modelos de regressão multivariados para investigar o efeito causal da competição intrapartidária sobre a probabilidade de um vereador concorrer a prefeito. Dada a dificuldade de observarmos o tratamento, criamos uma proxy para medir a competição intrapartidária, que busca identificar os candidatos competitivos de acordo com características anteriores ao registro de candidaturas em 2016.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Resultados:&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;O survey revela que a grande maioria dos vereadores que pretendiam concorrer a prefeito em 2016 não o fez. Os modelos de regressão multivariados mostram evidências causais de que vereadores que enfrentaram competição intrapartidária tiveram a probabilidade de se candidatarem para a chefia do Executivo municipal diminuída. Não encontramos variações neste efeito entre os dez partidos com maior número de eleitos, bem como entre diferentes tamanhos de eleitorado, excetuados aqueles com mais de 1 milhão de eleitores (nos quais o efeito foi nulo).&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Discussão:&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;A competição política interna aos partidos se mostrou um limitador ativo e importante nas decisões dos indivíduos avaliados. As escolhas de carreira são diretamente influenciadas pelas dinâmicas partidárias mesmo na política local, exatamente onde a literatura aponta para vínculos mais frágeis entre os políticos e os partidos. É preciso ainda estender esta análise para outros cargos e outros tipos de representantes.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./intrapartidaria_sp.png&#34; alt=&#34;png&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Apesar de tudo, carreiras políticas locais: padrões alternativos, reeleição e partidos nas trajetórias de vereadores</title>
+      <link>/publication/tese/</link>
+      <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/tese/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Gelape, Lucas. &lt;strong&gt;Apesar de tudo, carreiras políticas locais: padrões alternativos, reeleição e partidos nas trajetórias de vereadores&lt;/strong&gt;. Tese de Doutorado – Universidade de São Paulo, São Paulo, 2022.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Resumo:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Essa tese possui dois objetivos principais. Em primeiro lugar, ela busca responder qual o padrão de carreiras políticas no Brasil a partir do cargo de vereador. A teoria evidencia diferentes padrões de carreira em sistemas políticos multinível, sendo que o caso brasileiro se aproximaria do tipo &amp;ldquo;integrado&amp;rdquo;. Este diagnóstico é centrado, porém, em análises baseadas em deputados federais, enquanto a literatura comparada aponta a possibilidade de existência de carreiras regionais, se o foco for deslocado das câmaras baixas nacionais. Propomos então um olhar para a posição de vereador, com base naqueles eleitos entre 2000 e 2020. As suas trajetórias evidenciam que quase a totalidade (mais de 99%) deles nunca conquista mandatos eletivos em nível estadual, tendo portanto uma circulação em cargos locais. Este resultado, contudo, é condicionado pelo tamanho do eleitorado do município, uma vez que, naqueles com mais de 500 mil eleitores, os vereadores conquistam essas vitórias, em carreiras que &amp;ldquo;integram&amp;rdquo; cargos estaduais e nacionais. Existem portanto padrões alternativos/equivalentes de carreiras no país a partir da vereança, com duas possibilidades diferentes de trajetórias condicionadas pelo tamanho do município. Nosso segundo objetivo é o de investigar o papel da estrutura de oportunidades políticas nas decisões de carreira, ao analisar como dois fatores &amp;ndash; a reeleição e os partidos políticos &amp;ndash; as afetam. Para analisar o primeiro fator, empregamos um desenho de regressão descontínua em eleições acirradas, no intuito de avaliar a vantagem dos vereadores eleitos no Brasil entre 2000 e 2016 na busca pela reeleição. Observamos que há uma pequena desvantagem eleitoral dos vencedores em eleições acirradas na sua probabilidade incondicional de reeleição. Além disso, a incumbência traz um efeito positivo sobre a probabilidade destes vereadores se recandidatarem, bem como um forte efeito negativo na probabilidade deles se recandidatarem e vencerem (probabilidade condicional). Esses resultados se aproximam daqueles encontrados para prefeitos, mas se afastam daqueles encontrados para deputados brasileiros. Para avaliar a relevância dos partidos políticos, testamos se a existência de copartidários que seriam candidatos competitivos à prefeitura afeta a probabilidade de um vereador eleito em 2012 disputar o cargo de prefeito em 2016. Inicialmente, avaliamos um survey realizado com vereadores mineiros e encontramos que um número substantivo deles desejava o cargo de prefeito em 2015, mas poucos efetivamente concorreram a ele em 2016. Em seguida, recorremos a um grafo acíclico dirigido (DAG) para encontrarmos as variáveis de controle necessárias para identificarmos esse efeito causal, pareamos o banco que inclui todos vereadores eleitos em 2012 por meio de um nearest neighbor matching baseado nessas variáveis e estimamos o efeito médio do tratamento sobre os tratados (ATT) com modelos de regressão multivariados. Encontramos evidências (robustas a várias especificações) de que o tratamento tem um efeito negativo na probabilidade dos vereadores disputarem a eleição para prefeito. Ou seja, mesmo em municípios, onde os vínculos entre políticos e partidos seriam mais frágeis, há evidências de que as agremiações articulam o jogo eleitoral e afetam as carreiras dos indivíduos.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./tese.png&#34; alt=&#34;png&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A construção de vínculos político-territoriais na cidade: evidências de São Paulo</title>
+      <link>/publication/indicacoes_sp/</link>
+      <pubDate>Wed, 06 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/indicacoes_sp/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Hoyler, Telma; Gelape, Lucas; Silotto, Graziele. 2021. A construção de vínculos político-territoriais na cidade: evidências de São Paulo. &lt;strong&gt;Opinião Pública&lt;/strong&gt;, Campinas, v. 27, n. 2, p. 549–584.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Resumo:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Os legislativos municipais têm sido interpretados por meio de uma transposição teórico-argumentativa do cenário federal, tendo projetos de lei e o padrão de distribuição de votos como focos empíricos privilegiados para testar a hipótese distributivista. Porém, essas são proxies imperfeitas para testar a existência da atuação territorial de vereadores. Para investigar o tema, introduzimos de forma inédita a análise das indicações parlamentares em São Paulo, bem como seu estudo a partir de uma abordagem multimétodos, incluindo entrevistas em profundidade, observação participante e teste de hipótese de autocorrelação espacial local. Argumentamos que a atuação territorial de vereadores ocorre por meio de uma estrutura capilarizada de brokers, que alimenta e constrói vínculos ao longo de todo o mandato. Nada disso é capturável pelos métodos tradicionais que tratam do tema.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./indicacoes_op.jpg&#34; alt=&#34;png&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A geografia do voto em eleições municipais no sistema eleitoral de lista aberta: um estudo a partir de Belo Horizonte, Rio de Janeiro e São Paulo</title>
+      <link>/publication/dissertacao/</link>
+      <pubDate>Fri, 20 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/dissertacao/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Gelape, Lucas. &lt;strong&gt;A geografia do voto em eleições municipais no sistema eleitoral de lista aberta: um estudo a partir de Belo Horizonte, Rio de Janeiro e São Paulo&lt;/strong&gt;. Dissertação de Mestrado – Universidade Federal de Minas Gerais, Belo Horizonte, 2017.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Resumo:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Esta dissertação investiga a distribuição espacial dos votos dos vereadores eleitos nos municípios de São Paulo, Rio de Janeiro e Belo Horizonte, nas eleições de 2008 e 2012. Seu objetivo principal é identificar padrões de votações desses políticos, apresentando umadiscussão acerca dos principais meios apontados pela literatura para tal caracterização. Assim, o trabalho oferece contribuições a três correntes de estudos da ciência política: (1) geografia eleitoral; (2) funcionamento do sistema eleitoral de lista aberta; e (3) política em nívelmunicipal. Inicialmente, realiza-se uma revisão dos principais estudos concernentes à dissertação, assentando as bases teóricas do trabalho. Em seguida, apresenta-se o desenho da pesquisa, ressaltando-se que a estratégia adotada para a identificação de padrões de votação éa classificação dos vereadores segundo a tipologia proposta por Barry Ames, que consiste em classificar os candidatos em quatro tipos, de acordo com duas dimensões (horizontal e vertical) da distribuição espacial dos votos: (1) concentrados-dominantes; (2) concentrados-compartilhados; (3) dispersos-compartilhados; e (4) dispersos-dominantes. São discutidos ainda os índices utilizados pela literatura para a classificação dos candidatos nos tipos indicados. Por fim, são relatados os resultados empíricos encontrados na pesquisa,destacando-se a escolha feita pelo autor acerca de quais índices e modos de classificação parecem ser os mais adequados para a mensuração de cada dimensão nos casos estudados. Osresultados encontrados indicam uma estabilidade do número de vereadores de cada tipo, em um mesmo município, entre os dois pleitos analisados; e ainda uma predominância do tipo disperso-compartilhado em todos os municípios e eleições analisadas.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./dissertacao.png&#34; alt=&#34;png&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Consultoria Legislativa da ALMG: o Amicus curiae do processo legislativo?</title>
@@ -20,6 +198,34 @@
       <description>&lt;ul&gt;
 &lt;li&gt;Soares, Fabiana de Menezes; Gelape, Lucas. Consultoria Legislativa da ALMG: o Amicus curiae do processo legislativo? In: Santos, Manoel Leonardo; Anastasia, Fátima (org.). &lt;strong&gt;Política e Desenvolvimento Institucional no Legislativo de Minas Gerais&lt;/strong&gt;. Belo Horizonte: Editora PUC Minas, 2016. p. 381–413.&lt;/li&gt;
 &lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Anacronismo do Sistema Proporcional de Lista Aberta no Brasil: ocaso das razões originárias de sua adoção</title>
+      <link>/publication/anacronismo_lista_aberta/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/anacronismo_lista_aberta/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Pereira, Rodolfo Viana; Gelape, Lucas. Anacronismo do Sistema Proporcional de Lista Aberta no Brasil: ocaso das razões originárias de sua adoção. &lt;strong&gt;Revista de Informação Legislativa&lt;/strong&gt;, Brasília, v. 52, n. 205, p. 261–279, mar. 2015.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sumário:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Introdução. 2. O sistema eleitoral de lista aberta no Brasil. 2.1. Características gerais e funcionamento da lista aberta brasileira. 2.2. Críticas ao sistema eleitoral brasileiro de representação proporcional. 3. A introdução da lista aberta no Brasil. 3.1. O Código Eleitoral de 1932. 3.2. A experiência eleitoral com o Código de 1932 e a reforma da legislação. 4. Críticas à base de justificação e manutenção do sistema eleitoral de lista aberta no Brasil. 5. Considerações finais.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>From Art to Politics: challenging representation</title>
+      <link>/publication/art_politics/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/art_politics/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;GELAPE, Lucas; FEITAL, Thiago Álvares. From Art to Politics: challenging representation. &lt;strong&gt;Human Rights, Rule of Law and the Contemporary Social Challenges in Complex Societies: Proceedings of the XXVI World Congress of Philosophy of Law and Social Philosophy&lt;/strong&gt;. Belo Horizonte: Initia Via, 2015. p. 2211–2232.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The 20th-century witnessed two convergent movements. The first assumed the form of an aestheticization of the politics and the second of a politicization of the art. Paradoxically, still nowadays the common sense propagates a romantic vision of the artwork, in which art assumes the character of an instance in between the transcendental and the humane. Isolated from the world, the artist, herald of the sublime, would see its works advance according to the inspiration and endowment, notions so naïve as dangerous. Separated from the art by a deep and seemingly unfathomable cleavage, and bound to the materiality of the world, it is found the field of politics. Looking back to the tension which delineated the Modernism throughout its history (during the period of the 1930s to the 1980s, approximately), it is found and increasingly close relation between State and Art first, and big companies and art institutions later. The relevance of the problems offered by the Modernism derives partially from the manner that they were placed. Definitely, the 20th-century art went beyond the geometric space of the art galleries, and its inevitable result ricocheted on the politics of representation, and the political representation. Whether through the reorganization of artworks in a permanent exhibition room, or the recapture of issues related to minority rights, or the search for new ways to exercise political participation, the task of what has been conventionally called postmodern leaves a challenge for law, arts and politics. In the field of politics, from Nadia Urbinati’s three perspectives on Representative Democracy, the political representation faces challenges similar to those faced by post-modernism. After the collapse of juridical and institutional perspectives, the representation, this “operative term within a political process that seeks to extend visibility […] [to] political subjects […]”, in the words of Judith Butler, is questioned under the sieve of the deconstruction of the subject; the constant tension between emancipation and regulation, proposed by Boaventura de Sousa Santos, sets thetone of the contemporary law, crossed by organized movements with different ideologies, that fight (or bargain) their rights in the stage of civil society. The questions which Modernism proposed itself on the 20th-century are still without answers. Those are the political questions that the 21st-century is trying to respond. Between arts and politics, where is the emplacement of representation in the contemporary world?&lt;/p&gt;
 </description>
     </item>
     

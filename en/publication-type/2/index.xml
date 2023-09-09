@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Lucas Gelape</title>
+    <link>/en/publication-type/2/</link>
+      <atom:link href="/en/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><copyright>© 2023</copyright><lastBuildDate>Mon, 18 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu1d16897e3fa93fcb083438e47d0c5cbc_11292_512x512_fill_lanczos_center_3.png</url>
+      <title>2</title>
+      <link>/en/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Party restriction on career decisions of Brazilian politicians: evidence from Brazilian city councilors</title>
+      <link>/en/publication/restricao_partidaria/</link>
+      <pubDate>Mon, 18 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>/en/publication/restricao_partidaria/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Gelape, Lucas; Silva, Glauco Peres da. 2022. Party restriction on career decisions of Brazilian politicians: evidence from Brazilian city councilors. &lt;strong&gt;Revista de Sociologia e Política&lt;/strong&gt;, v. 30, e014. (In Portuguese)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Introduction:&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;How much does intra-party competition affect the career decisions of Brazilian politicians? We know that careers result from the interaction between individual wills, on the one hand, and political opportunity structure, on the other. The party instances are central elements in this structure and shape the composition of slates of candidates in an election, since they are the initial place of political dispute. Therefore, they should affect the career choices of Brazilian city councilors.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Material and Methods:&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;We descriptively analyzed a survey applied to 422 city councilors from Minas Gerais in 2015. Based on this data, we compared the career choices declared by the councilmen with the candidacy record of these politicians in 2016 to verify the convergence between these two facts. Then, using data from all Brazilians councilors elected in 2012, we constructed a matched sample and estimated multivariate regression models to investigate the causal effect of intra-party competition on the probability of a city councilor running for mayor. Given the difficulty of observing intra-party competition, we created a proxy to identify competitive candidates according to characteristics prior to candidate registration in 2016.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Results:&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The survey reveals that the vast majority of city councilors who intended to run for mayor in 2016 did not run. Multivariate regression models show causal evidence that city councilors who faced intra-party competition were less likely to run for the municipal chief executive. We found no variation in this effect among the ten parties with the highest number of elected candidates, as well as among different electorate sizes, except for those with more than 1 million voters (in which the effect was null).&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Discussion:&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Intra-party competition proved to be an active and important constraint on the decisions of the individuals evaluated. Career choices are directly influenced by party dynamics even in local politics, exactly where the literature points to weaker ties between politicians and political parties. Therefore, it is necessary to extend this analysis to other offices and other types of representatives.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./intrapartidaria_sp.png&#34; alt=&#34;png&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The construction of political-territorial ties: evidence from of São Paulo</title>
+      <link>/en/publication/indicacoes_sp/</link>
+      <pubDate>Wed, 06 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>/en/publication/indicacoes_sp/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Hoyler, Telma; Gelape, Lucas; Silotto, Graziele. 2021. The construction of political-territorial ties: evidence from of São Paulo. &lt;strong&gt;Opinião Pública&lt;/strong&gt;, Campinas, v. 27, n. 2, p. 549–584. (In Portuguese)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Current interpretations on the inner workings of Brazilian city councils are rooted in the scholarly debate of national politics. In the latter, the presence of legislation proposals with territorial goals and concentrated electoral voting patterns are the main evidence of distributivism/clientelism. We argue, however, that such characteristics of legislative and electoral politics at the national level are ill-suited proxies for analysis of the local level, failing to capture nuances of political mobilization in cities. Instead, by means of a mixed-methods analysis of an instrument called representatives’ requests – in-depth interviews, participant observation, and local spatial autocorrelation hypothesis tests – we argue that city councilors&amp;rsquo; geographically targeted actions take place through a capillary and rooted structure of brokers that feeds back and creates ties throughout local mandates and voters.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./indicacoes_op.jpg&#34; alt=&#34;png&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

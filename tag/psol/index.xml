@@ -5,9 +5,9 @@
     <link>/tag/psol/</link>
       <atom:link href="/tag/psol/index.xml" rel="self" type="application/rss+xml" />
     <description>PSOL</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><copyright>© 2021</copyright><lastBuildDate>Sat, 17 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>© 2023</copyright><lastBuildDate>Sat, 17 Mar 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/media/icon_hu1d16897e3fa93fcb083438e47d0c5cbc_11292_512x512_fill_lanczos_center_2.png</url>
+      <url>/media/icon_hu1d16897e3fa93fcb083438e47d0c5cbc_11292_512x512_fill_lanczos_center_3.png</url>
       <title>PSOL</title>
       <link>/tag/psol/</link>
     </image>
@@ -20,7 +20,27 @@
       <description>&lt;p&gt;Em março de 2018, após uma notícia sobre o número de votos da vereadora Marielle Franco (PSOL) na Maré, publiquei um texto no &lt;em&gt;Medium&lt;/em&gt; intitulado &lt;a href=&#34;https://medium.com/@lgelape/representa%C3%A7%C3%A3o-territorial-e-marielle-franco-b1884061bf1c&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Representação Territorial e Marielle Franco&lt;/a&gt; que investigava a distribuição dos votos dela na cidade do Rio de Janeiro.&lt;/p&gt;
 &lt;p&gt;No texto, discuto alguns cuidados e problemas de dados de distribuição geográfica de votos e faço uma pequena discussão sobre essa ideia de &amp;ldquo;representação territorial&amp;rdquo;.&lt;/p&gt;
 &lt;p&gt;O código para a análise feita no texto está num &lt;a href=&#34;https://github.com/lgelape/texto_mariellefranco&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;repositório do Github&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;./vereadores_PSOL.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./vereadores_PSOL.png&#34; alt=&#34;png&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 </description>
     </item>
     

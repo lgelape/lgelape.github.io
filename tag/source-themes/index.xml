@@ -1,28 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Source Themes | Lucas Gelape</title>
-    <link>/tag/source-themes/</link>
-      <atom:link href="/tag/source-themes/index.xml" rel="self" type="application/rss+xml" />
+    <title>Source Themes | Academic</title>
+    <link>https://example.com/tag/source-themes/</link>
+      <atom:link href="https://example.com/tag/source-themes/index.xml" rel="self" type="application/rss+xml" />
     <description>Source Themes</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><copyright>© 2021</copyright><lastBuildDate>Fri, 20 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/media/icon_hu1d16897e3fa93fcb083438e47d0c5cbc_11292_512x512_fill_lanczos_center_2.png</url>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Source Themes</title>
-      <link>/tag/source-themes/</link>
+      <link>https://example.com/tag/source-themes/</link>
     </image>
     
     <item>
-      <title>A geografia do voto em eleições municipais no sistema eleitoral de lista aberta: um estudo a partir de Belo Horizonte, Rio de Janeiro e São Paulo</title>
-      <link>/publication/dissertacao/</link>
-      <pubDate>Fri, 20 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/dissertacao/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;GELAPE, Lucas. &lt;strong&gt;A geografia do voto em eleições municipais no sistema eleitoral de lista aberta: um estudo a partir de Belo Horizonte, Rio de Janeiro e São Paulo&lt;/strong&gt;. Dissertação de Mestrado – Universidade Federal de Minas Gerais, Belo Horizonte, 2017.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Resumo:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Esta dissertação investiga a distribuição espacial dos votos dos vereadores eleitos nos municípios de São Paulo, Rio de Janeiro e Belo Horizonte, nas eleições de 2008 e 2012. Seu objetivo principal é identificar padrões de votações desses políticos, apresentando umadiscussão acerca dos principais meios apontados pela literatura para tal caracterização. Assim, o trabalho oferece contribuições a três correntes de estudos da ciência política: (1) geografia eleitoral; (2) funcionamento do sistema eleitoral de lista aberta; e (3) política em nívelmunicipal. Inicialmente, realiza-se uma revisão dos principais estudos concernentes à dissertação, assentando as bases teóricas do trabalho. Em seguida, apresenta-se o desenho da pesquisa, ressaltando-se que a estratégia adotada para a identificação de padrões de votação éa classificação dos vereadores segundo a tipologia proposta por Barry Ames, que consiste em classificar os candidatos em quatro tipos, de acordo com duas dimensões (horizontal e vertical) da distribuição espacial dos votos: (1) concentrados-dominantes; (2) concentradoscompartilhados; (3) dispersos-compartilhados; e (4) dispersos-dominantes. São discutidos ainda os índices utilizados pela literatura para a classificação dos candidatos nos tipos indicados. Por fim, são relatados os resultados empíricos encontrados na pesquisa,destacando-se a escolha feita pelo autor acerca de quais índices e modos de classificação parecem ser os mais adequados para a mensuração de cada dimensão nos casos estudados. Osresultados encontrados indicam uma estabilidade do número de vereadores de cada tipo, em um mesmo município, entre os dois pleitos analisados; e ainda uma predominância do tipo disperso-compartilhado em todos os municípios e eleições analisadas.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;./dissertacao.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
+      <title>An example preprint / working paper</title>
+      <link>https://example.com/publication/preprint/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/preprint/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example journal article</title>
+      <link>https://example.com/publication/journal-article/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/journal-article/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

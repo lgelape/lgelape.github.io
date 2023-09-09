@@ -5,12 +5,46 @@
     <link>/publication-type/7/</link>
       <atom:link href="/publication-type/7/index.xml" rel="self" type="application/rss+xml" />
     <description>7</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><copyright>© 2021</copyright><lastBuildDate>Fri, 20 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>© 2023</copyright><lastBuildDate>Mon, 23 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/media/icon_hu1d16897e3fa93fcb083438e47d0c5cbc_11292_512x512_fill_lanczos_center_2.png</url>
+      <url>/media/icon_hu1d16897e3fa93fcb083438e47d0c5cbc_11292_512x512_fill_lanczos_center_3.png</url>
       <title>7</title>
       <link>/publication-type/7/</link>
     </image>
+    
+    <item>
+      <title>Apesar de tudo, carreiras políticas locais: padrões alternativos, reeleição e partidos nas trajetórias de vereadores</title>
+      <link>/publication/tese/</link>
+      <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/tese/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Gelape, Lucas. &lt;strong&gt;Apesar de tudo, carreiras políticas locais: padrões alternativos, reeleição e partidos nas trajetórias de vereadores&lt;/strong&gt;. Tese de Doutorado – Universidade de São Paulo, São Paulo, 2022.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Resumo:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Essa tese possui dois objetivos principais. Em primeiro lugar, ela busca responder qual o padrão de carreiras políticas no Brasil a partir do cargo de vereador. A teoria evidencia diferentes padrões de carreira em sistemas políticos multinível, sendo que o caso brasileiro se aproximaria do tipo &amp;ldquo;integrado&amp;rdquo;. Este diagnóstico é centrado, porém, em análises baseadas em deputados federais, enquanto a literatura comparada aponta a possibilidade de existência de carreiras regionais, se o foco for deslocado das câmaras baixas nacionais. Propomos então um olhar para a posição de vereador, com base naqueles eleitos entre 2000 e 2020. As suas trajetórias evidenciam que quase a totalidade (mais de 99%) deles nunca conquista mandatos eletivos em nível estadual, tendo portanto uma circulação em cargos locais. Este resultado, contudo, é condicionado pelo tamanho do eleitorado do município, uma vez que, naqueles com mais de 500 mil eleitores, os vereadores conquistam essas vitórias, em carreiras que &amp;ldquo;integram&amp;rdquo; cargos estaduais e nacionais. Existem portanto padrões alternativos/equivalentes de carreiras no país a partir da vereança, com duas possibilidades diferentes de trajetórias condicionadas pelo tamanho do município. Nosso segundo objetivo é o de investigar o papel da estrutura de oportunidades políticas nas decisões de carreira, ao analisar como dois fatores &amp;ndash; a reeleição e os partidos políticos &amp;ndash; as afetam. Para analisar o primeiro fator, empregamos um desenho de regressão descontínua em eleições acirradas, no intuito de avaliar a vantagem dos vereadores eleitos no Brasil entre 2000 e 2016 na busca pela reeleição. Observamos que há uma pequena desvantagem eleitoral dos vencedores em eleições acirradas na sua probabilidade incondicional de reeleição. Além disso, a incumbência traz um efeito positivo sobre a probabilidade destes vereadores se recandidatarem, bem como um forte efeito negativo na probabilidade deles se recandidatarem e vencerem (probabilidade condicional). Esses resultados se aproximam daqueles encontrados para prefeitos, mas se afastam daqueles encontrados para deputados brasileiros. Para avaliar a relevância dos partidos políticos, testamos se a existência de copartidários que seriam candidatos competitivos à prefeitura afeta a probabilidade de um vereador eleito em 2012 disputar o cargo de prefeito em 2016. Inicialmente, avaliamos um survey realizado com vereadores mineiros e encontramos que um número substantivo deles desejava o cargo de prefeito em 2015, mas poucos efetivamente concorreram a ele em 2016. Em seguida, recorremos a um grafo acíclico dirigido (DAG) para encontrarmos as variáveis de controle necessárias para identificarmos esse efeito causal, pareamos o banco que inclui todos vereadores eleitos em 2012 por meio de um nearest neighbor matching baseado nessas variáveis e estimamos o efeito médio do tratamento sobre os tratados (ATT) com modelos de regressão multivariados. Encontramos evidências (robustas a várias especificações) de que o tratamento tem um efeito negativo na probabilidade dos vereadores disputarem a eleição para prefeito. Ou seja, mesmo em municípios, onde os vínculos entre políticos e partidos seriam mais frágeis, há evidências de que as agremiações articulam o jogo eleitoral e afetam as carreiras dos indivíduos.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./tese.png&#34; alt=&#34;png&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>A geografia do voto em eleições municipais no sistema eleitoral de lista aberta: um estudo a partir de Belo Horizonte, Rio de Janeiro e São Paulo</title>
@@ -22,7 +56,27 @@
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Resumo:&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Esta dissertação investiga a distribuição espacial dos votos dos vereadores eleitos nos municípios de São Paulo, Rio de Janeiro e Belo Horizonte, nas eleições de 2008 e 2012. Seu objetivo principal é identificar padrões de votações desses políticos, apresentando umadiscussão acerca dos principais meios apontados pela literatura para tal caracterização. Assim, o trabalho oferece contribuições a três correntes de estudos da ciência política: (1) geografia eleitoral; (2) funcionamento do sistema eleitoral de lista aberta; e (3) política em nívelmunicipal. Inicialmente, realiza-se uma revisão dos principais estudos concernentes à dissertação, assentando as bases teóricas do trabalho. Em seguida, apresenta-se o desenho da pesquisa, ressaltando-se que a estratégia adotada para a identificação de padrões de votação éa classificação dos vereadores segundo a tipologia proposta por Barry Ames, que consiste em classificar os candidatos em quatro tipos, de acordo com duas dimensões (horizontal e vertical) da distribuição espacial dos votos: (1) concentrados-dominantes; (2) concentrados-compartilhados; (3) dispersos-compartilhados; e (4) dispersos-dominantes. São discutidos ainda os índices utilizados pela literatura para a classificação dos candidatos nos tipos indicados. Por fim, são relatados os resultados empíricos encontrados na pesquisa,destacando-se a escolha feita pelo autor acerca de quais índices e modos de classificação parecem ser os mais adequados para a mensuração de cada dimensão nos casos estudados. Osresultados encontrados indicam uma estabilidade do número de vereadores de cada tipo, em um mesmo município, entre os dois pleitos analisados; e ainda uma predominância do tipo disperso-compartilhado em todos os municípios e eleições analisadas.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;./dissertacao.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./dissertacao.png&#34; alt=&#34;png&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 </description>
     </item>
     
