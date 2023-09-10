@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Violence | Lucas Gelape</title>
+    <link>/tag/violence/</link>
+      <atom:link href="/tag/violence/index.xml" rel="self" type="application/rss+xml" />
+    <description>Violence</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>© 2023</copyright><lastBuildDate>Sun, 11 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu1d16897e3fa93fcb083438e47d0c5cbc_11292_512x512_fill_lanczos_center_3.png</url>
+      <title>Violence</title>
+      <link>/tag/violence/</link>
+    </image>
+    
+    <item>
+      <title>Projetos - Volt Data Lab</title>
+      <link>/blog/voltdatalab/</link>
+      <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/blog/voltdatalab/</guid>
+      <description>&lt;p&gt;Como analista de dados no &lt;a href=&#34;https://www.voltdata.info/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Volt Data Lab&lt;/a&gt;, participei de projetos que envolveram coleta, análise e visualização de dados de diversas fontes.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;/blog/science_pulse/&#34;&gt;Science Pulse&lt;/a&gt;: &lt;a href=&#34;https://sciencepulse.org/app&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ferramenta online&lt;/a&gt; para conectar jornalistas à conversa científica nas redes sociais, por meio da disponibilização de postagens de uma lista de fontes (instituições científicas, pesquisadores, cientistas e afins) que se engajam nas redes (especialmente no Twitter). Este projeto envolveu programação em R em servidores remotos e desenvolvimento de aplicativo em &lt;code&gt;Shiny&lt;/code&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://nucleo.jor.br/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Núcleo Jornalismo&lt;/a&gt;: contribuo com a análise de dados e, eventualmente, reportagem de matérias publicadas no Núcleo Jornalismo. Recentemente, a linha editorial do Núcleo se dedica a cobrir o impacto das redes sociais na sociedade, mas participei de matérias com outros enfoques. Minhas participações envolveram matérias sobre &lt;a href=&#34;/blog/nucleo_politica/&#34;&gt;política&lt;/a&gt; e &lt;a href=&#34;/blog/nucleo_redes/&#34;&gt;redes sociais&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;/software/&#34;&gt;Pacotes em R&lt;/a&gt;: desenvolvi dois pacotes que permitem extrair dados em APIs produzidas pelo Volt Data Lab: o &lt;a href=&#34;https://github.com/sergiospagnuolo/pollingBR&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;code&gt;pollingBR&lt;/code&gt;&lt;/a&gt;, com dados de pesquisas eleitorais compiladas pelo Poder360; &lt;a href=&#34;https://github.com/voltdatalab/crossfire&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;code&gt;crossfire&lt;/code&gt;&lt;/a&gt;, com dados de tiroteios nas regiões metropolitanas do Rio de Janeiro e Recife produzidos pelo Fogo Cruzado; e &lt;a href=&#34;https://github.com/voltdatalab/newsatlasbr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;code&gt;newsatlasbr&lt;/code&gt;&lt;/a&gt;, que extrai dados do Atlas da Notícia.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://tierraderesistentes.com/pt/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Terra de Resistentes&lt;/a&gt;: projeto colaborativo que investigou ameaças a líderes ambientais e suas comunidades em sete países da América Latina. Contribuí com a análise e visualização de dados sobre &lt;a href=&#34;https://tierraderesistentes.com/pt/index.php/2020/03/06/el-cercado-indigena/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ameaças à comunidades indígenas em Rondônia&lt;/a&gt;. Esta matéria envolveu análise de dados de terras indígenas, desmatamento, estradas ilegais, hidrografia, processos de mineração e imóveis rurais. O projeto foi finalista na categoria &amp;ldquo;Cobertura&amp;rdquo; do &lt;a href=&#34;https://premioggm.org/premio-gabo/edicion/2020/trabajos/cobertura/tierra-de-resistentes/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prêmio Gabo 2020&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.voltdata.info/conteudo/2019/estatsticas-de-podcasts&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Estatísticas e dados do segmento de podcasts no Brasil em 2019&lt;/a&gt;: neste relatório, eu e Sérgio Spagnuolo analisamos informações sobre podcasts brasileiros e internacionais hospedados na plataforma &lt;a href=&#34;https://www.pocketcasts.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pocket Casts&lt;/a&gt;, coletadas por meio de raspagem de dados em julho e agosto de 2019. O &lt;a href=&#34;https://github.com/sergiospagnuolo/pesquisa-podcasts&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;código para coleta e análise pode ser consultado no GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

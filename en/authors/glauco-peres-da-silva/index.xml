@@ -29,7 +29,8 @@
 &lt;p&gt;The survey reveals that the vast majority of city councilors who intended to run for mayor in 2016 did not run. Multivariate regression models show causal evidence that city councilors who faced intra-party competition were less likely to run for the municipal chief executive. We found no variation in this effect among the ten parties with the highest number of elected candidates, as well as among different electorate sizes, except for those with more than 1 million voters (in which the effect was null).&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Discussion:&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Intra-party competition proved to be an active and important constraint on the decisions of the individuals evaluated. Career choices are directly influenced by party dynamics even in local politics, exactly where the literature points to weaker ties between politicians and political parties. Therefore, it is necessary to extend this analysis to other offices and other types of representatives.&lt;/p&gt;
-&lt;p&gt;
+&lt;p&gt;&lt;strong&gt;Figure: Office that the councilor declared the intention to run (2015) x Office that he effectively ran for&lt;/strong&gt;
+
 
 
 
@@ -49,7 +50,8 @@
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./intrapartidaria_sp.png&#34; alt=&#34;png&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
+
+&lt;em&gt;Source: created by the authors from TSE&amp;rsquo;s and data from the survey &amp;ldquo;Political representation at the local level in Brazil&amp;rdquo; (Nepol/PPGCSO/UFJF, 2015). Note: the colors indicate the percentage of politicians that make a career decision, considering the office they declared an intention to run for.&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
     

@@ -5,12 +5,49 @@
     <link>/tag/brokers/</link>
       <atom:link href="/tag/brokers/index.xml" rel="self" type="application/rss+xml" />
     <description>Brokers</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>© 2023</copyright><lastBuildDate>Wed, 06 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>© 2023</copyright><lastBuildDate>Wed, 05 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hu1d16897e3fa93fcb083438e47d0c5cbc_11292_512x512_fill_lanczos_center_3.png</url>
       <title>Brokers</title>
       <link>/tag/brokers/</link>
     </image>
+    
+    <item>
+      <title>&#34;Political affairs&#34;: brokerage relationships between state representatives and local politicians in Brazil</title>
+      <link>/publication/political_affairs/</link>
+      <pubDate>Wed, 05 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/political_affairs/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Rocha, Marta Mendes; Gelape, Lucas. 2023. &amp;ldquo;Political affairs&amp;rdquo;: brokerage relationships between state representatives and local politicians in Brazil. &lt;strong&gt;SciELO Preprints&lt;/strong&gt;. (Trabalho original disponibilizado em 2022).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Resumo:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;No Brasil, políticos situados em diferentes níveis cooperam entre si para alcançar objetivos eleitorais e de governo. Recentemente, essas relações passaram a ser analisadas com base nas teorias desenvolvidas na política comparada sobre brokers. Este artigo investiga os microfundamentos das relações entre deputados estaduais e políticos locais e questiona em que medida aquelas teorias são adequadas para analisar tais relações. Nossa análise combina dados de surveys com deputados estaduais e entrevistas com assessores e focaliza a forma como as alianças são construídas, mantidas e rompidas. Apresentamos evidências de que prefeitos e vereadores desempenham o papel de brokers. Porém, deputados e brokers não ocupam posições estáticas além de desempenharem papeis duais, o que revela os limites dos modelos de principal-agent para análise do fenômeno. Com base nisso, sugerimos alguns caminhos para se avançar na compreensão das dinâmicas de intermediação de interesses e das conexões entre atores políticos em diferentes níveis.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Figura: os dois apoios mais relevantes para a eleição de deputados estaduais&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./brokers_estaduais.png&#34; alt=&#34;png&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;em&gt;Fonte da figura: produzido pelos autores a partir de dados do CEL-UFMG.&lt;/em&gt;
+&lt;em&gt;Nota: cada respondente é contado duas vezes, porque um legislador dá uma resposta para cada um dos dois principais apoios.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>A construção de vínculos político-territoriais na cidade: evidências de São Paulo</title>
@@ -22,6 +59,7 @@
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Resumo:&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Os legislativos municipais têm sido interpretados por meio de uma transposição teórico-argumentativa do cenário federal, tendo projetos de lei e o padrão de distribuição de votos como focos empíricos privilegiados para testar a hipótese distributivista. Porém, essas são proxies imperfeitas para testar a existência da atuação territorial de vereadores. Para investigar o tema, introduzimos de forma inédita a análise das indicações parlamentares em São Paulo, bem como seu estudo a partir de uma abordagem multimétodos, incluindo entrevistas em profundidade, observação participante e teste de hipótese de autocorrelação espacial local. Argumentamos que a atuação territorial de vereadores ocorre por meio de uma estrutura capilarizada de brokers, que alimenta e constrói vínculos ao longo de todo o mandato. Nada disso é capturável pelos métodos tradicionais que tratam do tema.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Figura: Lisa (Moran Local) do número de indicações por distrito &amp;ndash; Vereadores Dalton Silvano (13ª legislatura) e Gilson Barreto (11ª legislatura)&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -43,6 +81,7 @@
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./indicacoes_op.jpg&#34; alt=&#34;png&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Fonte: elaborado pelos autores a partir de dados da Câmara Municipal de São Paulo e do IBGE.&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
     

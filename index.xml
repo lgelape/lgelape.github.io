@@ -30,7 +30,8 @@
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Resumo&lt;/strong&gt;:&lt;/p&gt;
 &lt;p&gt;In this chapter, we examine the democratic innovation of collective candidacies and mandates in Brazil. These candidacies can be defined as a group formed within a party list to run together for a single seat in parliament. These groups usually adopt participatory practices on their campaigns and, when elected, in their legislative activities. Such innovation arose from a crisis of legitimacy of representative institutions in the country, which deepened over the last decade. We read this phenomenon through the idea of gambiarra (which can be translated as a kludge, workaround or stopgap). This gambiarra reinvents electoral politics through improvisation, amid institutional constraints, currently happening in a legal limbo of uncertainty and open possibilities. By making sense of this phenomenon as a gambiarra, we stress its precarious yet creative status. The chapter presents the capacity of collective candidacies and mandates to renovate institutional politics, while pointing out some limitations and risks derived from these practices.&lt;/p&gt;
-&lt;p&gt;
+&lt;p&gt;&lt;strong&gt;Figura: Candidaturas coletivas por raça/etnia e idade nas eleições brasileiras de 2020 (em percentual)&lt;/strong&gt;
+
 
 
 
@@ -56,6 +57,43 @@
     </item>
     
     <item>
+      <title>&#34;Political affairs&#34;: brokerage relationships between state representatives and local politicians in Brazil</title>
+      <link>/publication/political_affairs/</link>
+      <pubDate>Wed, 05 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/political_affairs/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Rocha, Marta Mendes; Gelape, Lucas. 2023. &amp;ldquo;Political affairs&amp;rdquo;: brokerage relationships between state representatives and local politicians in Brazil. &lt;strong&gt;SciELO Preprints&lt;/strong&gt;. (Trabalho original disponibilizado em 2022).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Resumo:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;No Brasil, políticos situados em diferentes níveis cooperam entre si para alcançar objetivos eleitorais e de governo. Recentemente, essas relações passaram a ser analisadas com base nas teorias desenvolvidas na política comparada sobre brokers. Este artigo investiga os microfundamentos das relações entre deputados estaduais e políticos locais e questiona em que medida aquelas teorias são adequadas para analisar tais relações. Nossa análise combina dados de surveys com deputados estaduais e entrevistas com assessores e focaliza a forma como as alianças são construídas, mantidas e rompidas. Apresentamos evidências de que prefeitos e vereadores desempenham o papel de brokers. Porém, deputados e brokers não ocupam posições estáticas além de desempenharem papeis duais, o que revela os limites dos modelos de principal-agent para análise do fenômeno. Com base nisso, sugerimos alguns caminhos para se avançar na compreensão das dinâmicas de intermediação de interesses e das conexões entre atores políticos em diferentes níveis.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Figura: os dois apoios mais relevantes para a eleição de deputados estaduais&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./brokers_estaduais.png&#34; alt=&#34;png&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;em&gt;Fonte da figura: produzido pelos autores a partir de dados do CEL-UFMG.&lt;/em&gt;
+&lt;em&gt;Nota: cada respondente é contado duas vezes, porque um legislador dá uma resposta para cada um dos dois principais apoios.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Restrição partidária às decisões de carreira de políticos brasileiros: evidências de vereadores brasileiros</title>
       <link>/publication/restricao_partidaria/</link>
       <pubDate>Mon, 18 Jul 2022 00:00:00 +0000</pubDate>
@@ -72,7 +110,8 @@
 &lt;p&gt;O survey revela que a grande maioria dos vereadores que pretendiam concorrer a prefeito em 2016 não o fez. Os modelos de regressão multivariados mostram evidências causais de que vereadores que enfrentaram competição intrapartidária tiveram a probabilidade de se candidatarem para a chefia do Executivo municipal diminuída. Não encontramos variações neste efeito entre os dez partidos com maior número de eleitos, bem como entre diferentes tamanhos de eleitorado, excetuados aqueles com mais de 1 milhão de eleitores (nos quais o efeito foi nulo).&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Discussão:&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;A competição política interna aos partidos se mostrou um limitador ativo e importante nas decisões dos indivíduos avaliados. As escolhas de carreira são diretamente influenciadas pelas dinâmicas partidárias mesmo na política local, exatamente onde a literatura aponta para vínculos mais frágeis entre os políticos e os partidos. É preciso ainda estender esta análise para outros cargos e outros tipos de representantes.&lt;/p&gt;
-&lt;p&gt;
+&lt;p&gt;&lt;strong&gt;Figura: Cargo que o vereador declarou que desejava concorrer (2015) x Cargo concorrido (2016)&lt;/strong&gt;
+
 
 
 
@@ -92,7 +131,8 @@
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./intrapartidaria_sp.png&#34; alt=&#34;png&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
+
+&lt;em&gt;Fonte: elaborado pelos autores a partir de dados do TSE e do survey &amp;ldquo;Representação política no nível municipal no Brasil&amp;rdquo; (Nepol/PPGCSO/UFJF, 2015). Nota: as cores indicam o percentual de políticos que tomaram certa decisão de carreira, considerando-se o cargo que eles desejavam.&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -140,6 +180,7 @@
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Resumo:&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Os legislativos municipais têm sido interpretados por meio de uma transposição teórico-argumentativa do cenário federal, tendo projetos de lei e o padrão de distribuição de votos como focos empíricos privilegiados para testar a hipótese distributivista. Porém, essas são proxies imperfeitas para testar a existência da atuação territorial de vereadores. Para investigar o tema, introduzimos de forma inédita a análise das indicações parlamentares em São Paulo, bem como seu estudo a partir de uma abordagem multimétodos, incluindo entrevistas em profundidade, observação participante e teste de hipótese de autocorrelação espacial local. Argumentamos que a atuação territorial de vereadores ocorre por meio de uma estrutura capilarizada de brokers, que alimenta e constrói vínculos ao longo de todo o mandato. Nada disso é capturável pelos métodos tradicionais que tratam do tema.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Figura: Lisa (Moran Local) do número de indicações por distrito &amp;ndash; Vereadores Dalton Silvano (13ª legislatura) e Gilson Barreto (11ª legislatura)&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -161,6 +202,7 @@
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./indicacoes_op.jpg&#34; alt=&#34;png&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Fonte: elaborado pelos autores a partir de dados da Câmara Municipal de São Paulo e do IBGE.&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -539,6 +581,12 @@
       <description>&lt;h2 id=&#34;cursos-de-curta-duração&#34;&gt;Cursos de curta duração&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Análise de Dados Espaciais&lt;/strong&gt;, VIII Escola de Inverno em Métodos e Técnicas de Pesquisa do IESP-UERJ, 2023.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/lgelape/modus_2021&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Introdução à Estatística&lt;/strong&gt;&lt;/a&gt;, Modus - Curso Intensivo em Metodologias de Pesquisa em Ciências Sociais, Programa de Pós-Graduação em Ciência Política da UFMG, 2021.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/lgelape/modus_2019&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Introdução à Estatística&lt;/strong&gt;&lt;/a&gt;, Modus - Curso Intensivo em Metodologias de Pesquisa em Ciências Sociais, Programa de Pós-Graduação em Ciência Política da UFMG, 2019.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -562,7 +610,12 @@
 &lt;/ul&gt;
 &lt;h2 id=&#34;workshops&#34;&gt;Workshops&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Uso de mapas na Ciência Política&lt;/strong&gt;, workshop apresentado no VIII Seminário de Ciência Política e Relações Internacionais da UFPE, 2019.&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Introdução ao R&lt;/strong&gt;, 7ª edição da Conferência Brasileira de Jornalismo de Dados e Métodos Digitais (Coda.BR), 2022 (com Ana Carolina Moreno).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Uso de mapas na Ciência Política&lt;/strong&gt;, workshop apresentado no VIII Seminário de Ciência Política e Relações Internacionais da UFPE, 2019.&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -618,7 +671,7 @@
 &lt;/ul&gt;
 &lt;h2 id=&#34;pré-print&#34;&gt;Pré-print&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Rocha, Marta Mendes; Gelape, Lucas. 2023. &lt;a href=&#34;/publications/political_affairs/&#34;&gt;&amp;ldquo;Political affairs&amp;rdquo;: brokerage relationships between state representatives and local politicians in Brazil&lt;/a&gt;. &lt;strong&gt;SciELO Preprints&lt;/strong&gt;. Disponível em: &lt;a href=&#34;https://doi.org/10.1590/SciELOPreprints.4064&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1590/SciELOPreprints.4064&lt;/a&gt;. (Trabalho original disponibilizado em 2022).&lt;/li&gt;
+&lt;li&gt;Rocha, Marta Mendes; Gelape, Lucas. 2023. &lt;a href=&#34;/publication/political_affairs/&#34;&gt;&amp;ldquo;Political affairs&amp;rdquo;: brokerage relationships between state representatives and local politicians in Brazil&lt;/a&gt;. &lt;strong&gt;SciELO Preprints&lt;/strong&gt;. Disponível em: &lt;a href=&#34;https://doi.org/10.1590/SciELOPreprints.4064&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1590/SciELOPreprints.4064&lt;/a&gt;. (Trabalho original disponibilizado em 2022).&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;trabalhos-em-andamento&#34;&gt;Trabalhos em andamento&lt;/h2&gt;
 &lt;ul&gt;

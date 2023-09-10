@@ -201,8 +201,22 @@
                 href="/en/tags/"
                 />
   </url><url>
+    <loc>/en/publication/political_affairs/</loc>
+    <lastmod>2023-04-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/publication/political_affairs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/publication/political_affairs/"
+                />
+  </url><url>
     <loc>/en/publication-type/2/</loc>
-    <lastmod>2022-07-18T00:00:00+00:00</lastmod>
+    <lastmod>2023-04-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -214,6 +228,46 @@
                 hreflang="en"
                 href="/en/publication-type/2/"
                 />
+  </url><url>
+    <loc>/en/tag/brokers/</loc>
+    <lastmod>2023-04-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/tag/brokers/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tag/brokers/"
+                />
+  </url><url>
+    <loc>/en/tag/local-politics/</loc>
+    <lastmod>2023-04-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/en/authors/marta-mendes-da-rocha/</loc>
+    <lastmod>2023-04-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/authors/marta-mendes-da-rocha/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/authors/marta-mendes-da-rocha/"
+                />
+  </url><url>
+    <loc>/en/tag/multilevel-connections/</loc>
+    <lastmod>2023-04-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/en/tag/state-representatives/</loc>
+    <lastmod>2023-04-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>/en/tag/city-councilors/</loc>
     <lastmod>2022-07-18T00:00:00+00:00</lastmod>
@@ -234,10 +288,6 @@
                 />
   </url><url>
     <loc>/en/tag/intra-party-competition/</loc>
-    <lastmod>2022-07-18T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>/en/tag/local-politics/</loc>
     <lastmod>2022-07-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -298,20 +348,6 @@
     <loc>/en/tag/incumbency-advantage/</loc>
     <lastmod>2022-05-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>/en/tag/brokers/</loc>
-    <lastmod>2021-10-06T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="/tag/brokers/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tag/brokers/"
-                />
   </url><url>
     <loc>/en/tag/city-council/</loc>
     <lastmod>2021-10-06T00:00:00+00:00</lastmod>

@@ -182,6 +182,84 @@
                 href="/tags/"
                 />
   </url><url>
+    <loc>/publication/political_affairs/</loc>
+    <lastmod>2023-04-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/publication/political_affairs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/publication/political_affairs/"
+                />
+  </url><url>
+    <loc>/publication-type/2/</loc>
+    <lastmod>2023-04-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/publication-type/2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/publication-type/2/"
+                />
+  </url><url>
+    <loc>/tag/brokers/</loc>
+    <lastmod>2023-04-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tag/brokers/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/tag/brokers/"
+                />
+  </url><url>
+    <loc>/tag/deputados-estaduais/</loc>
+    <lastmod>2023-04-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/tag/intermediacao-de-interesses/</loc>
+    <lastmod>2023-04-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/authors/marta-mendes-da-rocha/</loc>
+    <lastmod>2023-04-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/authors/marta-mendes-da-rocha/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/authors/marta-mendes-da-rocha/"
+                />
+  </url><url>
+    <loc>/tag/politica-local/</loc>
+    <lastmod>2023-04-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tag/politica-local/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/tag/politica-local/"
+                />
+  </url><url>
     <loc>/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -199,20 +277,6 @@
                 rel="alternate"
                 hreflang="pt"
                 href="/"
-                />
-  </url><url>
-    <loc>/publication-type/2/</loc>
-    <lastmod>2022-07-18T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/publication-type/2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="/publication-type/2/"
                 />
   </url><url>
     <loc>/tag/carreiras-politicas/</loc>
@@ -240,20 +304,6 @@
     <loc>/tag/partidos-politicos/</loc>
     <lastmod>2022-07-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>/tag/politica-local/</loc>
-    <lastmod>2022-07-18T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tag/politica-local/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="/tag/politica-local/"
-                />
   </url><url>
     <loc>/publication/restricao_partidaria/</loc>
     <lastmod>2022-07-18T00:00:00+00:00</lastmod>
@@ -325,20 +375,6 @@
                 rel="alternate"
                 hreflang="pt"
                 href="/publication/indicacoes_sp/"
-                />
-  </url><url>
-    <loc>/tag/brokers/</loc>
-    <lastmod>2021-10-06T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tag/brokers/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="/tag/brokers/"
                 />
   </url><url>
     <loc>/authors/graziele-silotto/</loc>

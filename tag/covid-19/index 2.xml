@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Covid-19 | Lucas Gelape</title>
+    <link>/tag/covid-19/</link>
+      <atom:link href="/tag/covid-19/index.xml" rel="self" type="application/rss+xml" />
+    <description>Covid-19</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>© 2023</copyright><lastBuildDate>Mon, 12 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu1d16897e3fa93fcb083438e47d0c5cbc_11292_512x512_fill_lanczos_center_3.png</url>
+      <title>Covid-19</title>
+      <link>/tag/covid-19/</link>
+    </image>
+    
+    <item>
+      <title>Destaques</title>
+      <link>/blog/destaques/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/blog/destaques/</guid>
+      <description>&lt;p&gt;Neste post, apresento os meus principais trabalhos para o público em geral:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/blog/vantagens_reeleicao/&#34;&gt;&lt;em&gt;As vantagens da reeleição&lt;/em&gt;&lt;/a&gt;: artigo de opinião publicado na &lt;em&gt;Folha de S. Paulo&lt;/em&gt;, em resposta ao artigo do ex-presidente Fernando Henrique Cardoso contra o instituto da reeleição;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/blog/science_pulse/&#34;&gt;&lt;em&gt;Science Pulse&lt;/em&gt;&lt;/a&gt;: desenvolvimento do aplicativo web da ferramenta de social listening da comunidade científica desenvolvida em &lt;code&gt;Shiny&lt;/code&gt;;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/blog/bolsonaro_aprovacao/&#34;&gt;&lt;em&gt;Na contramão de outros líderes, avaliação de Bolsonaro fica estagnada durante pandemia&lt;/em&gt;&lt;/a&gt;: matéria publicada no Núcleo Jornalismo, repercutiu em diveros veículos de imprensa;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/blog/materias_g1/&#34;&gt;Notícias publicadas no G1&lt;/a&gt;: destaco três daquelas que foram furos ou trouxeram novos ângulos para histórias que vinham sendo cobertas por outros veículos.  &lt;a href=&#34;https://g1.globo.com/politica/noticia/2018/07/29/em-23-das-cidades-do-pais-partidos-nao-declaram-despesas-de-2017.ghtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Em 2/3 das cidades do país, partidos não declaram despesas de 2017&lt;/em&gt;&lt;/a&gt; retrata a organização partidária pelo país, tentando entender porque partidos podem não declarar despesas e como elas se compõem. &lt;a href=&#34;https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/10/08/numero-de-policiais-e-militares-no-legislativo-e-quatro-vezes-maior-do-que-o-de-2014.ghtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Número de policiais e militares no Legislativo é quatro vezes maior do que o de 2014&lt;/em&gt;&lt;/a&gt; (com Gabriela Caesar e Ana Carolina Moreno) trouxe, no dia do primeiro turno, este número que sinalizava a força da direita que saía das urnas. &lt;a href=&#34;https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/11/07/resultados-da-votacao-por-urna-mostram-dobradinhas-na-maioria-dos-estados-no-2o-turno.ghtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Resultados da votações por urna mostram dobradinha na maioria dos estados no 2º turno&lt;/em&gt;&lt;/a&gt; usa os dados desagregados por urnas para melhor entender os resultados do segundo turno de 2018.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/blog/geografia_eleicoes/&#34;&gt;Participação no Geocast&lt;/a&gt;: &lt;em&gt;live&lt;/em&gt; em que discuto pesquisas sobre geografia eleitoral e como o R pode ajudar nesse tema.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Science Pulse</title>
+      <link>/blog/science_pulse/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/blog/science_pulse/</guid>
+      <description>&lt;p&gt;Sou responsável pelo desenvolvimento dos algoritmos de curadoria de conteúdo e &lt;a href=&#34;https://sciencepulse.org/app/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;do aplicativo web&lt;/a&gt;, escrito com base em &lt;code&gt;Shiny&lt;/code&gt;, do &lt;a href=&#34;https://sciencepulse.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Science Pulse&lt;/a&gt;. Trata-se de uma ferramenta multiplataforma de &lt;em&gt;social listening&lt;/em&gt; da comunidade científica nas redes sociais, com o objetivo principal de conectar jornalistas com fontes na comunidade científica, que produzam conteúdo para as redes sociais. Atualmente, ela monitora contas de pesquisadores e instituições no Twitter, e de instituições no Facebook.&lt;/p&gt;
+&lt;p&gt;O aplicativo é &lt;em&gt;open-source&lt;/em&gt; e o código-fonte das versões pode ser acessado &lt;a href=&#34;https://github.com/voltdatalab/science-pulse-public&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;neste repositório do GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;O Science Pulse é um projeto desenvolvido pelo Volt Data Lab, com apoio do International Center for Journalists (ICFJ). Ele é liderado por Sérgio Spagnuolo, Knight Fellow do ICFJ e fundador do Volt.&lt;/p&gt;
+&lt;p&gt;A partir de dados coletados com o Science Pulse, também contribuí para a produção de matérias no Núcleo Jornalismo:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://nucleo.jor.br/redes/2021-03-11-ciencia-dispara-twitter-divulgadores&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Em meio ao caos, ciência brasileira floresce no Twitter&lt;/em&gt;&lt;/a&gt; (com Alexandre Orrico), 11 mar. 2021;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://nucleo.jor.br/reportagem/2021-03-25-butantan-comunicao-digital&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;De cobras a funk: a guinada na comunicação do Butantan&lt;/em&gt;&lt;/a&gt; (com Laís Martins), 25 mar. 2021;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://nucleo.jor.br/curtas/2021-04-06-vazamento-facebook-dados-repercussao-twitter&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Campanha de especialistas busca mobilizar redes em favor de lockdown&lt;/em&gt;&lt;/a&gt;, 06 abr. 2021.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Núcleo Jornalismo - Política</title>
+      <link>/blog/nucleo_politica/</link>
+      <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/blog/nucleo_politica/</guid>
+      <description>&lt;p&gt;No &lt;a href=&#34;https://nucleo.jor.br/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Núcleo Jornalismo&lt;/a&gt;, contribuo com a análise de dados e, eventualmente, reportagem. As matérias de política em que participei foram:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://nucleo.jor.br/reportagem/2021-04-08-tabata-amaral-esquerda-ataques&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;As redes de esquerda odeiam Tabata Amaral. Por quê?&lt;/em&gt;&lt;/a&gt; (com Sérgio Spagnuolo e Laís Martins), 08 abr. 2021;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://nucleo.jor.br/governo/2020-11-28-vereadores-jovens-brasil-2020&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Proporção de vereadores mais jovens mantém queda no Brasil&lt;/em&gt;&lt;/a&gt;, 28 nov. 2020;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://nucleo.jor.br/media/2020-11-10-vereadores-reeleicao-desertos-noticia&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Em desertos de notícia, vereadores buscam mais a reeleição&lt;/em&gt;&lt;/a&gt;, 10 nov. 2020;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://nucleo.jor.br/pesquisas/2020-04-01-popularidade-bolsonaro-lideres-coronavirus&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Na contramão de outros líderes, avaliação de Bolsonaro fica estagnada durante pandemia&lt;/em&gt;&lt;/a&gt;, 01 abr. 2020.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Núcleo Jornalismo - Redes Sociais</title>
+      <link>/blog/nucleo_redes/</link>
+      <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/blog/nucleo_redes/</guid>
+      <description>&lt;p&gt;No &lt;a href=&#34;https://nucleo.jor.br/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Núcleo Jornalismo&lt;/a&gt;, contribuo com a análise de dados e, eventualmente, reportagem. Recentemente, a linha editorial do Núcleo se dedica a cobrir o impacto das redes sociais na sociedade. As matérias de redes sociais em que eu participei foram:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://nucleo.jor.br/especiais/2021-04-15-influencers-armas-instagram&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Armas viram moeda de influência no Instagram&lt;/em&gt;&lt;/a&gt; (com Laís Martins), 15 abr. 2021;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://nucleo.jor.br/reportagem/2021-04-08-tabata-amaral-esquerda-ataques&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;As redes de esquerda odeiam Tabata Amaral. Por quê?&lt;/em&gt;&lt;/a&gt; (com Sérgio Spagnuolo e Laís Martins), 08 abr. 2021;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://nucleo.jor.br/reportagem/2021-04-01-facebook-comercio-armas&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Facebook ainda é usado para comprar e vender armas no Brasil&lt;/em&gt;&lt;/a&gt;, 01 abr. 2021;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://nucleo.jor.br/curtas/2021-04-06-vazamento-facebook-dados-repercussao-twitter&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Campanha de especialistas busca mobilizar redes em favor de lockdown&lt;/em&gt;&lt;/a&gt;, 06 abr. 2021;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://nucleo.jor.br/reportagem/2021-03-25-butantan-comunicao-digital&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;De cobras a funk: a guinada na comunicação do Butantan&lt;/em&gt;&lt;/a&gt; (com Laís Martins), 25 mar. 2021;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://nucleo.jor.br/redes/2021-03-11-ciencia-dispara-twitter-divulgadores&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Em meio ao caos, ciência brasileira floresce no Twitter&lt;/em&gt;&lt;/a&gt; (com Alexandre Orrico), 11 mar. 2021.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Projetos - Volt Data Lab</title>
+      <link>/blog/voltdatalab/</link>
+      <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/blog/voltdatalab/</guid>
+      <description>&lt;p&gt;Como analista de dados no &lt;a href=&#34;https://www.voltdata.info/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Volt Data Lab&lt;/a&gt;, participei de projetos que envolveram coleta, análise e visualização de dados de diversas fontes.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;/blog/science_pulse/&#34;&gt;Science Pulse&lt;/a&gt;: &lt;a href=&#34;https://sciencepulse.org/app&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ferramenta online&lt;/a&gt; para conectar jornalistas à conversa científica nas redes sociais, por meio da disponibilização de postagens de uma lista de fontes (instituições científicas, pesquisadores, cientistas e afins) que se engajam nas redes (especialmente no Twitter). Este projeto envolveu programação em R em servidores remotos e desenvolvimento de aplicativo em &lt;code&gt;Shiny&lt;/code&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://nucleo.jor.br/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Núcleo Jornalismo&lt;/a&gt;: contribuo com a análise de dados e, eventualmente, reportagem de matérias publicadas no Núcleo Jornalismo. Recentemente, a linha editorial do Núcleo se dedica a cobrir o impacto das redes sociais na sociedade, mas participei de matérias com outros enfoques. Minhas participações envolveram matérias sobre &lt;a href=&#34;/blog/nucleo_politica/&#34;&gt;política&lt;/a&gt; e &lt;a href=&#34;/blog/nucleo_redes/&#34;&gt;redes sociais&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;/software/&#34;&gt;Pacotes em R&lt;/a&gt;: desenvolvi dois pacotes que permitem extrair dados em APIs produzidas pelo Volt Data Lab: o &lt;a href=&#34;https://github.com/sergiospagnuolo/pollingBR&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;code&gt;pollingBR&lt;/code&gt;&lt;/a&gt;, com dados de pesquisas eleitorais compiladas pelo Poder360; &lt;a href=&#34;https://github.com/voltdatalab/crossfire&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;code&gt;crossfire&lt;/code&gt;&lt;/a&gt;, com dados de tiroteios nas regiões metropolitanas do Rio de Janeiro e Recife produzidos pelo Fogo Cruzado; e &lt;a href=&#34;https://github.com/voltdatalab/newsatlasbr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;code&gt;newsatlasbr&lt;/code&gt;&lt;/a&gt;, que extrai dados do Atlas da Notícia.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://tierraderesistentes.com/pt/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Terra de Resistentes&lt;/a&gt;: projeto colaborativo que investigou ameaças a líderes ambientais e suas comunidades em sete países da América Latina. Contribuí com a análise e visualização de dados sobre &lt;a href=&#34;https://tierraderesistentes.com/pt/index.php/2020/03/06/el-cercado-indigena/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ameaças à comunidades indígenas em Rondônia&lt;/a&gt;. Esta matéria envolveu análise de dados de terras indígenas, desmatamento, estradas ilegais, hidrografia, processos de mineração e imóveis rurais. O projeto foi finalista na categoria &amp;ldquo;Cobertura&amp;rdquo; do &lt;a href=&#34;https://premioggm.org/premio-gabo/edicion/2020/trabajos/cobertura/tierra-de-resistentes/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prêmio Gabo 2020&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.voltdata.info/conteudo/2019/estatsticas-de-podcasts&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Estatísticas e dados do segmento de podcasts no Brasil em 2019&lt;/a&gt;: neste relatório, eu e Sérgio Spagnuolo analisamos informações sobre podcasts brasileiros e internacionais hospedados na plataforma &lt;a href=&#34;https://www.pocketcasts.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pocket Casts&lt;/a&gt;, coletadas por meio de raspagem de dados em julho e agosto de 2019. O &lt;a href=&#34;https://github.com/sergiospagnuolo/pesquisa-podcasts&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;código para coleta e análise pode ser consultado no GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Como a pandemia afeta as eleições</title>
+      <link>/blog/pandemia_eleicoes/</link>
+      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/blog/pandemia_eleicoes/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://noticias.uol.com.br/colunas/observatorio-das-eleicoes/2020/10/15/como-a-pandemia-afeta-as-eleicoes.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Neste artigo&lt;/a&gt;, avalio como as evidências científicas sobre eleições realizadas ao redor do mundo durante a pandemia de Covid-19 podem jogar luz o que esperar deste cenário nas eleições locais brasileiras de 2020.&lt;/p&gt;
+&lt;p&gt;Artigo publicado na seção “Observatório das Eleições” do UOL, em 15 out. 2020, iniciativa do INCT - Instituto de Democracia e da Democratização da Comunicação.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>São Paulo: alinhamento subnacional e os desafios do combate à Covid-19 na maior cidade do país</title>
+      <link>/blog/sp_covid19/</link>
+      <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/blog/sp_covid19/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://nepolufjf.wordpress.com/2020/04/07/sao-paulo-alinhamento-subnacional-e-os-desafios-do-combate-a-covid-19-na-maior-cidade-do-pais/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Como a cidade de São Paulo respondeu aos desafios das primeiras semanas da pandemia do novo coronavírus?&lt;/a&gt;. Neste texto, apresentei as primeiras medidas tomadas pelo prefeito Bruno Covas (PSDB) e sua relação com o governador João Doria (PSDB). Também discuti as principais políticas de saúde, assistência social e mobilidade urbana e problemas relacionados a elas nesse período. Por fim, enumerei alguns desafios que a cidade enfrentaria: a manutenção de medidas de isolamento, alcançar populações vulneráveis, aumentar a capacidade de testagem e tratamento e planejar a retomada de atividades econômicas.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://nepolufjf.wordpress.com/2020/04/07/sao-paulo-alinhamento-subnacional-e-os-desafios-do-combate-a-covid-19-na-maior-cidade-do-pais/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Análise publicada em 07 de abril de 2020&lt;/a&gt; na &lt;a href=&#34;https://nepolufjf.wordpress.com/os-governos-municipais-frente-ao-coronavirus/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;série &amp;ldquo;Os governos municipais frente ao coronavírus&amp;rdquo;&lt;/a&gt; do Núcleo de Estudos sobre Política Local (NEPOL-UFJF).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Na contramão de outros líderes, avaliação de Bolsonaro fica estagnada durante pandemia</title>
+      <link>/blog/bolsonaro_aprovacao/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/blog/bolsonaro_aprovacao/</guid>
+      <description>&lt;p&gt;Como a avaliação de Jair Bolsonaro se comparou a outros líderes mundiais nas primeiras semanas da pandemia do novo coronavírus? &lt;a href=&#34;https://nucleo.jor.br/pesquisas/2020-04-01-popularidade-bolsonaro-lideres-coronavirus&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Comparando a avaliação do presidente brasileiro com a de líderes em outros sete países&lt;/a&gt;, verifiquei que, ao contrário dos demais, Bolsonaro foi o único cuja aprovação não subiu nestas semanas iniciais. Este resultado foi discutido a partir da teoria do &lt;em&gt;rally-round-the-flag-effect&lt;/em&gt; (efeito de união nacional, em tradução livre) que explica o súbito aumento da popularidade de líderes políticos em momentos de crises nacionais.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://nucleo.jor.br/pesquisas/2020-04-01-popularidade-bolsonaro-lideres-coronavirus&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Análise publicada em 01 de abril de 2020&lt;/a&gt; no site &lt;a href=&#34;https://nucleo.jor.br/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Núcleo Jornalismo&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Após contribuição de &lt;em&gt;The Brazilian Report&lt;/em&gt;, que &lt;a href=&#34;https://brazilian.report/latin-america/2020/03/24/amlo-bolsonaro-feel-the-limits-of-personalized-politics/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;republicou o levantamento acrescentando dados do México&lt;/a&gt;, ele repercutiu no &lt;a href=&#34;https://globoplay.globo.com/v/8458433/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Jornal Nacional&lt;/em&gt;&lt;/a&gt;, no &lt;a href=&#34;https://g1.globo.com/politica/noticia/2020/04/04/ao-contrario-de-outros-paises-governos-de-brasil-e-mexico-perdem-popularidade-na-crise-do-coronavirus.ghtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;G1&lt;/em&gt;&lt;/a&gt;, e nas colunas de &lt;a href=&#34;https://www1.folha.uol.com.br/colunas/helioschwartsman/2020/04/bolsonaro-e-burro-mesmo.shtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hélio Schwartsman&lt;/a&gt; e &lt;a href=&#34;https://www1.folha.uol.com.br/colunas/monicabergamo/2020/04/bolsonaro-e-unico-lider-do-mundo-a-perder-popularidade-em-crise-de-coronavirus-mostram-pesquisas.shtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Monica Bergamo&lt;/a&gt;, na &lt;em&gt;Folha de S. Paulo&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.google.com/spreadsheets/d/1v5-qq_4eLAi-Putcgc7pTkdcCUR5q97wuWZr0JQqwXE/edit#gid=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dados&lt;/a&gt; e &lt;a href=&#34;https://gist.github.com/lgelape/7022068fe55e18c7a100cfceb01a70d9&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;códigos&lt;/a&gt; desta análise estão abertos para acesso.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
