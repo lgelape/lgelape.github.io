@@ -15,6 +15,9 @@
                 href="/about/"
                 />
   </url><url>
+    <loc>/pt/about/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>/publication-type/6/</loc>
     <lastmod>2023-05-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -66,6 +69,10 @@
                 href="/authors/carlos-estevao-c.-cruz/"
                 />
   </url><url>
+    <loc>/pt/publication/mandatos_coletivos_gambiarra/</loc>
+    <lastmod>2023-05-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>/publication/mandatos_coletivos_gambiarra/</loc>
     <lastmod>2023-05-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -98,6 +105,29 @@
     <lastmod>2023-05-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>/</loc>
+    <lastmod>2023-05-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="menu"
+                href="/menu/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/"
+                />
+  </url><url>
+    <loc>/pt/</loc>
+    <lastmod>2023-05-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>/authors/admin/</loc>
     <lastmod>2023-05-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -113,6 +143,10 @@
                 />
   </url><url>
     <loc>/tag/mandatos-coletivos/</loc>
+    <lastmod>2023-05-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/pt/publication/</loc>
     <lastmod>2023-05-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -181,6 +215,10 @@
                 hreflang="pt"
                 href="/tags/"
                 />
+  </url><url>
+    <loc>/pt/publication/political_affairs/</loc>
+    <lastmod>2023-04-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>/publication/political_affairs/</loc>
     <lastmod>2023-04-05T00:00:00+00:00</lastmod>
@@ -260,24 +298,9 @@
                 href="/tag/politica-local/"
                 />
   </url><url>
-    <loc>/</loc>
+    <loc>/index.html</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="menu"
-                href="/menu/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="/"
-                />
   </url><url>
     <loc>/tag/carreiras-politicas/</loc>
     <lastmod>2022-07-18T00:00:00+00:00</lastmod>
@@ -302,6 +325,10 @@
                 />
   </url><url>
     <loc>/tag/partidos-politicos/</loc>
+    <lastmod>2022-07-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/pt/publication/restricao_partidaria/</loc>
     <lastmod>2022-07-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -337,6 +364,10 @@
                 href="/publication-type/7/"
                 />
   </url><url>
+    <loc>/pt/publication/tese/</loc>
+    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>/publication/tese/</loc>
     <lastmod>2022-05-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -361,6 +392,10 @@
   </url><url>
     <loc>/tag/reeleicao/</loc>
     <lastmod>2022-05-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/pt/publication/indicacoes_sp/</loc>
+    <lastmod>2021-10-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>/publication/indicacoes_sp/</loc>
@@ -501,6 +536,10 @@
                 href="/blog/destaques/"
                 />
   </url><url>
+    <loc>/pt/blog/destaques/</loc>
+    <lastmod>2021-04-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>/tag/divulgacao-cientifica/</loc>
     <lastmod>2021-04-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -554,6 +593,10 @@
                 hreflang="pt"
                 href="/blog/science_pulse/"
                 />
+  </url><url>
+    <loc>/pt/blog/science_pulse/</loc>
+    <lastmod>2021-04-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>/tag/shiny/</loc>
     <lastmod>2021-04-12T00:00:00+00:00</lastmod>
@@ -665,6 +708,10 @@
                 href="/blog/nucleo_politica/"
                 />
   </url><url>
+    <loc>/pt/blog/nucleo_politica/</loc>
+    <lastmod>2021-04-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>/blog/nucleo_redes/</loc>
     <lastmod>2021-04-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -678,6 +725,10 @@
                 hreflang="pt"
                 href="/blog/nucleo_redes/"
                 />
+  </url><url>
+    <loc>/pt/blog/nucleo_redes/</loc>
+    <lastmod>2021-04-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>/tag/podcasts/</loc>
     <lastmod>2021-04-11T00:00:00+00:00</lastmod>
@@ -710,6 +761,10 @@
                 hreflang="pt"
                 href="/blog/voltdatalab/"
                 />
+  </url><url>
+    <loc>/pt/blog/voltdatalab/</loc>
+    <lastmod>2021-04-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>/tag/violence/</loc>
     <lastmod>2021-04-11T00:00:00+00:00</lastmod>
@@ -757,6 +812,10 @@
                 href="/blog/pandemia_eleicoes/"
                 />
   </url><url>
+    <loc>/pt/blog/pandemia_eleicoes/</loc>
+    <lastmod>2020-10-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>/tag/local-elections/</loc>
     <lastmod>2020-10-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -788,6 +847,10 @@
                 hreflang="pt"
                 href="/blog/vantagens_reeleicao/"
                 />
+  </url><url>
+    <loc>/pt/blog/vantagens_reeleicao/</loc>
+    <lastmod>2020-09-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>/tag/fhc/</loc>
     <lastmod>2020-09-24T00:00:00+00:00</lastmod>
@@ -821,6 +884,10 @@
                 href="/blog/geografia_eleicoes/"
                 />
   </url><url>
+    <loc>/pt/blog/geografia_eleicoes/</loc>
+    <lastmod>2020-08-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>/tag/sao-paulo/</loc>
     <lastmod>2020-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -848,6 +915,10 @@
                 hreflang="pt"
                 href="/blog/sp_covid19/"
                 />
+  </url><url>
+    <loc>/pt/blog/sp_covid19/</loc>
+    <lastmod>2020-04-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>/tag/aprovacao-presidencial/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
@@ -894,6 +965,10 @@
                 hreflang="pt"
                 href="/blog/bolsonaro_aprovacao/"
                 />
+  </url><url>
+    <loc>/pt/blog/bolsonaro_aprovacao/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>/tag/popularidade-presidencial/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
@@ -955,6 +1030,10 @@
                 href="/blog/materias_g1/"
                 />
   </url><url>
+    <loc>/pt/blog/materias_g1/</loc>
+    <lastmod>2018-11-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>/tag/geografia-eleitoral/</loc>
     <lastmod>2018-03-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1001,6 +1080,10 @@
                 href="/blog/marielle_franco/"
                 />
   </url><url>
+    <loc>/pt/blog/marielle_franco/</loc>
+    <lastmod>2018-03-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>/tag/rio-de-janeiro/</loc>
     <lastmod>2018-03-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1015,11 +1098,19 @@
                 href="/tag/rio-de-janeiro/"
                 />
   </url><url>
+    <loc>/pt/publication/dissertacao/</loc>
+    <lastmod>2017-01-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>/publication/dissertacao/</loc>
     <lastmod>2017-01-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>/tag/consultoria-legislativa/</loc>
+    <lastmod>2016-03-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/pt/publication/almg/</loc>
     <lastmod>2016-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -1033,6 +1124,10 @@
   </url><url>
     <loc>/authors/fabiana-de-menezes-soares/</loc>
     <lastmod>2016-03-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/pt/publication/anacronismo_lista_aberta/</loc>
+    <lastmod>2015-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>/publication/anacronismo_lista_aberta/</loc>
@@ -1069,6 +1164,10 @@
                 href="/blog/direito_ufmg/"
                 />
   </url><url>
+    <loc>/pt/blog/direito_ufmg/</loc>
+    <lastmod>2015-01-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>/publication-type/1/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1078,6 +1177,10 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>/tag/art-theory-and-politics/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/pt/publication/art_politics/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -1128,6 +1231,12 @@
                 href="/courses/"
                 />
   </url><url>
+    <loc>/pt/courses/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/pt/authors/admin/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>/research/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -1141,6 +1250,9 @@
                 href="/research/"
                 />
   </url><url>
+    <loc>/pt/research/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>/software/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -1153,5 +1265,8 @@
                 hreflang="pt"
                 href="/software/"
                 />
+  </url><url>
+    <loc>/pt/software/</loc>
+    <changefreq>weekly</changefreq>
   </url>
 </urlset>
