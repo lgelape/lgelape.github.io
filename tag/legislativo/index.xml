@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Legislativo | Lucas Gelape</title>
+    <link>/tag/legislativo/</link>
+      <atom:link href="/tag/legislativo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Legislativo</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>© 2025</copyright><lastBuildDate>Thu, 19 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu1d16897e3fa93fcb083438e47d0c5cbc_11292_512x512_fill_lanczos_center_3.png</url>
+      <title>Legislativo</title>
+      <link>/tag/legislativo/</link>
+    </image>
+    
+    <item>
+      <title>Destaques</title>
+      <link>/blog/destaques/</link>
+      <pubDate>Thu, 19 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>/blog/destaques/</guid>
+      <description>&lt;p&gt;Neste post, apresento alguns dos meus principais trabalhos de intervenção, jornalismo de textos e divulgação científica:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/blog/aumento_deputados/&#34;&gt;&lt;em&gt;Representatividade falha entre estados seguirá mesmo com mais deputados&lt;/em&gt;&lt;/a&gt; (com Lara Mesquita), &lt;em&gt;Folha de S. Paulo&lt;/em&gt;: análise sobre o PLP 177/23, que aumenta o número de cadeiras na Câmara dos Deputados.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/blog/camara_sp_2024/&#34;&gt;&lt;em&gt;Geografia é mais determinante que ideologia em votação para Câmara de São Paulo&lt;/em&gt;&lt;/a&gt;, &lt;em&gt;Folha de S. Paulo&lt;/em&gt;: análise sobre as eleições para a Câmara Municipal de São Paulo em 2024.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/blog/pauta_pet/&#34;&gt;&lt;em&gt;K-99, um candidato bom para os cachorros&lt;/em&gt;&lt;/a&gt;, &lt;em&gt;O Estado de S. Paulo&lt;/em&gt;: artigo sobre o aumento da relevância da pauta de direitos dos animais na política brasileira.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/blog/numeros_primos/&#34;&gt;&lt;em&gt;Números primos não são parentes&lt;/em&gt;&lt;/a&gt;, (com Fabiana de Menezes Soares) &lt;em&gt;Folha de S. Paulo&lt;/em&gt;: resposta a artigo de Marcelo Viana sobre a importância da Matemática na solução de grandes questões da contemporaneidade, com base no caso do redesenho de distritos eleitorais.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/blog/reeleicao_municipal/&#34;&gt;&lt;em&gt;A reeleição e as eleições municipais&lt;/em&gt;&lt;/a&gt;, &lt;em&gt;Folha de S. Paulo&lt;/em&gt;: apresenta dados históricos de reeleição no Brasil, na véspera do primeiro turno de 2024.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/blog/vantagens_reeleicao/&#34;&gt;&lt;em&gt;As vantagens da reeleição&lt;/em&gt;&lt;/a&gt;, &lt;em&gt;Folha de S. Paulo&lt;/em&gt;: resposta ao artigo do ex-presidente Fernando Henrique Cardoso contra o instituto da reeleição.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/blog/sao_joao_responsividade/&#34;&gt;&lt;em&gt;Parlamentares e as festas de São João: em defesa da responsividade simbólica&lt;/em&gt;&lt;/a&gt; (com Telma Hoyler), &lt;em&gt;Congresso em Foco&lt;/em&gt;: artigo sobre o papel simbólico de exercício da representação política exercido por congressistas em suas visitas à bases eleitorais.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/blog/bolsonaro_aprovacao/&#34;&gt;&lt;em&gt;Na contramão de outros líderes, avaliação de Bolsonaro fica estagnada durante pandemia&lt;/em&gt;&lt;/a&gt;, &lt;em&gt;Núcleo Jornalismo&lt;/em&gt;: análise sobre a avaliação do governo Bolsonaro, comparada a outros líderes mundiais, e que repercutiu em diversos veículos de imprensa (Folha de S. Paulo, Jornal Nacional);&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/blog/geografia_eleicoes/&#34;&gt;&lt;em&gt;Geografia Eleitoral&lt;/em&gt;&lt;/a&gt;, &lt;em&gt;Geocast&lt;/em&gt;: &lt;em&gt;live&lt;/em&gt; em que discuto pesquisas sobre geografia eleitoral e como o R pode ajudar nesse tema.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/blog/materias_g1/&#34;&gt;&lt;em&gt;G1&lt;/em&gt;&lt;/a&gt;: destaco três reportagens com furos de reportagem ou trouxeram novos ângulos para histórias que vinham sendo cobertas por outros veículos:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://g1.globo.com/politica/noticia/2018/07/29/em-23-das-cidades-do-pais-partidos-nao-declaram-despesas-de-2017.ghtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Em 2/3 das cidades do país, partidos não declaram despesas de 2017&lt;/em&gt;&lt;/a&gt; retrata a organização partidária pelo país, tentando entender porque partidos podem não declarar despesas e como elas se compõem.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/10/08/numero-de-policiais-e-militares-no-legislativo-e-quatro-vezes-maior-do-que-o-de-2014.ghtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Número de policiais e militares no Legislativo é quatro vezes maior do que o de 2014&lt;/em&gt;&lt;/a&gt; (com Gabriela Caesar e Ana Carolina Moreno) trouxe, no dia do primeiro turno, este número que sinalizava a força da direita que saía das urnas.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/11/07/resultados-da-votacao-por-urna-mostram-dobradinhas-na-maioria-dos-estados-no-2o-turno.ghtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Resultados da votações por urna mostram dobradinha na maioria dos estados no 2º turno&lt;/em&gt;&lt;/a&gt; usa os dados desagregados por urnas para melhor entender os resultados do segundo turno de 2018.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Destaques</title>
+      <link>/pt/blog/destaques/</link>
+      <pubDate>Thu, 19 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>/pt/blog/destaques/</guid>
+      <description>&lt;p&gt;Neste post, apresento alguns dos meus principais trabalhos de intervenção, jornalismo de textos e divulgação científica:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/blog/aumento_deputados/&#34;&gt;&lt;em&gt;Representatividade falha entre estados seguirá mesmo com mais deputados&lt;/em&gt;&lt;/a&gt; (com Lara Mesquita), &lt;em&gt;Folha de S. Paulo&lt;/em&gt;: análise sobre o PLP 177/23, que aumenta o número de cadeiras na Câmara dos Deputados.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/blog/camara_sp_2024/&#34;&gt;&lt;em&gt;Geografia é mais determinante que ideologia em votação para Câmara de São Paulo&lt;/em&gt;&lt;/a&gt;, &lt;em&gt;Folha de S. Paulo&lt;/em&gt;: análise sobre as eleições para a Câmara Municipal de São Paulo em 2024.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/blog/pauta_pet/&#34;&gt;&lt;em&gt;K-99, um candidato bom para os cachorros&lt;/em&gt;&lt;/a&gt;, &lt;em&gt;O Estado de S. Paulo&lt;/em&gt;: artigo sobre o aumento da relevância da pauta de direitos dos animais na política brasileira.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/blog/numeros_primos/&#34;&gt;&lt;em&gt;Números primos não são parentes&lt;/em&gt;&lt;/a&gt;, (com Fabiana de Menezes Soares) &lt;em&gt;Folha de S. Paulo&lt;/em&gt;: resposta a artigo de Marcelo Viana sobre a importância da Matemática na solução de grandes questões da contemporaneidade, com base no caso do redesenho de distritos eleitorais.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/blog/reeleicao_municipal/&#34;&gt;&lt;em&gt;A reeleição e as eleições municipais&lt;/em&gt;&lt;/a&gt;, &lt;em&gt;Folha de S. Paulo&lt;/em&gt;: apresenta dados históricos de reeleição no Brasil, na véspera do primeiro turno de 2024.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/blog/vantagens_reeleicao/&#34;&gt;&lt;em&gt;As vantagens da reeleição&lt;/em&gt;&lt;/a&gt;, &lt;em&gt;Folha de S. Paulo&lt;/em&gt;: resposta ao artigo do ex-presidente Fernando Henrique Cardoso contra o instituto da reeleição.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/blog/sao_joao_responsividade/&#34;&gt;&lt;em&gt;Parlamentares e as festas de São João: em defesa da responsividade simbólica&lt;/em&gt;&lt;/a&gt; (com Telma Hoyler), &lt;em&gt;Congresso em Foco&lt;/em&gt;: artigo sobre o papel simbólico de exercício da representação política exercido por congressistas em suas visitas à bases eleitorais.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/blog/bolsonaro_aprovacao/&#34;&gt;&lt;em&gt;Na contramão de outros líderes, avaliação de Bolsonaro fica estagnada durante pandemia&lt;/em&gt;&lt;/a&gt;, &lt;em&gt;Núcleo Jornalismo&lt;/em&gt;: análise sobre a avaliação do governo Bolsonaro, comparada a outros líderes mundiais, e que repercutiu em diversos veículos de imprensa (Folha de S. Paulo, Jornal Nacional);&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/blog/geografia_eleicoes/&#34;&gt;&lt;em&gt;Geografia Eleitoral&lt;/em&gt;&lt;/a&gt;, &lt;em&gt;Geocast&lt;/em&gt;: &lt;em&gt;live&lt;/em&gt; em que discuto pesquisas sobre geografia eleitoral e como o R pode ajudar nesse tema.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/blog/materias_g1/&#34;&gt;&lt;em&gt;G1&lt;/em&gt;&lt;/a&gt;: destaco três reportagens com furos de reportagem ou trouxeram novos ângulos para histórias que vinham sendo cobertas por outros veículos:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://g1.globo.com/politica/noticia/2018/07/29/em-23-das-cidades-do-pais-partidos-nao-declaram-despesas-de-2017.ghtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Em 2/3 das cidades do país, partidos não declaram despesas de 2017&lt;/em&gt;&lt;/a&gt; retrata a organização partidária pelo país, tentando entender porque partidos podem não declarar despesas e como elas se compõem.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/10/08/numero-de-policiais-e-militares-no-legislativo-e-quatro-vezes-maior-do-que-o-de-2014.ghtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Número de policiais e militares no Legislativo é quatro vezes maior do que o de 2014&lt;/em&gt;&lt;/a&gt; (com Gabriela Caesar e Ana Carolina Moreno) trouxe, no dia do primeiro turno, este número que sinalizava a força da direita que saía das urnas.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/11/07/resultados-da-votacao-por-urna-mostram-dobradinhas-na-maioria-dos-estados-no-2o-turno.ghtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Resultados da votações por urna mostram dobradinha na maioria dos estados no 2º turno&lt;/em&gt;&lt;/a&gt; usa os dados desagregados por urnas para melhor entender os resultados do segundo turno de 2018.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

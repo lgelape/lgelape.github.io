@@ -19,11 +19,13 @@
       <guid>/blog/destaques/</guid>
       <description>&lt;p&gt;Neste post, apresento alguns dos meus principais trabalhos de intervenção, jornalismo de textos e divulgação científica:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;/blog/aumento_deputados/&#34;&gt;&lt;em&gt;Representatividade falha entre estados seguirá mesmo com mais deputados&lt;/em&gt;&lt;/a&gt;, &lt;em&gt;Folha de S. Paulo&lt;/em&gt;: análise sobre o PLP 177/23, que aumenta o número de cadeiras na Câmara dos Deputados.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/blog/aumento_deputados/&#34;&gt;&lt;em&gt;Representatividade falha entre estados seguirá mesmo com mais deputados&lt;/em&gt;&lt;/a&gt; (com Lara Mesquita), &lt;em&gt;Folha de S. Paulo&lt;/em&gt;: análise sobre o PLP 177/23, que aumenta o número de cadeiras na Câmara dos Deputados.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;/blog/camara_sp_2024/&#34;&gt;&lt;em&gt;Geografia é mais determinante que ideologia em votação para Câmara de São Paulo&lt;/em&gt;&lt;/a&gt;, &lt;em&gt;Folha de S. Paulo&lt;/em&gt;: análise sobre as eleições para a Câmara Municipal de São Paulo em 2024.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/blog/numeros_primos/&#34;&gt;&lt;em&gt;Números primos não são parentes&lt;/em&gt;&lt;/a&gt;, &lt;em&gt;Folha de S. Paulo&lt;/em&gt;: resposta a artigo de Marcelo Viana sobre a importância da Matemática na solução de grandes questões da contemporaneidade, com base no caso do redesenho de distritos eleitorais.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/blog/pauta_pet/&#34;&gt;&lt;em&gt;K-99, um candidato bom para os cachorros&lt;/em&gt;&lt;/a&gt;, &lt;em&gt;O Estado de S. Paulo&lt;/em&gt;: artigo sobre o aumento da relevância da pauta de direitos dos animais na política brasileira.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/blog/numeros_primos/&#34;&gt;&lt;em&gt;Números primos não são parentes&lt;/em&gt;&lt;/a&gt;, (com Fabiana de Menezes Soares) &lt;em&gt;Folha de S. Paulo&lt;/em&gt;: resposta a artigo de Marcelo Viana sobre a importância da Matemática na solução de grandes questões da contemporaneidade, com base no caso do redesenho de distritos eleitorais.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;/blog/reeleicao_municipal/&#34;&gt;&lt;em&gt;A reeleição e as eleições municipais&lt;/em&gt;&lt;/a&gt;, &lt;em&gt;Folha de S. Paulo&lt;/em&gt;: apresenta dados históricos de reeleição no Brasil, na véspera do primeiro turno de 2024.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;/blog/vantagens_reeleicao/&#34;&gt;&lt;em&gt;As vantagens da reeleição&lt;/em&gt;&lt;/a&gt;, &lt;em&gt;Folha de S. Paulo&lt;/em&gt;: resposta ao artigo do ex-presidente Fernando Henrique Cardoso contra o instituto da reeleição.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/blog/sao_joao_responsividade/&#34;&gt;&lt;em&gt;Parlamentares e as festas de São João: em defesa da responsividade simbólica&lt;/em&gt;&lt;/a&gt; (com Telma Hoyler), &lt;em&gt;Congresso em Foco&lt;/em&gt;: artigo sobre o papel simbólico de exercício da representação política exercido por congressistas em suas visitas à bases eleitorais.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;/blog/bolsonaro_aprovacao/&#34;&gt;&lt;em&gt;Na contramão de outros líderes, avaliação de Bolsonaro fica estagnada durante pandemia&lt;/em&gt;&lt;/a&gt;, &lt;em&gt;Núcleo Jornalismo&lt;/em&gt;: análise sobre a avaliação do governo Bolsonaro, comparada a outros líderes mundiais, e que repercutiu em diversos veículos de imprensa (Folha de S. Paulo, Jornal Nacional);&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;/blog/geografia_eleicoes/&#34;&gt;&lt;em&gt;Geografia Eleitoral&lt;/em&gt;&lt;/a&gt;, &lt;em&gt;Geocast&lt;/em&gt;: &lt;em&gt;live&lt;/em&gt; em que discuto pesquisas sobre geografia eleitoral e como o R pode ajudar nesse tema.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;/blog/materias_g1/&#34;&gt;&lt;em&gt;G1&lt;/em&gt;&lt;/a&gt;: destaco três reportagens com furos de reportagem ou trouxeram novos ângulos para histórias que vinham sendo cobertas por outros veículos:
@@ -69,12 +71,32 @@
     </item>
     
     <item>
+      <title>K-99, um candidato bom para os cachorros</title>
+      <link>/blog/pauta_pet/</link>
+      <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>/blog/pauta_pet/</guid>
+      <description>&lt;p&gt;Artigo publicado na seção &amp;ldquo;Espaço Aberto&amp;rdquo; da &lt;a href=&#34;https://www.estadao.com.br/opiniao/espaco-aberto/k-99-um-candidato-bom-para-os-cachorros/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;edição &lt;em&gt;online&lt;/em&gt; de &lt;em&gt;O Estado de S. Paulo&lt;/em&gt;&lt;/a&gt;, em 06 out. 2024.&lt;/p&gt;
+&lt;p&gt;Apresento resultados de um levantamento sobre o aumento de temas relacionados a essa pauta em programas de governo de eleições municipais entre 2012 e 2024. A partir dos resultados, discuto as implicações eleitorais e de governança das pautas, chamando atenção para que elas sejam debatidas.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>A reeleição e as eleições municipais</title>
       <link>/blog/reeleicao_municipal/</link>
       <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
       <guid>/blog/reeleicao_municipal/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www1.folha.uol.com.br/colunas/voto-a-voto/2024/10/a-reeleicao-e-as-eleicoes-municipais.shtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Artigo publicado na coluna &amp;ldquo;Voto a Voto&amp;rdquo; da &lt;em&gt;Folha de S. Paulo&lt;/em&gt;&lt;/a&gt;, em 04 out. 2024.&lt;/p&gt;
 &lt;p&gt;Apresento alguns resultados históricos sobre reeleição em disputas municipais no Brasil, além de discutir aspectos teóricos do instituto no Brasil, em antecipação ao primeiro turno das eleições de 2024.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Parlamentares e as festas de São João: em defesa da responsividade simbólica</title>
+      <link>/blog/sao_joao_responsividade/</link>
+      <pubDate>Sat, 06 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>/blog/sao_joao_responsividade/</guid>
+      <description>&lt;p&gt;Artigo em coautoria com Telma Hoyler, &lt;a href=&#34;https://www.congressoemfoco.com.br/noticia/29077/parlamentares-e-as-festas-de-sao-joao-em-defesa-da-responsividade-simbolica&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;publicado no portal &lt;em&gt;Congresso em Foco&lt;/em&gt;&lt;/a&gt;, em julho de 2024.&lt;/p&gt;
+&lt;p&gt;No artigo, discutimos como as visitas de parlamentares às suas bases eleitorais durante festas populares são elementos importantes do exercício da representação política. Assim, comentários preconceituosos sobre a ausência desses deputados e senadores presencialmente no Congresso é uma visão míope desta representação.&lt;/p&gt;
 </description>
     </item>
     
