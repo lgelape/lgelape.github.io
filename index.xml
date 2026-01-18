@@ -5,9 +5,9 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Lucas Gelape</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>© 2025</copyright><lastBuildDate>Thu, 19 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>© 2026</copyright><lastBuildDate>Sun, 18 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/media/icon_hu1d16897e3fa93fcb083438e47d0c5cbc_11292_512x512_fill_lanczos_center_3.png</url>
+      <url>/media/icon_hufa00241f86c4313f35bbc31f9b413ce3_978835_512x512_fill_lanczos_center_3.png</url>
       <title>Lucas Gelape</title>
       <link>/</link>
     </image>
@@ -31,22 +31,41 @@
     <item>
       <title>Destaques</title>
       <link>/blog/destaques/</link>
-      <pubDate>Thu, 19 Jun 2025 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 18 Jan 2026 00:00:00 +0000</pubDate>
       <guid>/blog/destaques/</guid>
-      <description>&lt;p&gt;Neste post, apresento alguns dos meus principais trabalhos de intervenção, jornalismo de textos e divulgação científica:&lt;/p&gt;
+      <description>&lt;p&gt;Neste post, apresento alguns dos meus principais trabalhos de análise política, artigos de opinião, jornalismo de dados e divulgação científica:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;/blog/aumento_deputados/&#34;&gt;&lt;em&gt;Representatividade falha entre estados seguirá mesmo com mais deputados&lt;/em&gt;&lt;/a&gt;, &lt;em&gt;Folha de S. Paulo&lt;/em&gt;: análise sobre o PLP 177/23, que aumenta o número de cadeiras na Câmara dos Deputados.&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Artigos de opinião e/ou de análise política:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/blog/aumento_deputados/&#34;&gt;&lt;em&gt;Representatividade falha entre estados seguirá mesmo com mais deputados&lt;/em&gt;&lt;/a&gt;, &lt;em&gt;Folha de S. Paulo&lt;/em&gt;: análise sobre o PLP 177/23, que aumenta o número de cadeiras na Câmara dos Deputados (com Lara Mesquita).&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;/blog/camara_sp_2024/&#34;&gt;&lt;em&gt;Geografia é mais determinante que ideologia em votação para Câmara de São Paulo&lt;/em&gt;&lt;/a&gt;, &lt;em&gt;Folha de S. Paulo&lt;/em&gt;: análise sobre as eleições para a Câmara Municipal de São Paulo em 2024.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/blog/numeros_primos/&#34;&gt;&lt;em&gt;Números primos não são parentes&lt;/em&gt;&lt;/a&gt;, &lt;em&gt;Folha de S. Paulo&lt;/em&gt;: resposta a artigo de Marcelo Viana sobre a importância da Matemática na solução de grandes questões da contemporaneidade, com base no caso do redesenho de distritos eleitorais.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/blog/pauta_pet/&#34;&gt;&lt;em&gt;K-99, um candidato bom para os cachorros&lt;/em&gt;&lt;/a&gt;, &lt;em&gt;O Estado de S. Paulo&lt;/em&gt;: artigo sobre o aumento da relevância da pauta de direitos dos animais na política brasileira.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/blog/numeros_primos/&#34;&gt;&lt;em&gt;Números primos não são parentes&lt;/em&gt;&lt;/a&gt;, &lt;em&gt;Folha de S. Paulo&lt;/em&gt;: resposta a artigo de Marcelo Viana sobre a importância da Matemática na solução de grandes questões da contemporaneidade, com base no caso do redesenho de distritos eleitorais (com Fabiana de Menezes Soares).&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;/blog/reeleicao_municipal/&#34;&gt;&lt;em&gt;A reeleição e as eleições municipais&lt;/em&gt;&lt;/a&gt;, &lt;em&gt;Folha de S. Paulo&lt;/em&gt;: apresenta dados históricos de reeleição no Brasil, na véspera do primeiro turno de 2024.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;/blog/vantagens_reeleicao/&#34;&gt;&lt;em&gt;As vantagens da reeleição&lt;/em&gt;&lt;/a&gt;, &lt;em&gt;Folha de S. Paulo&lt;/em&gt;: resposta ao artigo do ex-presidente Fernando Henrique Cardoso contra o instituto da reeleição.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/blog/bolsonaro_aprovacao/&#34;&gt;&lt;em&gt;Na contramão de outros líderes, avaliação de Bolsonaro fica estagnada durante pandemia&lt;/em&gt;&lt;/a&gt;, &lt;em&gt;Núcleo Jornalismo&lt;/em&gt;: análise sobre a avaliação do governo Bolsonaro, comparada a outros líderes mundiais, e que repercutiu em diversos veículos de imprensa (Folha de S. Paulo, Jornal Nacional);&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/blog/geografia_eleicoes/&#34;&gt;&lt;em&gt;Geografia Eleitoral&lt;/em&gt;&lt;/a&gt;, &lt;em&gt;Geocast&lt;/em&gt;: &lt;em&gt;live&lt;/em&gt; em que discuto pesquisas sobre geografia eleitoral e como o R pode ajudar nesse tema.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/blog/sao_joao_responsividade/&#34;&gt;&lt;em&gt;Parlamentares e as festas de São João: em defesa da responsividade simbólica&lt;/em&gt;&lt;/a&gt;, &lt;em&gt;Congresso em Foco&lt;/em&gt;: artigo sobre o papel simbólico de exercício da representação política exercido por congressistas em suas visitas à bases eleitorais (com Telma Hoyler).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Análise de dados:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/blog/bolsonaro_aprovacao/&#34;&gt;&lt;em&gt;Na contramão de outros líderes, avaliação de Bolsonaro fica estagnada durante pandemia&lt;/em&gt;&lt;/a&gt;, &lt;em&gt;Núcleo Jornalismo&lt;/em&gt;: análise sobre a avaliação do governo Bolsonaro, comparada a outros líderes mundiais, e que repercutiu em diversos veículos de imprensa (Folha de S. Paulo, Jornal Nacional)&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;/blog/materias_g1/&#34;&gt;&lt;em&gt;G1&lt;/em&gt;&lt;/a&gt;: destaco três reportagens com furos de reportagem ou trouxeram novos ângulos para histórias que vinham sendo cobertas por outros veículos:
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://g1.globo.com/politica/noticia/2018/07/29/em-23-das-cidades-do-pais-partidos-nao-declaram-despesas-de-2017.ghtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Em 2/3 das cidades do país, partidos não declaram despesas de 2017&lt;/em&gt;&lt;/a&gt; retrata a organização partidária pelo país, tentando entender porque partidos podem não declarar despesas e como elas se compõem.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/10/08/numero-de-policiais-e-militares-no-legislativo-e-quatro-vezes-maior-do-que-o-de-2014.ghtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Número de policiais e militares no Legislativo é quatro vezes maior do que o de 2014&lt;/em&gt;&lt;/a&gt; (com Gabriela Caesar e Ana Carolina Moreno) trouxe, no dia do primeiro turno, este número que sinalizava a força da direita que saía das urnas.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/11/07/resultados-da-votacao-por-urna-mostram-dobradinhas-na-maioria-dos-estados-no-2o-turno.ghtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Resultados da votações por urna mostram dobradinha na maioria dos estados no 2º turno&lt;/em&gt;&lt;/a&gt; usa os dados desagregados por urnas para melhor entender os resultados do segundo turno de 2018.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Entrevistas/divulgação científica:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/blog/impressa_auditavel/&#34;&gt;&lt;em&gt;Participação na newsletter &amp;ldquo;Impressa e Auditável&amp;rdquo;&lt;/em&gt;&lt;/a&gt;: entrevista sobre pesquisas de opinião e um artigo acadêmico sobre estratégias de reação à direita radical na Europa.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/blog/fora_da_politica/&#34;&gt;&lt;em&gt;Participação no podcast &amp;ldquo;Fora da política não há salvação&amp;rdquo;&lt;/em&gt;&lt;/a&gt;: entrevista ao episódio de podcast &amp;ldquo;Fora da política não há salvação&amp;rdquo;, conduzido por Cláudio Couto, sobre as eleições municipais de 2024, junto com Marco Antonio Faganello.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/blog/geografia_eleicoes/&#34;&gt;&lt;em&gt;Geografia Eleitoral&lt;/em&gt;&lt;/a&gt;, &lt;em&gt;Geocast&lt;/em&gt;: &lt;em&gt;live&lt;/em&gt; em que discuto pesquisas sobre geografia eleitoral e como o &lt;code&gt;R&lt;/code&gt; pode ajudar nesse tema.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -56,17 +75,26 @@
     <item>
       <title>Destaques</title>
       <link>/pt/blog/destaques/</link>
-      <pubDate>Thu, 19 Jun 2025 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 18 Jan 2026 00:00:00 +0000</pubDate>
       <guid>/pt/blog/destaques/</guid>
-      <description>&lt;p&gt;Neste post, apresento alguns dos meus principais trabalhos de intervenção, jornalismo de textos e divulgação científica:&lt;/p&gt;
+      <description>&lt;p&gt;Neste post, apresento alguns dos meus principais trabalhos de análise política, artigos de opinião, jornalismo de dados e divulgação científica:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;/blog/aumento_deputados/&#34;&gt;&lt;em&gt;Representatividade falha entre estados seguirá mesmo com mais deputados&lt;/em&gt;&lt;/a&gt;, &lt;em&gt;Folha de S. Paulo&lt;/em&gt;: análise sobre o PLP 177/23, que aumenta o número de cadeiras na Câmara dos Deputados.&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Artigos de opinião e/ou de análise política:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/blog/aumento_deputados/&#34;&gt;&lt;em&gt;Representatividade falha entre estados seguirá mesmo com mais deputados&lt;/em&gt;&lt;/a&gt;, &lt;em&gt;Folha de S. Paulo&lt;/em&gt;: análise sobre o PLP 177/23, que aumenta o número de cadeiras na Câmara dos Deputados (com Lara Mesquita).&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;/blog/camara_sp_2024/&#34;&gt;&lt;em&gt;Geografia é mais determinante que ideologia em votação para Câmara de São Paulo&lt;/em&gt;&lt;/a&gt;, &lt;em&gt;Folha de S. Paulo&lt;/em&gt;: análise sobre as eleições para a Câmara Municipal de São Paulo em 2024.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/blog/numeros_primos/&#34;&gt;&lt;em&gt;Números primos não são parentes&lt;/em&gt;&lt;/a&gt;, &lt;em&gt;Folha de S. Paulo&lt;/em&gt;: resposta a artigo de Marcelo Viana sobre a importância da Matemática na solução de grandes questões da contemporaneidade, com base no caso do redesenho de distritos eleitorais.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/blog/pauta_pet/&#34;&gt;&lt;em&gt;K-99, um candidato bom para os cachorros&lt;/em&gt;&lt;/a&gt;, &lt;em&gt;O Estado de S. Paulo&lt;/em&gt;: artigo sobre o aumento da relevância da pauta de direitos dos animais na política brasileira.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/blog/numeros_primos/&#34;&gt;&lt;em&gt;Números primos não são parentes&lt;/em&gt;&lt;/a&gt;, &lt;em&gt;Folha de S. Paulo&lt;/em&gt;: resposta a artigo de Marcelo Viana sobre a importância da Matemática na solução de grandes questões da contemporaneidade, com base no caso do redesenho de distritos eleitorais (com Fabiana de Menezes Soares).&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;/blog/reeleicao_municipal/&#34;&gt;&lt;em&gt;A reeleição e as eleições municipais&lt;/em&gt;&lt;/a&gt;, &lt;em&gt;Folha de S. Paulo&lt;/em&gt;: apresenta dados históricos de reeleição no Brasil, na véspera do primeiro turno de 2024.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;/blog/vantagens_reeleicao/&#34;&gt;&lt;em&gt;As vantagens da reeleição&lt;/em&gt;&lt;/a&gt;, &lt;em&gt;Folha de S. Paulo&lt;/em&gt;: resposta ao artigo do ex-presidente Fernando Henrique Cardoso contra o instituto da reeleição.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/blog/bolsonaro_aprovacao/&#34;&gt;&lt;em&gt;Na contramão de outros líderes, avaliação de Bolsonaro fica estagnada durante pandemia&lt;/em&gt;&lt;/a&gt;, &lt;em&gt;Núcleo Jornalismo&lt;/em&gt;: análise sobre a avaliação do governo Bolsonaro, comparada a outros líderes mundiais, e que repercutiu em diversos veículos de imprensa (Folha de S. Paulo, Jornal Nacional);&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/blog/geografia_eleicoes/&#34;&gt;&lt;em&gt;Geografia Eleitoral&lt;/em&gt;&lt;/a&gt;, &lt;em&gt;Geocast&lt;/em&gt;: &lt;em&gt;live&lt;/em&gt; em que discuto pesquisas sobre geografia eleitoral e como o R pode ajudar nesse tema.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/blog/sao_joao_responsividade/&#34;&gt;&lt;em&gt;Parlamentares e as festas de São João: em defesa da responsividade simbólica&lt;/em&gt;&lt;/a&gt;, &lt;em&gt;Congresso em Foco&lt;/em&gt;: artigo sobre o papel simbólico de exercício da representação política exercido por congressistas em suas visitas à bases eleitorais (com Telma Hoyler).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Análise de dados:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/blog/bolsonaro_aprovacao/&#34;&gt;&lt;em&gt;Na contramão de outros líderes, avaliação de Bolsonaro fica estagnada durante pandemia&lt;/em&gt;&lt;/a&gt;, &lt;em&gt;Núcleo Jornalismo&lt;/em&gt;: análise sobre a avaliação do governo Bolsonaro, comparada a outros líderes mundiais, e que repercutiu em diversos veículos de imprensa (Folha de S. Paulo, Jornal Nacional)&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;/blog/materias_g1/&#34;&gt;&lt;em&gt;G1&lt;/em&gt;&lt;/a&gt;: destaco três reportagens com furos de reportagem ou trouxeram novos ângulos para histórias que vinham sendo cobertas por outros veículos:
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://g1.globo.com/politica/noticia/2018/07/29/em-23-das-cidades-do-pais-partidos-nao-declaram-despesas-de-2017.ghtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Em 2/3 das cidades do país, partidos não declaram despesas de 2017&lt;/em&gt;&lt;/a&gt; retrata a organização partidária pelo país, tentando entender porque partidos podem não declarar despesas e como elas se compõem.&lt;/li&gt;
@@ -75,6 +103,50 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Entrevistas/divulgação científica:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/blog/impressa_auditavel/&#34;&gt;&lt;em&gt;Participação na newsletter &amp;ldquo;Impressa e Auditável&amp;rdquo;&lt;/em&gt;&lt;/a&gt;: entrevista sobre pesquisas de opinião e um artigo acadêmico sobre estratégias de reação à direita radical na Europa.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/blog/fora_da_politica/&#34;&gt;&lt;em&gt;Participação no podcast &amp;ldquo;Fora da política não há salvação&amp;rdquo;&lt;/em&gt;&lt;/a&gt;: entrevista ao episódio de podcast &amp;ldquo;Fora da política não há salvação&amp;rdquo;, conduzido por Cláudio Couto, sobre as eleições municipais de 2024, junto com Marco Antonio Faganello.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/blog/geografia_eleicoes/&#34;&gt;&lt;em&gt;Geografia Eleitoral&lt;/em&gt;&lt;/a&gt;, &lt;em&gt;Geocast&lt;/em&gt;: &lt;em&gt;live&lt;/em&gt; em que discuto pesquisas sobre geografia eleitoral e como o &lt;code&gt;R&lt;/code&gt; pode ajudar nesse tema.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Entrevista à newsletter &#34;Impressa e Auditável&#34;</title>
+      <link>/blog/impressa_auditavel/</link>
+      <pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>/blog/impressa_auditavel/</guid>
+      <description>&lt;p&gt;Entrevista à edição &lt;a href=&#34;https://impressa.news/22-pesquisas-fascismos-e-brasil/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#22 | Pesquisas, Fascismos e Brasil&lt;/a&gt; da newsletter &lt;a href=&#34;https://impressa.news/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Impressa e Auditável&lt;/em&gt;&lt;/a&gt;, produzida por &lt;a href=&#34;https://bsky.app/profile/lucaslago.projeto7c0.com.br&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lucas Lago&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;A entrevista foi sobre um &lt;a href=&#34;https://www.labourtogether.uk/all-reports/measuring-what-matters?ref=impressa.news&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;relatório&lt;/a&gt; do &lt;em&gt;think tank&lt;/em&gt; &lt;a href=&#34;https://www.labourtogether.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Labour Together&lt;/em&gt;&lt;/a&gt; sobre como medir o principal problema/preocupação de um país.&lt;/p&gt;
+&lt;p&gt;Também discutimos brevemente o artigo &lt;a href=&#34;https://www.cambridge.org/core/journals/political-science-research-and-methods/article/does-accommodation-work-mainstream-party-strategies-and-the-success-of-radical-right-parties/5C3476FCD26B188C7399ADD920D71770&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Does accommodation work? Mainstream party strategies and the success of radical right parties&amp;rdquo;&lt;/a&gt;, publicado na revista &lt;em&gt;Political Science Research and Methods&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;A entrevista na íntegra está &lt;a href=&#34;https://www.youtube.com/watch?v=Ovi3EbV0wdQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;disponível no YouTube&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/Ovi3EbV0wdQ&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Entrevista à newsletter &#34;Impressa e Auditável&#34;</title>
+      <link>/pt/blog/impressa_auditavel/</link>
+      <pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>/pt/blog/impressa_auditavel/</guid>
+      <description>&lt;p&gt;Entrevista à edição &lt;a href=&#34;https://impressa.news/22-pesquisas-fascismos-e-brasil/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#22 | Pesquisas, Fascismos e Brasil&lt;/a&gt; da newsletter &lt;a href=&#34;https://impressa.news/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Impressa e Auditável&lt;/em&gt;&lt;/a&gt;, produzida por &lt;a href=&#34;https://bsky.app/profile/lucaslago.projeto7c0.com.br&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lucas Lago&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;A entrevista foi sobre um &lt;a href=&#34;https://www.labourtogether.uk/all-reports/measuring-what-matters?ref=impressa.news&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;relatório&lt;/a&gt; do &lt;em&gt;think tank&lt;/em&gt; &lt;a href=&#34;https://www.labourtogether.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Labour Together&lt;/em&gt;&lt;/a&gt; sobre como medir o principal problema/preocupação de um país.&lt;/p&gt;
+&lt;p&gt;Também discutimos brevemente o artigo &lt;a href=&#34;https://www.cambridge.org/core/journals/political-science-research-and-methods/article/does-accommodation-work-mainstream-party-strategies-and-the-success-of-radical-right-parties/5C3476FCD26B188C7399ADD920D71770&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Does accommodation work? Mainstream party strategies and the success of radical right parties&amp;rdquo;&lt;/a&gt;, publicado na revista &lt;em&gt;Political Science Research and Methods&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;A entrevista na íntegra está &lt;a href=&#34;https://www.youtube.com/watch?v=Ovi3EbV0wdQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;disponível no YouTube&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/Ovi3EbV0wdQ&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
 </description>
     </item>
     
@@ -141,6 +213,26 @@
     </item>
     
     <item>
+      <title>K-99, um candidato bom para os cachorros</title>
+      <link>/blog/pauta_pet/</link>
+      <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>/blog/pauta_pet/</guid>
+      <description>&lt;p&gt;Artigo publicado na seção &amp;ldquo;Espaço Aberto&amp;rdquo; da &lt;a href=&#34;https://www.estadao.com.br/opiniao/espaco-aberto/k-99-um-candidato-bom-para-os-cachorros/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;edição &lt;em&gt;online&lt;/em&gt; de &lt;em&gt;O Estado de S. Paulo&lt;/em&gt;&lt;/a&gt;, em 06 out. 2024.&lt;/p&gt;
+&lt;p&gt;Apresento resultados de um levantamento sobre o aumento de temas relacionados a essa pauta em programas de governo de eleições municipais entre 2012 e 2024. A partir dos resultados, discuto as implicações eleitorais e de governança das pautas, chamando atenção para que elas sejam debatidas.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>K-99, um candidato bom para os cachorros</title>
+      <link>/pt/blog/pauta_pet/</link>
+      <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>/pt/blog/pauta_pet/</guid>
+      <description>&lt;p&gt;Artigo publicado na seção &amp;ldquo;Espaço Aberto&amp;rdquo; da &lt;a href=&#34;https://www.estadao.com.br/opiniao/espaco-aberto/k-99-um-candidato-bom-para-os-cachorros/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;edição &lt;em&gt;online&lt;/em&gt; de &lt;em&gt;O Estado de S. Paulo&lt;/em&gt;&lt;/a&gt;, em 06 out. 2024.&lt;/p&gt;
+&lt;p&gt;Apresento resultados de um levantamento sobre o aumento de temas relacionados a essa pauta em programas de governo de eleições municipais entre 2012 e 2024. A partir dos resultados, discuto as implicações eleitorais e de governança das pautas, chamando atenção para que elas sejam debatidas.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>A reeleição e as eleições municipais</title>
       <link>/blog/reeleicao_municipal/</link>
       <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
@@ -157,6 +249,36 @@
       <guid>/pt/blog/reeleicao_municipal/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www1.folha.uol.com.br/colunas/voto-a-voto/2024/10/a-reeleicao-e-as-eleicoes-municipais.shtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Artigo publicado na coluna &amp;ldquo;Voto a Voto&amp;rdquo; da &lt;em&gt;Folha de S. Paulo&lt;/em&gt;&lt;/a&gt;, em 04 out. 2024.&lt;/p&gt;
 &lt;p&gt;Apresento alguns resultados históricos sobre reeleição em disputas municipais no Brasil, além de discutir aspectos teóricos do instituto no Brasil, em antecipação ao primeiro turno das eleições de 2024.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>&#34;Fora da política não há salvação&#34;: Eleições Brasil afora</title>
+      <link>/blog/fora_da_politica/</link>
+      <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/blog/fora_da_politica/</guid>
+      <description>&lt;p&gt;Participação na edição &lt;a href=&#34;https://foradapoliticanaohasalvacao.blog/2024/09/16/eleicoes-brasil-afora-com-lucas-gelape-marco-antonio-faganello-239/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Eleições Brasil afora | 239&lt;/a&gt; do podcast &lt;a href=&#34;https://foradapoliticanaohasalvacao.blog/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Fora da política não há salvação&lt;/em&gt;&lt;/a&gt;, produzida por &lt;a href=&#34;https://eaesp.fgv.br/pessoa/claudio-goncalves-couto&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cláudio Couto&lt;/a&gt;, junto com o colega &lt;a href=&#34;http://lattes.cnpq.br/7299940252994768&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Marco Antonio Faganello&lt;/a&gt; (FGV-CEPESP).&lt;/p&gt;
+&lt;p&gt;A entrevista discutiu como a Ciência Política ajuda a compreender as eleições municipais, com foco especial na disputa de 2024.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/oEmEckM01Xo&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>&#34;Fora da política não há salvação&#34;: Eleições Brasil afora</title>
+      <link>/pt/blog/fora_da_politica/</link>
+      <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/pt/blog/fora_da_politica/</guid>
+      <description>&lt;p&gt;Participação na edição &lt;a href=&#34;https://foradapoliticanaohasalvacao.blog/2024/09/16/eleicoes-brasil-afora-com-lucas-gelape-marco-antonio-faganello-239/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Eleições Brasil afora | 239&lt;/a&gt; do podcast &lt;a href=&#34;https://foradapoliticanaohasalvacao.blog/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Fora da política não há salvação&lt;/em&gt;&lt;/a&gt;, produzida por &lt;a href=&#34;https://eaesp.fgv.br/pessoa/claudio-goncalves-couto&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cláudio Couto&lt;/a&gt;, junto com o colega &lt;a href=&#34;http://lattes.cnpq.br/7299940252994768&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Marco Antonio Faganello&lt;/a&gt; (FGV-CEPESP).&lt;/p&gt;
+&lt;p&gt;A entrevista discutiu como a Ciência Política ajuda a compreender as eleições municipais, com foco especial na disputa de 2024.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/oEmEckM01Xo&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
 </description>
     </item>
     
@@ -259,6 +381,26 @@
 &lt;p&gt;&lt;strong&gt;Resumo:&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Neste trabalho, investigamos a atuação de políticos locais eleitos como brokers de políticos em nível estadual ou federal. Mais especificamente, avaliamos as alianças entre prefeitos ou vereadores com deputados federais ou estaduais brasileiros. Quais são as especificidades de sua forma de atuação e os mecanismos subjacentes às suas relações? Para tanto, empregamos uma abordagem multimétodos, combinando dados quantitativos de surveys com deputados federais e estaduais, e dados qualitativos inéditos de entrevistas com vereadores e com assessores de deputados estaduais. Nossos resultados mostram que ambos são mediadores em potencial. Contudo, ao contrário do esperado pelas teorias que destacam o papel da assimetria informacional em favor dos brokers, eles se destacam pelas suas conexões ascendentes, que lhes permitem resolver problemas, ainda que encontremos características de assimetria informacional especialmente no caso de vereadores.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Materiais de replicação&lt;/strong&gt;: publicamente disponíveis no &lt;a href=&#34;https://dataverse.fgv.br/dataset.xhtml?persistentId=hdl:10438.3/FK2/HEFZEY&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FGV Dataverse&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Parlamentares e as festas de São João: em defesa da responsividade simbólica</title>
+      <link>/blog/sao_joao_responsividade/</link>
+      <pubDate>Sat, 06 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>/blog/sao_joao_responsividade/</guid>
+      <description>&lt;p&gt;Artigo em coautoria com Telma Hoyler, &lt;a href=&#34;https://www.congressoemfoco.com.br/noticia/29077/parlamentares-e-as-festas-de-sao-joao-em-defesa-da-responsividade-simbolica&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;publicado no portal &lt;em&gt;Congresso em Foco&lt;/em&gt;&lt;/a&gt;, em julho de 2024.&lt;/p&gt;
+&lt;p&gt;No artigo, discutimos como as visitas de parlamentares às suas bases eleitorais durante festas populares são elementos importantes do exercício da representação política. Assim, comentários preconceituosos sobre a ausência desses deputados e senadores presencialmente no Congresso é uma visão míope desta representação.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Parlamentares e as festas de São João: em defesa da responsividade simbólica</title>
+      <link>/pt/blog/sao_joao_responsividade/</link>
+      <pubDate>Sat, 06 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>/pt/blog/sao_joao_responsividade/</guid>
+      <description>&lt;p&gt;Artigo em coautoria com Telma Hoyler, &lt;a href=&#34;https://www.congressoemfoco.com.br/noticia/29077/parlamentares-e-as-festas-de-sao-joao-em-defesa-da-responsividade-simbolica&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;publicado no portal &lt;em&gt;Congresso em Foco&lt;/em&gt;&lt;/a&gt;, em julho de 2024.&lt;/p&gt;
+&lt;p&gt;No artigo, discutimos como as visitas de parlamentares às suas bases eleitorais durante festas populares são elementos importantes do exercício da representação política. Assim, comentários preconceituosos sobre a ausência desses deputados e senadores presencialmente no Congresso é uma visão míope desta representação.&lt;/p&gt;
 </description>
     </item>
     
@@ -1347,20 +1489,36 @@
     </item>
     
     <item>
-      <title>Cursos</title>
+      <title>Docência</title>
       <link>/courses/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/courses/</guid>
-      <description>&lt;h2 id=&#34;cursos-de-curta-duração&#34;&gt;Cursos de curta duração&lt;/h2&gt;
+      <description>&lt;p&gt;Os programas/ementas e/ou slides dos cursos estão disponíveis nos hyperlinks de cada curso.&lt;/p&gt;
+&lt;h2 id=&#34;graduação&#34;&gt;&lt;strong&gt;Graduação&lt;/strong&gt;&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Introdução à produção de mapas e geoprocessamento&lt;/strong&gt;, Escola de Governo do Estado de São Paulo e Fundação SEADE, 2024.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;/syllabus/Gelape2025_AvaliacaoB.pdf&#34;&gt;&lt;strong&gt;DCP184 - Avaliação de Políticas Públicas B&lt;/strong&gt;&lt;/a&gt;, curso de graduação em Gestão Pública, UFMG, 2025/2.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Geoestatística&lt;/strong&gt;, Escola de Governo do Estado de São Paulo e Fundação SEADE, 2024.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;/syllabus/Gelape2025_AspectosLegaisB.pdf&#34;&gt;&lt;strong&gt;DCP125 - Aspectos Legais da Gestão Pública B&lt;/strong&gt;&lt;/a&gt;, curso de graduação em Gestão Pública, UFMG, 2025/2.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;cursos-de-curta-duração&#34;&gt;&lt;strong&gt;Cursos de curta duração&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://ufmg-mq2.com.br/analise-de-dados-espaciais/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Análise de Dados Espaciais&lt;/strong&gt;&lt;/a&gt;, MQ2 - Programa Intensivo de Metodologia, 2025.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Análise de Dados Espaciais&lt;/strong&gt;, VIII Escola de Inverno em Métodos e Técnicas de Pesquisa do IESP-UERJ, 2023.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;/syllabus/Gelape2025_Ementa_LeituraInstrumentalRegressao_v1.pdf&#34;&gt;&lt;strong&gt;Leitura instrumental de regressões múltiplas em Ciência Política: o mínimo que você precisa saber para ler uma regressão múltipla, mas tem vergonha de perguntar&lt;/strong&gt;&lt;/a&gt;, IX Fórum Brasileiro de Ciência Política, 2025.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;/syllabus/Gelape2024_IntroGeo.pdf&#34;&gt;&lt;strong&gt;Introdução à produção de mapas e geoprocessamento&lt;/strong&gt;&lt;/a&gt;, Escola de Governo do Estado de São Paulo e Fundação SEADE, 2024.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;/syllabus/Gelape2024_Geoestatistica.pdf&#34;&gt;&lt;strong&gt;Geoestatística&lt;/strong&gt;&lt;/a&gt;, Escola de Governo do Estado de São Paulo e Fundação SEADE, 2024.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;/syllabus/Gelape2023_ADE_IESP.pdf&#34;&gt;&lt;strong&gt;Análise de Dados Espaciais&lt;/strong&gt;&lt;/a&gt;, VIII Escola de Inverno em Métodos e Técnicas de Pesquisa do IESP-UERJ, 2023.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/lgelape/modus_2021&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Introdução à Estatística&lt;/strong&gt;&lt;/a&gt;, Modus - Curso Intensivo em Metodologias de Pesquisa em Ciências Sociais, Programa de Pós-Graduação em Ciência Política da UFMG, 2021.&lt;/p&gt;
@@ -1375,20 +1533,11 @@
 &lt;p&gt;&lt;strong&gt;Introdução ao R&lt;/strong&gt;, Faculdade de Direito da UFMG, 2017 (&lt;a href=&#34;https://fmeireles.com/teaching/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;com Fernando Meireles&lt;/em&gt;&lt;/a&gt;).&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;estágio-docente--monitoria&#34;&gt;Estágio docente / monitoria&lt;/h2&gt;
+&lt;h2 id=&#34;workshops&#34;&gt;&lt;strong&gt;Workshops&lt;/strong&gt;&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;Estagiário docente do curso &lt;strong&gt;Métodos Quantitativos e Técnicas de Pesquisa I&lt;/strong&gt;, (lecionado pelo prof. Glauco Peres da Silva), Departamento de Ciência Política, USP, 2018.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;/slides/Gelape2025_AnaliseDadosEspaciais_MAPE.pdf&#34;&gt;&lt;strong&gt;Análise de Dados Espaciais&lt;/strong&gt;&lt;/a&gt;, MAPE-IESP: Formação Metodológica, 2025.&lt;/p&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Monitor do curso &lt;strong&gt;Introdução ao R&lt;/strong&gt; (lecionado pelo prof. Rogério Barbosa), Programa de Treinamento Intensivo em Metodologia Quantitava (MQ), UFMG, 2017.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Monitor do curso &lt;a href=&#34;https://github.com/leobarone/mq_ufmg_17&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Captura, Sistematização e Análise de dados da web com R&lt;/strong&gt;&lt;/a&gt;, (lecionado pelo prof. Leonardo Barone), Programa de Treinamento Intensivo em Metodologia Quantitava (MQ), UFMG, 2017.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;workshops&#34;&gt;Workshops&lt;/h2&gt;
-&lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/GV-CEPESP/2024abraji_mapaseleitorais&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Mapas Eleitorais com R&lt;/strong&gt;&lt;/a&gt;, 19º Congresso Internacional de Jornalismo Investigativo (Abraji), 2024 (&lt;em&gt;com Marco Faganello, Cedric Antunes e Cecilia do Lago&lt;/em&gt;).&lt;/p&gt;
 &lt;/li&gt;
@@ -1399,27 +1548,55 @@
 &lt;p&gt;&lt;strong&gt;Introdução ao R&lt;/strong&gt;, 7ª edição da Conferência Brasileira de Jornalismo de Dados e Métodos Digitais (Coda.BR), 2022 (&lt;em&gt;com Ana Carolina Moreno&lt;/em&gt;).&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Uso de mapas na Ciência Política&lt;/strong&gt;, workshop apresentado no VIII Seminário de Ciência Política e Relações Internacionais da UFPE, 2019.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;/slides/Gelape2019_UsoMapas_UFPE.pdf&#34;&gt;&lt;strong&gt;Uso de mapas na Ciência Política&lt;/strong&gt;&lt;/a&gt;, workshop apresentado no VIII Seminário de Ciência Política e Relações Internacionais da UFPE, 2019.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;estágio-docente--monitoria&#34;&gt;&lt;strong&gt;Estágio docente / monitoria&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Estagiário docente do curso &lt;strong&gt;Métodos Quantitativos e Técnicas de Pesquisa I&lt;/strong&gt;, (lecionado pelo prof. Glauco Peres da Silva), Departamento de Ciência Política, USP, 2018.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Monitor do curso &lt;strong&gt;Introdução ao R&lt;/strong&gt; (lecionado pelo prof. Rogério Barbosa), Programa de Treinamento Intensivo em Metodologia Quantitava (MQ), UFMG, 2017.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Monitor do curso &lt;a href=&#34;https://github.com/leobarone/mq_ufmg_17&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Captura, Sistematização e Análise de dados da web com R&lt;/strong&gt;&lt;/a&gt;, (lecionado pelo prof. Leonardo Barone), Programa de Treinamento Intensivo em Metodologia Quantitava (MQ), UFMG, 2017.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
     
     <item>
-      <title>Cursos</title>
+      <title>Docência</title>
       <link>/pt/courses/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/pt/courses/</guid>
-      <description>&lt;h2 id=&#34;cursos-de-curta-duração&#34;&gt;Cursos de curta duração&lt;/h2&gt;
+      <description>&lt;p&gt;Os programas/ementas e/ou slides dos cursos estão disponíveis nos hyperlinks de cada curso.&lt;/p&gt;
+&lt;h2 id=&#34;graduação&#34;&gt;&lt;strong&gt;Graduação&lt;/strong&gt;&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Introdução à produção de mapas e geoprocessamento&lt;/strong&gt;, Escola de Governo do Estado de São Paulo e Fundação SEADE, 2024.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;/syllabus/Gelape2025_AvaliacaoB.pdf&#34;&gt;&lt;strong&gt;DCP184 - Avaliação de Políticas Públicas B&lt;/strong&gt;&lt;/a&gt;, curso de graduação em Gestão Pública, UFMG, 2025/2.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Geoestatística&lt;/strong&gt;, Escola de Governo do Estado de São Paulo e Fundação SEADE, 2024.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;/syllabus/Gelape2025_AspectosLegaisB.pdf&#34;&gt;&lt;strong&gt;DCP125 - Aspectos Legais da Gestão Pública B&lt;/strong&gt;&lt;/a&gt;, curso de graduação em Gestão Pública, UFMG, 2025/2.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;cursos-de-curta-duração&#34;&gt;&lt;strong&gt;Cursos de curta duração&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://ufmg-mq2.com.br/analise-de-dados-espaciais/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Análise de Dados Espaciais&lt;/strong&gt;&lt;/a&gt;, MQ2 - Programa Intensivo de Metodologia, 2025.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Análise de Dados Espaciais&lt;/strong&gt;, VIII Escola de Inverno em Métodos e Técnicas de Pesquisa do IESP-UERJ, 2023.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;/syllabus/Gelape2025_Ementa_LeituraInstrumentalRegressao_v1.pdf&#34;&gt;&lt;strong&gt;Leitura instrumental de regressões múltiplas em Ciência Política: o mínimo que você precisa saber para ler uma regressão múltipla, mas tem vergonha de perguntar&lt;/strong&gt;&lt;/a&gt;, IX Fórum Brasileiro de Ciência Política, 2025.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;/syllabus/Gelape2024_IntroGeo.pdf&#34;&gt;&lt;strong&gt;Introdução à produção de mapas e geoprocessamento&lt;/strong&gt;&lt;/a&gt;, Escola de Governo do Estado de São Paulo e Fundação SEADE, 2024.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;/syllabus/Gelape2024_Geoestatistica.pdf&#34;&gt;&lt;strong&gt;Geoestatística&lt;/strong&gt;&lt;/a&gt;, Escola de Governo do Estado de São Paulo e Fundação SEADE, 2024.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;/syllabus/Gelape2023_ADE_IESP.pdf&#34;&gt;&lt;strong&gt;Análise de Dados Espaciais&lt;/strong&gt;&lt;/a&gt;, VIII Escola de Inverno em Métodos e Técnicas de Pesquisa do IESP-UERJ, 2023.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/lgelape/modus_2021&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Introdução à Estatística&lt;/strong&gt;&lt;/a&gt;, Modus - Curso Intensivo em Metodologias de Pesquisa em Ciências Sociais, Programa de Pós-Graduação em Ciência Política da UFMG, 2021.&lt;/p&gt;
@@ -1434,20 +1611,11 @@
 &lt;p&gt;&lt;strong&gt;Introdução ao R&lt;/strong&gt;, Faculdade de Direito da UFMG, 2017 (&lt;a href=&#34;https://fmeireles.com/teaching/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;com Fernando Meireles&lt;/em&gt;&lt;/a&gt;).&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;estágio-docente--monitoria&#34;&gt;Estágio docente / monitoria&lt;/h2&gt;
+&lt;h2 id=&#34;workshops&#34;&gt;&lt;strong&gt;Workshops&lt;/strong&gt;&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;Estagiário docente do curso &lt;strong&gt;Métodos Quantitativos e Técnicas de Pesquisa I&lt;/strong&gt;, (lecionado pelo prof. Glauco Peres da Silva), Departamento de Ciência Política, USP, 2018.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;/slides/Gelape2025_AnaliseDadosEspaciais_MAPE.pdf&#34;&gt;&lt;strong&gt;Análise de Dados Espaciais&lt;/strong&gt;&lt;/a&gt;, MAPE-IESP: Formação Metodológica, 2025.&lt;/p&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Monitor do curso &lt;strong&gt;Introdução ao R&lt;/strong&gt; (lecionado pelo prof. Rogério Barbosa), Programa de Treinamento Intensivo em Metodologia Quantitava (MQ), UFMG, 2017.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Monitor do curso &lt;a href=&#34;https://github.com/leobarone/mq_ufmg_17&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Captura, Sistematização e Análise de dados da web com R&lt;/strong&gt;&lt;/a&gt;, (lecionado pelo prof. Leonardo Barone), Programa de Treinamento Intensivo em Metodologia Quantitava (MQ), UFMG, 2017.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;workshops&#34;&gt;Workshops&lt;/h2&gt;
-&lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/GV-CEPESP/2024abraji_mapaseleitorais&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Mapas Eleitorais com R&lt;/strong&gt;&lt;/a&gt;, 19º Congresso Internacional de Jornalismo Investigativo (Abraji), 2024 (&lt;em&gt;com Marco Faganello, Cedric Antunes e Cecilia do Lago&lt;/em&gt;).&lt;/p&gt;
 &lt;/li&gt;
@@ -1458,7 +1626,19 @@
 &lt;p&gt;&lt;strong&gt;Introdução ao R&lt;/strong&gt;, 7ª edição da Conferência Brasileira de Jornalismo de Dados e Métodos Digitais (Coda.BR), 2022 (&lt;em&gt;com Ana Carolina Moreno&lt;/em&gt;).&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Uso de mapas na Ciência Política&lt;/strong&gt;, workshop apresentado no VIII Seminário de Ciência Política e Relações Internacionais da UFPE, 2019.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;/slides/Gelape2019_UsoMapas_UFPE.pdf&#34;&gt;&lt;strong&gt;Uso de mapas na Ciência Política&lt;/strong&gt;&lt;/a&gt;, workshop apresentado no VIII Seminário de Ciência Política e Relações Internacionais da UFPE, 2019.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;estágio-docente--monitoria&#34;&gt;&lt;strong&gt;Estágio docente / monitoria&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Estagiário docente do curso &lt;strong&gt;Métodos Quantitativos e Técnicas de Pesquisa I&lt;/strong&gt;, (lecionado pelo prof. Glauco Peres da Silva), Departamento de Ciência Política, USP, 2018.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Monitor do curso &lt;strong&gt;Introdução ao R&lt;/strong&gt; (lecionado pelo prof. Rogério Barbosa), Programa de Treinamento Intensivo em Metodologia Quantitava (MQ), UFMG, 2017.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Monitor do curso &lt;a href=&#34;https://github.com/leobarone/mq_ufmg_17&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Captura, Sistematização e Análise de dados da web com R&lt;/strong&gt;&lt;/a&gt;, (lecionado pelo prof. Leonardo Barone), Programa de Treinamento Intensivo em Metodologia Quantitava (MQ), UFMG, 2017.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 </description>
@@ -1469,8 +1649,18 @@
       <link>/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/research/</guid>
-      <description>&lt;p&gt;Professor do Departamento de Ciência Política da UFMG. Foi pesquisador de Pós-Doutorado no FGV-CEPESP, &lt;a href=&#34;https://bv.fapesp.br/pt/pesquisador/725300/lucas-de-oliveira-gelape/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;bolsista FAPESP&lt;/a&gt;. Doutor em Ciência Política pela USP (2021), bolsista de doutorado do CNPq. Pesquisador visitante (doutorado sanduíche) no Departamento de Governo da Universidade Harvard (09/2019 a 02/2020), com bolsa Capes-PrInt. Mestre em Ciência Política (2017), com bolsa do CNPq, e bacharel em Direito (2014) pela UFMG.&lt;/p&gt;
-&lt;p&gt;É pesquisador associado do &lt;a href=&#34;https://www.centroestudoslegislativos.com.br/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Centro de Estudos Legislativos&lt;/a&gt; (CEL-UFMG); do &lt;a href=&#34;https://cepesp.fgv.br/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Centro de Política e Economia do Setor Público&lt;/a&gt; (FGV-CEPESP); do &lt;a href=&#34;https://www.nepol.blog.br/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Núcleo de Estudos sobre Política Local&lt;/a&gt; (NEPOL-UFJF); da &lt;a href=&#34;https://sites.google.com/view/redsubnacional/inicio&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Red de Estudios sobre Política Subnacional en América Latina&lt;/a&gt; (REPSAL); e do &lt;a href=&#34;https://mape.org.br/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Laboratório de Monitoramento e Avaliação de Políticas e Eleições&lt;/a&gt; (MAPE, IESP-UERJ). Desde 2023, é um dos coordenadores do SPG &lt;a href=&#34;https://www.encontro2025.anpocs.org.br/atividade/view?q=eyJwYXJhbXMiOiJ7XCJJRF9BVElWSURBREVcIjpcIjM2MVwifSIsImgiOiI5NzhhMGNiMjlkNWViZWNmNTg3Y2U5MmE2YTAzYTg5ZSJ9&amp;amp;ID_ATIVIDADE=361&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Instituições Políticas Subnacionais&amp;rdquo;&lt;/a&gt;, no Encontro Nacional da ANPOCS.&lt;/p&gt;
+      <description>&lt;p&gt;Professor do Departamento de Ciência Política da UFMG. Foi pesquisador de Pós-Doutorado no FGV-CEPESP, &lt;a href=&#34;https://bv.fapesp.br/pt/bolsas/209412/padroes-de-distribuicao-espacial-de-votos-em-eleicoes-locais-e-variaveis-associadas/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;bolsista FAPESP&lt;/a&gt;. Doutor em Ciência Política pela USP (2021), bolsista de doutorado do CNPq. Pesquisador visitante (doutorado sanduíche) no Departamento de Governo da Universidade Harvard (09/2019 a 02/2020), com bolsa Capes-PrInt. Mestre em Ciência Política (2017), com bolsa do CNPq, e bacharel em Direito (2014) pela UFMG.&lt;/p&gt;
+&lt;p&gt;É pesquisador associado dos seguintes grupos e redes de pesquisa:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.centroestudoslegislativos.com.br/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Centro de Estudos Legislativos&lt;/a&gt; (CEL-UFMG)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cepesp.fgv.br/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Centro de Política e Economia do Setor Público&lt;/a&gt; (FGV-CEPESP)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.nepol.blog.br/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Núcleo de Estudos sobre Política Local&lt;/a&gt; (NEPOL-UFJF)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sites.google.com/view/redsubnacional/inicio&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Red de Estudios sobre Política Subnacional en América Latina&lt;/a&gt; (REPSAL)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://mape.org.br/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Laboratório de Monitoramento e Avaliação de Políticas e Eleições&lt;/a&gt; (MAPE, IESP-UERJ).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Desde 2023, é um dos coordenadores do SPG &lt;a href=&#34;https://www.encontro2025.anpocs.org.br/atividade/view?q=eyJwYXJhbXMiOiJ7XCJJRF9BVElWSURBREVcIjpcIjM2MVwifSIsImgiOiI5NzhhMGNiMjlkNWViZWNmNTg3Y2U5MmE2YTAzYTg5ZSJ9&amp;amp;ID_ATIVIDADE=361&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Instituições Políticas Subnacionais&amp;rdquo;&lt;/a&gt;, no Encontro Nacional da ANPOCS.&lt;/p&gt;
+&lt;p&gt;Tem experiência profissional em novas tecnologias para análise e produção de dados, com experiência em dados político-eleitorais, socioeconômicos e de redes sociais.&lt;/p&gt;
+&lt;p&gt;Foi assessor técnico da Diretoria de Pesquisa da &lt;a href=&#34;https://www.seade.gov.br/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fundação Seade&lt;/a&gt;, com foco em projetos de novas tecnologias na produção e análise de dados para estatísticas oficiais; coordenador e analista de dados em &lt;a href=&#34;/blog/voltdatalab/&#34;&gt;projetos&lt;/a&gt; do &lt;a href=&#34;https://www.voltdata.info/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Volt Data Lab&lt;/a&gt; e do &lt;a href=&#34;https://nucleo.jor.br/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Núcleo Jornalismo&lt;/a&gt;; e cientista de dados no &lt;a href=&#34;https://g1.globo.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;G1&lt;/a&gt;, onde &lt;a href=&#34;/blog/materias_g1/&#34;&gt;produziu matérias durante as eleições de 2018&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Áreas de interesse&lt;/strong&gt;:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Estudos Eleitorais&lt;/li&gt;
@@ -1505,10 +1695,10 @@
 &lt;h2 id=&#34;livros&#34;&gt;Livros&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;Gelape, Lucas; Silva, Glauco Peres da. &lt;strong&gt;Geografia eleitoral: teoria e prática&lt;/strong&gt;. Curitiba: Intersaberes, 2025.&lt;/p&gt;
+&lt;p&gt;Gelape, Lucas; Silva, Glauco Peres da. &lt;a href=&#34;https://livrariaintersaberes.com.br/produto/geografia-eleitoral-teoria-e-pratica/?srsltid=AfmBOooZc1htaO8I9F5D0cAK4ZrKCvhKZa9VR0iZY9uwkZb0eoVgF0QR&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Geografia eleitoral: teoria e prática&lt;/strong&gt;&lt;/a&gt;. Curitiba: Intersaberes, 2025.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Silotto, Graziele; Gelape, Lucas; Castro, Pedro; Silva, Glauco Peres da. &lt;strong&gt;Poder e território: uma abordagem a partir da ciência política&lt;/strong&gt;. Curitiba: Intersaberes, 2021.&lt;/p&gt;
+&lt;p&gt;Silotto, Graziele; Gelape, Lucas; Castro, Pedro; Silva, Glauco Peres da. &lt;a href=&#34;https://livrariaintersaberes.com.br/produto/poder-e-territorio-uma-abordagem-a-partir-da-ciencia-politica/?srsltid=AfmBOorq8nr6yM8lQZXDg0Jn72pK7CpU5SX9JCrdgnAI5veu8J3uO5s8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Poder e território: uma abordagem a partir da ciência política&lt;/strong&gt;&lt;/a&gt;. Curitiba: Intersaberes, 2021.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;capítulos-de-livro&#34;&gt;Capítulos de livro&lt;/h2&gt;
@@ -1556,7 +1746,7 @@
 &lt;p&gt;Interpolation of electoral data into census tract: a novel method based on the Brazilian case. 2025. (&lt;em&gt;com Rogerio Barbosa, Bruno Schaefer, e Tomás Paixão Borges&lt;/em&gt;)&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Don’t Put All Your Eggs in One Basket: Rethinking Political Representation in Service-Dependent Communities. 2025. (&lt;em&gt;com Débora Thomé&lt;/em&gt;)&lt;/p&gt;
+&lt;p&gt;Don’t Put All Your Eggs in One Basket: Rethinking Political Representation in Service-Dependent Communities. 2025. (&lt;em&gt;com Débora Thomé e Lara Polisseni&lt;/em&gt;)&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 </description>
@@ -1567,8 +1757,18 @@
       <link>/pt/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/pt/research/</guid>
-      <description>&lt;p&gt;Professor do Departamento de Ciência Política da UFMG. Foi pesquisador de Pós-Doutorado no FGV-CEPESP, &lt;a href=&#34;https://bv.fapesp.br/pt/pesquisador/725300/lucas-de-oliveira-gelape/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;bolsista FAPESP&lt;/a&gt;. Doutor em Ciência Política pela USP (2021), bolsista de doutorado do CNPq. Pesquisador visitante (doutorado sanduíche) no Departamento de Governo da Universidade Harvard (09/2019 a 02/2020), com bolsa Capes-PrInt. Mestre em Ciência Política (2017), com bolsa do CNPq, e bacharel em Direito (2014) pela UFMG.&lt;/p&gt;
-&lt;p&gt;É pesquisador associado do &lt;a href=&#34;https://www.centroestudoslegislativos.com.br/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Centro de Estudos Legislativos&lt;/a&gt; (CEL-UFMG); do &lt;a href=&#34;https://cepesp.fgv.br/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Centro de Política e Economia do Setor Público&lt;/a&gt; (FGV-CEPESP); do &lt;a href=&#34;https://www.nepol.blog.br/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Núcleo de Estudos sobre Política Local&lt;/a&gt; (NEPOL-UFJF); da &lt;a href=&#34;https://sites.google.com/view/redsubnacional/inicio&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Red de Estudios sobre Política Subnacional en América Latina&lt;/a&gt; (REPSAL); e do &lt;a href=&#34;https://mape.org.br/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Laboratório de Monitoramento e Avaliação de Políticas e Eleições&lt;/a&gt; (MAPE, IESP-UERJ). Desde 2023, é um dos coordenadores do SPG &lt;a href=&#34;https://www.encontro2025.anpocs.org.br/atividade/view?q=eyJwYXJhbXMiOiJ7XCJJRF9BVElWSURBREVcIjpcIjM2MVwifSIsImgiOiI5NzhhMGNiMjlkNWViZWNmNTg3Y2U5MmE2YTAzYTg5ZSJ9&amp;amp;ID_ATIVIDADE=361&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Instituições Políticas Subnacionais&amp;rdquo;&lt;/a&gt;, no Encontro Nacional da ANPOCS.&lt;/p&gt;
+      <description>&lt;p&gt;Professor do Departamento de Ciência Política da UFMG. Foi pesquisador de Pós-Doutorado no FGV-CEPESP, &lt;a href=&#34;https://bv.fapesp.br/pt/bolsas/209412/padroes-de-distribuicao-espacial-de-votos-em-eleicoes-locais-e-variaveis-associadas/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;bolsista FAPESP&lt;/a&gt;. Doutor em Ciência Política pela USP (2021), bolsista de doutorado do CNPq. Pesquisador visitante (doutorado sanduíche) no Departamento de Governo da Universidade Harvard (09/2019 a 02/2020), com bolsa Capes-PrInt. Mestre em Ciência Política (2017), com bolsa do CNPq, e bacharel em Direito (2014) pela UFMG.&lt;/p&gt;
+&lt;p&gt;É pesquisador associado dos seguintes grupos e redes de pesquisa:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.centroestudoslegislativos.com.br/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Centro de Estudos Legislativos&lt;/a&gt; (CEL-UFMG)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cepesp.fgv.br/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Centro de Política e Economia do Setor Público&lt;/a&gt; (FGV-CEPESP)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.nepol.blog.br/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Núcleo de Estudos sobre Política Local&lt;/a&gt; (NEPOL-UFJF)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sites.google.com/view/redsubnacional/inicio&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Red de Estudios sobre Política Subnacional en América Latina&lt;/a&gt; (REPSAL)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://mape.org.br/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Laboratório de Monitoramento e Avaliação de Políticas e Eleições&lt;/a&gt; (MAPE, IESP-UERJ).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Desde 2023, é um dos coordenadores do SPG &lt;a href=&#34;https://www.encontro2025.anpocs.org.br/atividade/view?q=eyJwYXJhbXMiOiJ7XCJJRF9BVElWSURBREVcIjpcIjM2MVwifSIsImgiOiI5NzhhMGNiMjlkNWViZWNmNTg3Y2U5MmE2YTAzYTg5ZSJ9&amp;amp;ID_ATIVIDADE=361&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Instituições Políticas Subnacionais&amp;rdquo;&lt;/a&gt;, no Encontro Nacional da ANPOCS.&lt;/p&gt;
+&lt;p&gt;Tem experiência profissional em novas tecnologias para análise e produção de dados, com experiência em dados político-eleitorais, socioeconômicos e de redes sociais.&lt;/p&gt;
+&lt;p&gt;Foi assessor técnico da Diretoria de Pesquisa da &lt;a href=&#34;https://www.seade.gov.br/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fundação Seade&lt;/a&gt;, com foco em projetos de novas tecnologias na produção e análise de dados para estatísticas oficiais; coordenador e analista de dados em &lt;a href=&#34;/blog/voltdatalab/&#34;&gt;projetos&lt;/a&gt; do &lt;a href=&#34;https://www.voltdata.info/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Volt Data Lab&lt;/a&gt; e do &lt;a href=&#34;https://nucleo.jor.br/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Núcleo Jornalismo&lt;/a&gt;; e cientista de dados no &lt;a href=&#34;https://g1.globo.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;G1&lt;/a&gt;, onde &lt;a href=&#34;/blog/materias_g1/&#34;&gt;produziu matérias durante as eleições de 2018&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Áreas de interesse&lt;/strong&gt;:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Estudos Eleitorais&lt;/li&gt;
@@ -1603,10 +1803,10 @@
 &lt;h2 id=&#34;livros&#34;&gt;Livros&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;Gelape, Lucas; Silva, Glauco Peres da. &lt;strong&gt;Geografia eleitoral: teoria e prática&lt;/strong&gt;. Curitiba: Intersaberes, 2025.&lt;/p&gt;
+&lt;p&gt;Gelape, Lucas; Silva, Glauco Peres da. &lt;a href=&#34;https://livrariaintersaberes.com.br/produto/geografia-eleitoral-teoria-e-pratica/?srsltid=AfmBOooZc1htaO8I9F5D0cAK4ZrKCvhKZa9VR0iZY9uwkZb0eoVgF0QR&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Geografia eleitoral: teoria e prática&lt;/strong&gt;&lt;/a&gt;. Curitiba: Intersaberes, 2025.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Silotto, Graziele; Gelape, Lucas; Castro, Pedro; Silva, Glauco Peres da. &lt;strong&gt;Poder e território: uma abordagem a partir da ciência política&lt;/strong&gt;. Curitiba: Intersaberes, 2021.&lt;/p&gt;
+&lt;p&gt;Silotto, Graziele; Gelape, Lucas; Castro, Pedro; Silva, Glauco Peres da. &lt;a href=&#34;https://livrariaintersaberes.com.br/produto/poder-e-territorio-uma-abordagem-a-partir-da-ciencia-politica/?srsltid=AfmBOorq8nr6yM8lQZXDg0Jn72pK7CpU5SX9JCrdgnAI5veu8J3uO5s8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Poder e território: uma abordagem a partir da ciência política&lt;/strong&gt;&lt;/a&gt;. Curitiba: Intersaberes, 2021.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;capítulos-de-livro&#34;&gt;Capítulos de livro&lt;/h2&gt;
@@ -1654,7 +1854,7 @@
 &lt;p&gt;Interpolation of electoral data into census tract: a novel method based on the Brazilian case. 2025. (&lt;em&gt;com Rogerio Barbosa, Bruno Schaefer, e Tomás Paixão Borges&lt;/em&gt;)&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Don’t Put All Your Eggs in One Basket: Rethinking Political Representation in Service-Dependent Communities. 2025. (&lt;em&gt;com Débora Thomé&lt;/em&gt;)&lt;/p&gt;
+&lt;p&gt;Don’t Put All Your Eggs in One Basket: Rethinking Political Representation in Service-Dependent Communities. 2025. (&lt;em&gt;com Débora Thomé e Lara Polisseni&lt;/em&gt;)&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 </description>

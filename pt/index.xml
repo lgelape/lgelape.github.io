@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lucas Gelape</title>
+    <link>/pt/</link>
+      <atom:link href="/pt/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lucas Gelape</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>© 2026</copyright><lastBuildDate>Sun, 18 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hufa00241f86c4313f35bbc31f9b413ce3_978835_512x512_fill_lanczos_center_3.png</url>
+      <title>Lucas Gelape</title>
+      <link>/pt/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/pt/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/pt/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Docência</title>
+      <link>/pt/courses/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/pt/courses/</guid>
+      <description>&lt;p&gt;Os programas/ementas e/ou slides dos cursos estão disponíveis nos hyperlinks de cada curso.&lt;/p&gt;
+&lt;h2 id=&#34;graduação&#34;&gt;&lt;strong&gt;Graduação&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;/syllabus/Gelape2025_AvaliacaoB.pdf&#34;&gt;&lt;strong&gt;DCP184 - Avaliação de Políticas Públicas B&lt;/strong&gt;&lt;/a&gt;, curso de graduação em Gestão Pública, UFMG, 2025/2.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;/syllabus/Gelape2025_AspectosLegaisB.pdf&#34;&gt;&lt;strong&gt;DCP125 - Aspectos Legais da Gestão Pública B&lt;/strong&gt;&lt;/a&gt;, curso de graduação em Gestão Pública, UFMG, 2025/2.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;cursos-de-curta-duração&#34;&gt;&lt;strong&gt;Cursos de curta duração&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://ufmg-mq2.com.br/analise-de-dados-espaciais/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Análise de Dados Espaciais&lt;/strong&gt;&lt;/a&gt;, MQ2 - Programa Intensivo de Metodologia, 2025.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;/syllabus/Gelape2025_Ementa_LeituraInstrumentalRegressao_v1.pdf&#34;&gt;&lt;strong&gt;Leitura instrumental de regressões múltiplas em Ciência Política: o mínimo que você precisa saber para ler uma regressão múltipla, mas tem vergonha de perguntar&lt;/strong&gt;&lt;/a&gt;, IX Fórum Brasileiro de Ciência Política, 2025.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;/syllabus/Gelape2024_IntroGeo.pdf&#34;&gt;&lt;strong&gt;Introdução à produção de mapas e geoprocessamento&lt;/strong&gt;&lt;/a&gt;, Escola de Governo do Estado de São Paulo e Fundação SEADE, 2024.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;/syllabus/Gelape2024_Geoestatistica.pdf&#34;&gt;&lt;strong&gt;Geoestatística&lt;/strong&gt;&lt;/a&gt;, Escola de Governo do Estado de São Paulo e Fundação SEADE, 2024.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;/syllabus/Gelape2023_ADE_IESP.pdf&#34;&gt;&lt;strong&gt;Análise de Dados Espaciais&lt;/strong&gt;&lt;/a&gt;, VIII Escola de Inverno em Métodos e Técnicas de Pesquisa do IESP-UERJ, 2023.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/lgelape/modus_2021&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Introdução à Estatística&lt;/strong&gt;&lt;/a&gt;, Modus - Curso Intensivo em Metodologias de Pesquisa em Ciências Sociais, Programa de Pós-Graduação em Ciência Política da UFMG, 2021.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/lgelape/modus_2019&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Introdução à Estatística&lt;/strong&gt;&lt;/a&gt;, Modus - Curso Intensivo em Metodologias de Pesquisa em Ciências Sociais, Programa de Pós-Graduação em Ciência Política da UFMG, 2019.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Introdução à Análise Espacial de Dados&lt;/strong&gt;, Faculdade de Filosofia e Ciências Humanas da UFMG, 2017.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Introdução ao R&lt;/strong&gt;, Faculdade de Direito da UFMG, 2017 (&lt;a href=&#34;https://fmeireles.com/teaching/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;com Fernando Meireles&lt;/em&gt;&lt;/a&gt;).&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;workshops&#34;&gt;&lt;strong&gt;Workshops&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;/slides/Gelape2025_AnaliseDadosEspaciais_MAPE.pdf&#34;&gt;&lt;strong&gt;Análise de Dados Espaciais&lt;/strong&gt;&lt;/a&gt;, MAPE-IESP: Formação Metodológica, 2025.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/GV-CEPESP/2024abraji_mapaseleitorais&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Mapas Eleitorais com R&lt;/strong&gt;&lt;/a&gt;, 19º Congresso Internacional de Jornalismo Investigativo (Abraji), 2024 (&lt;em&gt;com Marco Faganello, Cedric Antunes e Cecilia do Lago&lt;/em&gt;).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://gv-cepesp.github.io/mapaseleitorais2023/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Mapas Eleitorais com R&lt;/strong&gt;&lt;/a&gt;, 8ª edição da Conferência Brasileira de Jornalismo de Dados e Métodos Digitais (Coda.BR), 2023 (&lt;em&gt;com Marco Faganello e João Victor Guedes-Neto&lt;/em&gt;).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Introdução ao R&lt;/strong&gt;, 7ª edição da Conferência Brasileira de Jornalismo de Dados e Métodos Digitais (Coda.BR), 2022 (&lt;em&gt;com Ana Carolina Moreno&lt;/em&gt;).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;/slides/Gelape2019_UsoMapas_UFPE.pdf&#34;&gt;&lt;strong&gt;Uso de mapas na Ciência Política&lt;/strong&gt;&lt;/a&gt;, workshop apresentado no VIII Seminário de Ciência Política e Relações Internacionais da UFPE, 2019.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;estágio-docente--monitoria&#34;&gt;&lt;strong&gt;Estágio docente / monitoria&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Estagiário docente do curso &lt;strong&gt;Métodos Quantitativos e Técnicas de Pesquisa I&lt;/strong&gt;, (lecionado pelo prof. Glauco Peres da Silva), Departamento de Ciência Política, USP, 2018.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Monitor do curso &lt;strong&gt;Introdução ao R&lt;/strong&gt; (lecionado pelo prof. Rogério Barbosa), Programa de Treinamento Intensivo em Metodologia Quantitava (MQ), UFMG, 2017.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Monitor do curso &lt;a href=&#34;https://github.com/leobarone/mq_ufmg_17&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Captura, Sistematização e Análise de dados da web com R&lt;/strong&gt;&lt;/a&gt;, (lecionado pelo prof. Leonardo Barone), Programa de Treinamento Intensivo em Metodologia Quantitava (MQ), UFMG, 2017.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pesquisa</title>
+      <link>/pt/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/pt/research/</guid>
+      <description>&lt;p&gt;Professor do Departamento de Ciência Política da UFMG. Foi pesquisador de Pós-Doutorado no FGV-CEPESP, &lt;a href=&#34;https://bv.fapesp.br/pt/bolsas/209412/padroes-de-distribuicao-espacial-de-votos-em-eleicoes-locais-e-variaveis-associadas/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;bolsista FAPESP&lt;/a&gt;. Doutor em Ciência Política pela USP (2021), bolsista de doutorado do CNPq. Pesquisador visitante (doutorado sanduíche) no Departamento de Governo da Universidade Harvard (09/2019 a 02/2020), com bolsa Capes-PrInt. Mestre em Ciência Política (2017), com bolsa do CNPq, e bacharel em Direito (2014) pela UFMG.&lt;/p&gt;
+&lt;p&gt;É pesquisador associado dos seguintes grupos e redes de pesquisa:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.centroestudoslegislativos.com.br/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Centro de Estudos Legislativos&lt;/a&gt; (CEL-UFMG)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cepesp.fgv.br/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Centro de Política e Economia do Setor Público&lt;/a&gt; (FGV-CEPESP)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.nepol.blog.br/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Núcleo de Estudos sobre Política Local&lt;/a&gt; (NEPOL-UFJF)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sites.google.com/view/redsubnacional/inicio&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Red de Estudios sobre Política Subnacional en América Latina&lt;/a&gt; (REPSAL)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://mape.org.br/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Laboratório de Monitoramento e Avaliação de Políticas e Eleições&lt;/a&gt; (MAPE, IESP-UERJ).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Desde 2023, é um dos coordenadores do SPG &lt;a href=&#34;https://www.encontro2025.anpocs.org.br/atividade/view?q=eyJwYXJhbXMiOiJ7XCJJRF9BVElWSURBREVcIjpcIjM2MVwifSIsImgiOiI5NzhhMGNiMjlkNWViZWNmNTg3Y2U5MmE2YTAzYTg5ZSJ9&amp;amp;ID_ATIVIDADE=361&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Instituições Políticas Subnacionais&amp;rdquo;&lt;/a&gt;, no Encontro Nacional da ANPOCS.&lt;/p&gt;
+&lt;p&gt;Tem experiência profissional em novas tecnologias para análise e produção de dados, com experiência em dados político-eleitorais, socioeconômicos e de redes sociais.&lt;/p&gt;
+&lt;p&gt;Foi assessor técnico da Diretoria de Pesquisa da &lt;a href=&#34;https://www.seade.gov.br/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fundação Seade&lt;/a&gt;, com foco em projetos de novas tecnologias na produção e análise de dados para estatísticas oficiais; coordenador e analista de dados em &lt;a href=&#34;/blog/voltdatalab/&#34;&gt;projetos&lt;/a&gt; do &lt;a href=&#34;https://www.voltdata.info/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Volt Data Lab&lt;/a&gt; e do &lt;a href=&#34;https://nucleo.jor.br/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Núcleo Jornalismo&lt;/a&gt;; e cientista de dados no &lt;a href=&#34;https://g1.globo.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;G1&lt;/a&gt;, onde &lt;a href=&#34;/blog/materias_g1/&#34;&gt;produziu matérias durante as eleições de 2018&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Áreas de interesse&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Estudos Eleitorais&lt;/li&gt;
+&lt;li&gt;Política Local&lt;/li&gt;
+&lt;li&gt;Geografia Eleitoral&lt;/li&gt;
+&lt;li&gt;Estudos Legislativos&lt;/li&gt;
+&lt;li&gt;Partidos Políticos&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;publicações-e-trabalhos-em-andamento&#34;&gt;&lt;strong&gt;Publicações e trabalhos em andamento:&lt;/strong&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;artigos-publicados-em-periódicos&#34;&gt;Artigos publicados em periódicos&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Rocha, Marta Mendes; Gelape, Lucas. 2024. &lt;a href=&#34;/publication/brokers_brasil/&#34;&gt;Políticos locais e conexões multinível: a atuação de brokers eleitos no federalismo brasileiro&lt;/a&gt;, &lt;strong&gt;Reflexión Política&lt;/strong&gt;, v. 26, p. 33-47.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Gelape, Lucas; Luz, Joyce; Thomé, Débora. 2024. &lt;a href=&#34;/publication/geografia_eleitoral_sp/&#34;&gt;Padrões espaciais de votação nas eleições para a Câmara Municipal de São Paulo: um estudo a partir das eleições de 2020&lt;/a&gt;, &lt;strong&gt;Estudos Avançados&lt;/strong&gt;, v. 38, p. 301-323.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Gelape, Lucas; Silva, Glauco Peres da. 2022. &lt;a href=&#34;/publication/restricao_partidaria/&#34;&gt;Restrição partidária às decisões de carreira de políticos brasileiros: evidências de vereadores brasileiros&lt;/a&gt;, &lt;strong&gt;Revista de Sociologia e Política&lt;/strong&gt;, v. 30, e014.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Hoyler, Telma; Gelape, Lucas; Silotto, Graziele. 2021. &lt;a href=&#34;/publication/indicacoes_sp/&#34;&gt;A construção de vínculos político-territoriais na cidade: evidências de São Paulo&lt;/a&gt;, &lt;strong&gt;Opinião Pública&lt;/strong&gt;, Campinas, v. 27, n. 2, p. 549–584.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Pereira, Rodolfo Viana; Gelape, Lucas. 2015. &lt;a href=&#34;/publication/anacronismo_lista_aberta/&#34;&gt;Anacronismo do Sistema Proporcional de Lista Aberta no Brasil: ocaso das razões originárias de sua adoção&lt;/a&gt;. &lt;strong&gt;Revista de Informação Legislativa&lt;/strong&gt;, Brasília, v. 52, n. 205, p. 261–279.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;artigos-aceitos-para-publicação&#34;&gt;Artigos aceitos para publicação&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Gelape, Lucas; Thomé, Débora. Aonde vão as vereadoras? Uma análise das trajetórias de mulheres na política municipal. &lt;strong&gt;Brazilian Political Science Review&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;livros&#34;&gt;Livros&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Gelape, Lucas; Silva, Glauco Peres da. &lt;a href=&#34;https://livrariaintersaberes.com.br/produto/geografia-eleitoral-teoria-e-pratica/?srsltid=AfmBOooZc1htaO8I9F5D0cAK4ZrKCvhKZa9VR0iZY9uwkZb0eoVgF0QR&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Geografia eleitoral: teoria e prática&lt;/strong&gt;&lt;/a&gt;. Curitiba: Intersaberes, 2025.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Silotto, Graziele; Gelape, Lucas; Castro, Pedro; Silva, Glauco Peres da. &lt;a href=&#34;https://livrariaintersaberes.com.br/produto/poder-e-territorio-uma-abordagem-a-partir-da-ciencia-politica/?srsltid=AfmBOorq8nr6yM8lQZXDg0Jn72pK7CpU5SX9JCrdgnAI5veu8J3uO5s8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Poder e território: uma abordagem a partir da ciência política&lt;/strong&gt;&lt;/a&gt;. Curitiba: Intersaberes, 2021.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;capítulos-de-livro&#34;&gt;Capítulos de livro&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Mendonça, Ricardo Fabrino; Gelape, Lucas; Cruz, Carlos Estevão C. 2023. &lt;a href=&#34;/publication/mandatos_coletivos_gambiarra/&#34;&gt;Collective Candidacies and Mandates in Brazil: Challenges and Pitfalls of a Gambiarra&lt;/a&gt;. In: Bua, Adrian; Bussu, Sonia (org.). &lt;strong&gt;Reclaiming Participatory Governance: social movements and the reinvention of democratic innovation&lt;/strong&gt;. New York: Routledge, p. 154-159.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Soares, Fabiana de Menezes; Gelape, Lucas. 2016. &lt;a href=&#34;/publication/almg/&#34;&gt;Consultoria Legislativa da ALMG: o Amicus curiae do processo legislativo?&lt;/a&gt; In: Santos, Manoel Leonardo; Anastasia, Fátima (org.). &lt;strong&gt;Política e Desenvolvimento Institucional no Legislativo de Minas Gerais&lt;/strong&gt;. Belo Horizonte: Editora PUC Minas. p. 381–413.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;tese-de-doutorado&#34;&gt;Tese de Doutorado&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Gelape, Lucas. 2022. &lt;a href=&#34;/publication/tese/&#34;&gt;&lt;strong&gt;Apesar de tudo, carreiras políticas locais: padrões alternativos, reeleição e partidos nas trajetórias de vereadores&lt;/strong&gt;&lt;/a&gt;. Tese de Doutorado – Universidade de São Paulo, São Paulo.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;dissertação-de-mestrado&#34;&gt;Dissertação de mestrado&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Gelape, Lucas. 2017. &lt;a href=&#34;/publication/dissertacao/&#34;&gt;&lt;strong&gt;A geografia do voto em eleições municipais no sistema eleitoral de lista aberta: um estudo a partir de Belo Horizonte, Rio de Janeiro e São Paulo&lt;/strong&gt;&lt;/a&gt;. Dissertação de Mestrado – Universidade Federal de Minas Gerais, Belo Horizonte.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;artigos-publicados-em-coletâneas-de-eventos&#34;&gt;Artigos publicados em coletâneas de eventos&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Gelape, Lucas; Feital, Thiago Álvares. 2015. &lt;a href=&#34;/publication/art_politics/&#34;&gt;From Art to Politics: challenging representation&lt;/a&gt;. &lt;strong&gt;Human Rights, Rule of Law and the Contemporary Social Challenges in Complex Societies: Proceedings of the XXVI World Congress of Philosophy of Law and Social Philosophy&lt;/strong&gt;. Belo Horizonte: Initia Via. p. 2211–2232.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;trabalhos-em-andamento--em-avaliação&#34;&gt;Trabalhos em andamento / em avaliação&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Geografia eleitoral no Brasil: um diagnóstico teórico-conceitual. 2025. (&lt;em&gt;com Glauco Peres da Silva&lt;/em&gt;)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Identificação de Bases Eleitorais a Partir da Votação de Candidatos: uma comparação de diferentes medidas. 2025. (&lt;em&gt;com Marco Antonio Faganello&lt;/em&gt;)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Multilevel political connections and interest intermediation: identifying political alliances with social media data. 2025. (&lt;em&gt;com Marta Mendes da Rocha, Fernando Meireles, e Guilheme de Abreu Duque&lt;/em&gt;)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Indicações legislativas como instrumento de representação: uma análise dos assuntos das indicações dos vereadores do município de São Paulo (1993–2020). 2025. (&lt;em&gt;com Julia Tachima&lt;/em&gt;)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Spatial regularity: assessing spatial voting patterns in Brazil&amp;rsquo;s open-list proportional representation. 2025.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Sleeping with the Enemy? The Coordination of Candidates List in OLPR. (&lt;em&gt;com George Avelino, Cedric Antunes, e Carolina Guimarães&lt;/em&gt;)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Interpolation of electoral data into census tract: a novel method based on the Brazilian case. 2025. (&lt;em&gt;com Rogerio Barbosa, Bruno Schaefer, e Tomás Paixão Borges&lt;/em&gt;)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Don’t Put All Your Eggs in One Basket: Rethinking Political Representation in Service-Dependent Communities. 2025. (&lt;em&gt;com Débora Thomé e Lara Polisseni&lt;/em&gt;)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Software</title>
+      <link>/pt/software/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/pt/software/</guid>
+      <description>&lt;h2 id=&#34;pacotes-r&#34;&gt;&lt;strong&gt;Pacotes R&lt;/strong&gt;&lt;/h2&gt;
+&lt;h3 id=&#34;pollingbr&#34;&gt;pollingBR&lt;/h3&gt;
+&lt;p&gt;O &lt;code&gt;pollingBR&lt;/code&gt; é um pacote em R, criado para facilitar a utilização de dados contidos no &lt;a href=&#34;https://www.poder360.com.br/pesquisas-de-opiniao/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;banco de dados de pesquisas eleitorais do site Poder360&lt;/a&gt;. O pacote extrai dados da API deste repositório, desenvolvida pelo &lt;a href=&#34;https://www.voltdata.info/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Volt Data Lab&lt;/a&gt;. Este pacote foi produzido por mim com contribuições de Sérgio Spagnuolo, Denisson Silva e Fernando Meireles.&lt;/p&gt;
+&lt;p&gt;Para download e instruções de uso, acesse o &lt;a href=&#34;https://github.com/sergiospagnuolo/pollingBR&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;repositório do &lt;code&gt;pollingBR&lt;/code&gt; no GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;crossfire&#34;&gt;crossfire&lt;/h3&gt;
+&lt;p&gt;O &lt;code&gt;crossfire&lt;/code&gt; é um pacote em R utilizado para extrair dados da &lt;a href=&#34;https://api.fogocruzado.org.br/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;API de dados abertos do projeto &lt;strong&gt;Fogo Cruzado&lt;/strong&gt;&lt;/a&gt;, desenvolvida pelo &lt;a href=&#34;https://www.voltdata.info/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Volt Data Lab&lt;/a&gt;. O pacote foi desenvolvido por mim, com contribuições de Sérgio Spagnuolo e Denisson Silva.&lt;/p&gt;
+&lt;p&gt;O &lt;a href=&#34;https://fogocruzado.org.br/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fogo Cruzado&lt;/a&gt; é &amp;ldquo;uma plataforma digital colaborativa que tem o objetivo de registrar a incidência de tiroteios e a prevalência de violência armada na região metropolitana do Rio de Janeiro e de Recife&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;Para download e instruções de uso, acesse o &lt;a href=&#34;https://github.com/voltdatalab/crossfire&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;repositório do &lt;code&gt;crossfire&lt;/code&gt; no GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;newsatlasbr&#34;&gt;newsatlasbr&lt;/h3&gt;
+&lt;p&gt;O &lt;code&gt;newsatlasbr&lt;/code&gt; é um pacote em R destinado a extrair dados da &lt;a href=&#34;https://www.atlas.jor.br/plataforma/api/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;API de dados abertos do &lt;strong&gt;Atlas da Notícia&lt;/strong&gt;&lt;/a&gt;, projeto que &lt;a href=&#34;https://www.atlas.jor.br/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;mapeia veículos de jornalismo no Brasil&lt;/a&gt;. Desenvolvi o pacote, com contribuições de Sérgio Spagnuolo e Renata Hirota.&lt;/p&gt;
+&lt;p&gt;Para download e instruções de uso, acesse o &lt;a href=&#34;https://github.com/voltdatalab/newsatlasbr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;repositório do &lt;code&gt;newsatlasbr&lt;/code&gt; no GitHub&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

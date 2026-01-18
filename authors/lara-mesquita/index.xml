@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lara Mesquita | Lucas Gelape</title>
+    <link>/authors/lara-mesquita/</link>
+      <atom:link href="/authors/lara-mesquita/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lara Mesquita</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>© 2026</copyright><lastBuildDate>Sat, 10 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hufa00241f86c4313f35bbc31f9b413ce3_978835_512x512_fill_lanczos_center_3.png</url>
+      <title>Lara Mesquita</title>
+      <link>/authors/lara-mesquita/</link>
+    </image>
+    
+    <item>
+      <title>Representatividade falha entre estados seguirá mesmo com mais deputados</title>
+      <link>/blog/aumento_deputados/</link>
+      <pubDate>Sat, 10 May 2025 00:00:00 +0000</pubDate>
+      <guid>/blog/aumento_deputados/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www1.folha.uol.com.br/poder/2025/05/representatividade-falha-entre-estados-seguira-mesmo-com-mais-deputados.shtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Artigo em coautoria com Lara Mesquita publicado no caderno &amp;ldquo;Poder&amp;rdquo; da &lt;em&gt;Folha de S. Paulo&lt;/em&gt;&lt;/a&gt;, em 10 mai. 2025.&lt;/p&gt;
+&lt;p&gt;Análise baseada em simulações que realizamos da distribuição de cadeiras de deputados federais sob diferentes cenários, motivadas pela recente aprovação do PLP 177/23 na Câmara. A aprovação do projeto vem após a decisão do STF na ADO 38, que estabeleceu que o Congresso estava em mora legislativa na definição de legislação que garantisse a proporcionalidade do n. de cadeiras e a população de cada estado.&lt;/p&gt;
+&lt;p&gt;Os dados, códigos da simulação, e um breve relatório deste exercício estão em um &lt;a href=&#34;https://github.com/GV-CEPESP/proporcionalidade_cadeiras&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;repositório no GitHub do FGV CEPESP&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Representatividade falha entre estados seguirá mesmo com mais deputados</title>
+      <link>/pt/blog/aumento_deputados/</link>
+      <pubDate>Sat, 10 May 2025 00:00:00 +0000</pubDate>
+      <guid>/pt/blog/aumento_deputados/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www1.folha.uol.com.br/poder/2025/05/representatividade-falha-entre-estados-seguira-mesmo-com-mais-deputados.shtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Artigo em coautoria com Lara Mesquita publicado no caderno &amp;ldquo;Poder&amp;rdquo; da &lt;em&gt;Folha de S. Paulo&lt;/em&gt;&lt;/a&gt;, em 10 mai. 2025.&lt;/p&gt;
+&lt;p&gt;Análise baseada em simulações que realizamos da distribuição de cadeiras de deputados federais sob diferentes cenários, motivadas pela recente aprovação do PLP 177/23 na Câmara. A aprovação do projeto vem após a decisão do STF na ADO 38, que estabeleceu que o Congresso estava em mora legislativa na definição de legislação que garantisse a proporcionalidade do n. de cadeiras e a população de cada estado.&lt;/p&gt;
+&lt;p&gt;Os dados, códigos da simulação, e um breve relatório deste exercício estão em um &lt;a href=&#34;https://github.com/GV-CEPESP/proporcionalidade_cadeiras&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;repositório no GitHub do FGV CEPESP&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

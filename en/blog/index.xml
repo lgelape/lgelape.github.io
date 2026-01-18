@@ -1,30 +1,139 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs | Lucas Gelape</title>
+    <title>Blog | Lucas Gelape</title>
     <link>/en/blog/</link>
       <atom:link href="/en/blog/index.xml" rel="self" type="application/rss+xml" />
-    <description>Blogs</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><copyright>© 2023</copyright><lastBuildDate>Mon, 12 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <description>Blog</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><copyright>© 2026</copyright><lastBuildDate>Sun, 18 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/media/icon_hu1d16897e3fa93fcb083438e47d0c5cbc_11292_512x512_fill_lanczos_center_3.png</url>
-      <title>Blogs</title>
+      <url>/media/icon_hufa00241f86c4313f35bbc31f9b413ce3_978835_512x512_fill_lanczos_center_3.png</url>
+      <title>Blog</title>
       <link>/en/blog/</link>
     </image>
     
     <item>
-      <title>Highlights</title>
+      <title>Curated Reading</title>
       <link>/en/blog/destaques/</link>
-      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 18 Jan 2026 00:00:00 +0000</pubDate>
       <guid>/en/blog/destaques/</guid>
-      <description>&lt;p&gt;These are some of my work&amp;rsquo;s highlights. They are a combination of articles, data analysis, presentations, and tools that I produced over the years.&lt;/p&gt;
+      <description>&lt;p&gt;This collection represents a cross-section of my public non-academic work over the years, bridging the gap between political science and public engagement. It includes a combination of op-eds, data-driven analysis, and digital tools designed to explore the nuances of representation and the political landscape.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;/en/blog/vantagens_reeleicao/&#34;&gt;The advantages of reelection&lt;/a&gt; (in Portuguese): op-ed published on &lt;em&gt;Folha de S. Paulo&lt;/em&gt;, in reply to former president Fernando Henrique Cardoso&amp;rsquo;s article against reelection;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/en/blog/science_pulse/&#34;&gt;Science Pulse&lt;/a&gt;: app web development in &lt;code&gt;Shiny&lt;/code&gt; from this scientific community social listening tool;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/en/blog/bolsonaro_aprovacao/&#34;&gt;Unlike other world leaders, Bolsonaro&amp;rsquo;s evaluation does not change during the pandemic&lt;/a&gt; (in Portuguese): analysis published on Núcleo Jornalismo, which was mentioned by other news outlets, such as &lt;em&gt;Jornal Nacional&lt;/em&gt; and &lt;em&gt;Folha de S. Paulo&lt;/em&gt;;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/en/blog/materias_g1/&#34;&gt;News stories published on G1&lt;/a&gt; (in Portuguese): I point out 3 stories that brought new angles to stories that were covered by other news outlets. &lt;a href=&#34;https://g1.globo.com/politica/noticia/2018/07/29/em-23-das-cidades-do-pais-partidos-nao-declaram-despesas-de-2017.ghtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;In 2/3 of the cities, parties do not report their 2017 expenses&lt;/em&gt;&lt;/a&gt; shows how parties organize across the country, trying to understand why they might not declare those expenses. &lt;a href=&#34;https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/10/08/numero-de-policiais-e-militares-no-legislativo-e-quatro-vezes-maior-do-que-o-de-2014.ghtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;The number of policemen and military elected for Legislative seats is four times higher than in 2014&lt;/em&gt;&lt;/a&gt; (with Gabriela Caesar and Ana Carolina Moreno) showed, on the night of the first round of the 2018 elections, that this number signaled the strength from the rightists&amp;rsquo; politicians coming from the polls. &lt;a href=&#34;https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/11/07/resultados-da-votacao-por-urna-mostram-dobradinhas-na-maioria-dos-estados-no-2o-turno.ghtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Results by electoral precint shows partnerships (&amp;ldquo;dobradinhas&amp;rdquo;) in the 2nd round of most states&lt;/em&gt;&lt;/a&gt; uses very disaggregated data to better understand the second-round results from 2018.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/en/blog/geografia_eleicoes/&#34;&gt;Geocast&lt;/a&gt;: &lt;em&gt;live&lt;/em&gt; where I discuss the research on Electoral Geography and how R can help on it.&lt;/li&gt;
+&lt;li&gt;Op-eds in newspapers (in Portuguese):
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/en/blog/aumento_deputados/&#34;&gt;&lt;em&gt;Flawed representation among states will persist even with more MPs&lt;/em&gt;&lt;/a&gt;, &lt;em&gt;Folha de S. Paulo&lt;/em&gt; (with Lara Mesquita).&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/en/blog/camara_sp_2024/&#34;&gt;&lt;em&gt;Geography is more decisive than ideology in choosing a São Paulo city councilor&lt;/em&gt;&lt;/a&gt;, &lt;em&gt;Folha de S. Paulo&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/en/blog/pauta_pet/&#34;&gt;&lt;em&gt;K-99, a good candidate for dogs&lt;/em&gt;&lt;/a&gt;, &lt;em&gt;O Estado de S. Paulo&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/en/blog/numeros_primos/&#34;&gt;&lt;em&gt;Prime numbers are not relatives&lt;/em&gt;&lt;/a&gt;, &lt;em&gt;Folha de S. Paulo&lt;/em&gt; (with Fabiana de Menezes Soares).&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/en/blog/reeleicao_municipal/&#34;&gt;&lt;em&gt;Reelection and municipal elections&lt;/em&gt;&lt;/a&gt;, &lt;em&gt;Folha de S. Paulo&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/en/blog/sao_joao_responsividade/&#34;&gt;&lt;em&gt;MPs and the São João Festivities: in defense of Symbolic Responsiveness&lt;/em&gt;&lt;/a&gt;, &lt;em&gt;Congresso em Foco&lt;/em&gt; (with Telma Hoyler).&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/en/blog/vantagens_reeleicao/&#34;&gt;The advantages of reelection&lt;/a&gt;, &lt;em&gt;Folha de S. Paulo&lt;/em&gt;.&lt;/li&gt;
 &lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Data analysis in the media (in Portuguese):
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/en/blog/materias_g1/&#34;&gt;News stories published on G1&lt;/a&gt;: I point out 3 stories that brought new angles to stories that were covered by other news outlets:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://g1.globo.com/politica/noticia/2018/07/29/em-23-das-cidades-do-pais-partidos-nao-declaram-despesas-de-2017.ghtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;In 2/3 of the cities, parties do not report their 2017 expenses&lt;/em&gt;&lt;/a&gt;;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/10/08/numero-de-policiais-e-militares-no-legislativo-e-quatro-vezes-maior-do-que-o-de-2014.ghtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;The number of policemen and military elected for Legislative seats is four times higher than in 2014&lt;/em&gt;&lt;/a&gt; (with Gabriela Caesar and Ana Carolina Moreno);&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/11/07/resultados-da-votacao-por-urna-mostram-dobradinhas-na-maioria-dos-estados-no-2o-turno.ghtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Results by electoral precint shows partnerships (&amp;ldquo;dobradinhas&amp;rdquo;) in the 2nd round of most states&lt;/em&gt;&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/en/blog/bolsonaro_aprovacao/&#34;&gt;Unlike other world leaders, Bolsonaro&amp;rsquo;s evaluation does not change during the pandemic&lt;/a&gt;: analysis published on &lt;em&gt;Núcleo Jornalismo&lt;/em&gt;, which was mentioned by other news outlets, such as &lt;em&gt;Jornal Nacional&lt;/em&gt; and &lt;em&gt;Folha de S. Paulo&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/en/blog/science_pulse/&#34;&gt;Science Pulse&lt;/a&gt;: app web development in &lt;code&gt;Shiny&lt;/code&gt; from this scientific community social listening tool.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Interviews (in Portuguese):
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/en/blog/impressa_auditavel/&#34;&gt;&lt;em&gt;Interview for the &amp;ldquo;Impressa e Auditável&amp;rdquo; newsletter&amp;rsquo;: issue #22 | Polls, Fascisms, and Brazil&lt;/em&gt;&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/en/blog/fora_da_politica/&#34;&gt;&lt;em&gt;&amp;ldquo;Fora da política não há salvação&amp;rdquo;: Elections across Brazil&lt;/em&gt;&lt;/a&gt; (with Marco Antonio Faganello).&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/en/blog/geografia_eleicoes/&#34;&gt;Geocast: Electoral Geography&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Interview for the &#34;Impressa e Auditável&#34; newsletter</title>
+      <link>/en/blog/impressa_auditavel/</link>
+      <pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>/en/blog/impressa_auditavel/</guid>
+      <description>&lt;p&gt;Interview for the edition &lt;a href=&#34;https://impressa.news/22-pesquisas-fascismos-e-brasil/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#22 | Pesquisas, Fascismos e Brasil&lt;/a&gt; of the newsletter &lt;a href=&#34;https://impressa.news/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Impressa e Auditável&lt;/em&gt;&lt;/a&gt;, produced by &lt;a href=&#34;https://bsky.app/profile/lucaslago.projeto7c0.com.br&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lucas Lago&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The interview focused on a &lt;a href=&#34;https://www.labourtogether.uk/all-reports/measuring-what-matters?ref=impressa.news&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;report&lt;/a&gt; by the think tank &lt;a href=&#34;https://www.labourtogether.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Labour Together&lt;/em&gt;&lt;/a&gt; on how to measure a country&amp;rsquo;s main problem or concern.&lt;/p&gt;
+&lt;p&gt;We also briefly discussed the article &lt;a href=&#34;https://www.cambridge.org/core/journals/political-science-research-and-methods/article/does-accommodation-work-mainstream-party-strategies-and-the-success-of-radical-right-parties/5C3476FCD26B188C7399ADD920D71770&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Does accommodation work? Mainstream party strategies and the success of radical right parties&amp;rdquo;&lt;/a&gt;, published in the journal &lt;em&gt;Political Science Research and Methods&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;The full interview is &lt;a href=&#34;https://www.youtube.com/watch?v=Ovi3EbV0wdQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;available on YouTube&lt;/a&gt; (in Portuguese).&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/Ovi3EbV0wdQ&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Flawed representation among states will persist even with more MPs</title>
+      <link>/en/blog/aumento_deputados/</link>
+      <pubDate>Sat, 10 May 2025 00:00:00 +0000</pubDate>
+      <guid>/en/blog/aumento_deputados/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www1.folha.uol.com.br/poder/2025/05/representatividade-falha-entre-estados-seguira-mesmo-com-mais-deputados.shtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Article co-authored with Lara Mesquita published in &lt;em&gt;Folha de S. Paulo&lt;/em&gt;&lt;/a&gt;, on May 10, 2025 (in Portuguese).&lt;/p&gt;
+&lt;p&gt;Analysis based on simulations regarding the distribution of lower chamber seats under different scenarios, motivated by the approval of PLP 177/23 in Brazil&amp;rsquo;s &lt;em&gt;Câmara dos Deputados&lt;/em&gt;. The bill&amp;rsquo;s approval follows the Supreme Court decision, ruling that Congress was in legislative default regarding the definition of legislation to ensure proportionality between the number of seats and the population of each state.&lt;/p&gt;
+&lt;p&gt;Data, code, and a brief report of these simulations are available in a &lt;a href=&#34;https://github.com/GV-CEPESP/proporcionalidade_cadeiras&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;repository on FGV CEPESP&amp;rsquo;s GitHub&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Prime numbers are not relatives</title>
+      <link>/en/blog/numeros_primos/</link>
+      <pubDate>Tue, 26 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>/en/blog/numeros_primos/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www1.folha.uol.com.br/opiniao/2024/11/numeros-primos-nao-sao-parentes.shtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Op-ed co-authored with Fabiana de Menezes Soares published in the &amp;ldquo;Tendências e Debates&amp;rdquo; section of &lt;em&gt;Folha de S. Paulo&lt;/em&gt;&lt;/a&gt;, on Nov 26, 2024 (in Portuguese).&lt;/p&gt;
+&lt;p&gt;Our op-ed is a dialogue with a &lt;a href=&#34;https://www1.folha.uol.com.br/colunas/marceloviana/2024/11/matematica-e-poder.shtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;column published by Marcelo Viana&lt;/a&gt; regarding the importance of mathematics in addressing central contemporary issues. Drawing from the case of redistricting, we discuss how, tough an essential tool, mathematics on its own is incapable of resolving issues of justice, among others.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Geography is more decisive than ideology in choosing a São Paulo city councilor</title>
+      <link>/en/blog/camara_sp_2024/</link>
+      <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>/en/blog/camara_sp_2024/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www1.folha.uol.com.br/opiniao/2020/09/as-vantagens-da-reeleicao.shtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Article published in the &amp;ldquo;Ilustríssima&amp;rdquo; section of &lt;em&gt;Folha de S. Paulo&lt;/em&gt;&lt;/a&gt;, on Oct 26, 2024 (in Portuguese).&lt;/p&gt;
+&lt;p&gt;An analysis on the 2024 electoral results for the São Paulo city council. I argue that there is a predominance of territorial representation in electoral behavior.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>K-99, a good candidate for dogs</title>
+      <link>/en/blog/pauta_pet/</link>
+      <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>/en/blog/pauta_pet/</guid>
+      <description>&lt;p&gt;Article published in the &amp;ldquo;Espaço Aberto&amp;rdquo; section of the &lt;a href=&#34;https://www.estadao.com.br/opiniao/espaco-aberto/k-99-um-candidato-bom-para-os-cachorros/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;online edition of &lt;em&gt;O Estado de S. Paulo&lt;/em&gt;&lt;/a&gt;, on Oct 6, 2024 (in Portuguese).&lt;/p&gt;
+&lt;p&gt;I show the increase of themes related to the &amp;ldquo;pet agenda&amp;rdquo; in government programs for municipal elections between 2012 and 2024. Based on the results, I discuss the electoral and governance implications of these agendas, calling for them to be properly debated.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reelection and municipal elections</title>
+      <link>/en/blog/reeleicao_municipal/</link>
+      <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>/en/blog/reeleicao_municipal/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www1.folha.uol.com.br/colunas/voto-a-voto/2024/10/a-reeleicao-e-as-eleicoes-municipais.shtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Op-ed published in the &amp;ldquo;Voto a Voto&amp;rdquo; column of &lt;em&gt;Folha de S. Paulo&lt;/em&gt;&lt;/a&gt;, on Oct 4, 2024 (in Portuguese).&lt;/p&gt;
+&lt;p&gt;I present some historical data regarding reelection in municipal races in Brazil, while discussing theoretical aspects of this phenomenon in the country, in anticipation of the first round of the 2024 elections.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>&#34;Fora da política não há salvação&#34;: Elections across Brazil</title>
+      <link>/en/blog/fora_da_politica/</link>
+      <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/en/blog/fora_da_politica/</guid>
+      <description>&lt;p&gt;Participation in the edition &lt;a href=&#34;https://foradapoliticanaohasalvacao.blog/2024/09/16/eleicoes-brasil-afora-com-lucas-gelape-marco-antonio-faganello-239/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Elections across Brazil | 239&lt;/a&gt; of the podcast &lt;a href=&#34;https://foradapoliticanaohasalvacao.blog/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Fora da política não há salvação&lt;/em&gt;&lt;/a&gt;, produced by &lt;a href=&#34;https://eaesp.fgv.br/pessoa/claudio-goncalves-couto&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cláudio Couto&lt;/a&gt;, alongside colleague &lt;a href=&#34;http://lattes.cnpq.br/7299940252994768&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Marco Antonio Faganello&lt;/a&gt; (FGV-CEPESP).&lt;/p&gt;
+&lt;p&gt;The interview discussed how Political Science helps to understand municipal elections, especially the 2024 race.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/oEmEckM01Xo&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
 </description>
     </item>
     
@@ -303,6 +412,26 @@ In this blog post, I described the first measures taken by mayor Bruno Covas (PS
       <pubDate>Wed, 14 Jan 2015 00:00:00 +0000</pubDate>
       <guid>/en/blog/direito_ufmg/</guid>
       <description>&lt;p&gt;In January, 2015, with Amanda Cristina Viana, I was one of the class speakers of the 2014 2nd semester graduation class. The UFMG Law School Journal (&lt;em&gt;Revista da Faculdade de Direito da UFMG&lt;/em&gt;) was kind to publish in its &lt;a href=&#34;https://revista.direito.ufmg.br/index.php/revista/article/view/1691&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;issue 66 &lt;em&gt;Historical Memory&lt;/em&gt; section&lt;/a&gt; (in Portuguese).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/en/blog/sao_joao_responsividade/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/en/blog/sao_joao_responsividade/</guid>
+      <description>&lt;p&gt;title: &amp;lsquo;MPs and the São João Festivities: in defense of Symbolic Responsiveness&amp;rsquo;
+subtitle: &amp;lsquo;One can debate the pertinence of canceling Congress sections during the São João. Some matters can be discussed virtually.&amp;rsquo;
+summary: Op-ed published in &lt;em&gt;Congresso em Foco&lt;/em&gt;
+tags:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Congresso&lt;/li&gt;
+&lt;li&gt;Representação política&lt;/li&gt;
+&lt;li&gt;Responsividade&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;Article co-authored with Telma Hoyler, &lt;a href=&#34;https://www.congressoemfoco.com.br/noticia/29077/parlamentares-e-as-festas-de-sao-joao-em-defesa-da-responsividade-simbolica&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;published in the &lt;em&gt;Congresso em Foco&lt;/em&gt; portal&lt;/a&gt;, in July 2024 (in Portuguese).&lt;/p&gt;
+&lt;p&gt;In the article, we discuss how MPs&amp;rsquo; visits to their constituencies during popular festivities are important elements of political representation. Thus, prejudiced comments regarding the physical absence of these deputies and senators in Congress represent a short-sighted view of representation.&lt;/p&gt;
 </description>
     </item>
     
