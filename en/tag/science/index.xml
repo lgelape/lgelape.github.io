@@ -5,7 +5,7 @@
     <link>/en/tag/science/</link>
       <atom:link href="/en/tag/science/index.xml" rel="self" type="application/rss+xml" />
     <description>Science</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><copyright>© 2026</copyright><lastBuildDate>Sun, 18 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><copyright>© 2026</copyright><lastBuildDate>Thu, 23 Apr 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hufa00241f86c4313f35bbc31f9b413ce3_978835_512x512_fill_lanczos_center_3.png</url>
       <title>Science</title>
@@ -15,11 +15,18 @@
     <item>
       <title>Curated Reading</title>
       <link>/en/blog/destaques/</link>
-      <pubDate>Sun, 18 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
       <guid>/en/blog/destaques/</guid>
       <description>&lt;p&gt;This collection represents a cross-section of my public non-academic work over the years, bridging the gap between political science and public engagement. It includes a combination of op-eds, data-driven analysis, and digital tools designed to explore the nuances of representation and the political landscape.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Op-eds in newspapers (in Portuguese):
+&lt;li&gt;
+&lt;p&gt;Presentations:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/blog/drclas/&#34;&gt;&lt;em&gt;Brazil’s 2026 Elections: Looking Ahead to October&lt;/em&gt;&lt;/a&gt;: presentation at the David Rockefeller Center for Latin American Studies (Harvard University) on the 2026 Brazilian elections.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Op-eds in newspapers (in Portuguese):&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;/en/blog/aumento_deputados/&#34;&gt;&lt;em&gt;Flawed representation among states will persist even with more MPs&lt;/em&gt;&lt;/a&gt;, &lt;em&gt;Folha de S. Paulo&lt;/em&gt; (with Lara Mesquita).&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;/en/blog/camara_sp_2024/&#34;&gt;&lt;em&gt;Geography is more decisive than ideology in choosing a São Paulo city councilor&lt;/em&gt;&lt;/a&gt;, &lt;em&gt;Folha de S. Paulo&lt;/em&gt;.&lt;/li&gt;
@@ -30,7 +37,8 @@
 &lt;li&gt;&lt;a href=&#34;/en/blog/vantagens_reeleicao/&#34;&gt;The advantages of reelection&lt;/a&gt;, &lt;em&gt;Folha de S. Paulo&lt;/em&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;Data analysis in the media (in Portuguese):
+&lt;li&gt;
+&lt;p&gt;Data analysis in the media (in Portuguese):&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;/en/blog/materias_g1/&#34;&gt;News stories published on G1&lt;/a&gt;: I point out 3 stories that brought new angles to stories that were covered by other news outlets:
 &lt;ul&gt;
@@ -43,7 +51,8 @@
 &lt;li&gt;&lt;a href=&#34;/en/blog/science_pulse/&#34;&gt;Science Pulse&lt;/a&gt;: app web development in &lt;code&gt;Shiny&lt;/code&gt; from this scientific community social listening tool.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;Interviews (in Portuguese):
+&lt;li&gt;
+&lt;p&gt;Interviews (in Portuguese):&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;/en/blog/impressa_auditavel/&#34;&gt;&lt;em&gt;Interview for the &amp;ldquo;Impressa e Auditável&amp;rdquo; newsletter&amp;rsquo;: issue #22 | Polls, Fascisms, and Brazil&lt;/em&gt;&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;/en/blog/fora_da_politica/&#34;&gt;&lt;em&gt;&amp;ldquo;Fora da política não há salvação&amp;rdquo;: Elections across Brazil&lt;/em&gt;&lt;/a&gt; (with Marco Antonio Faganello).&lt;/li&gt;

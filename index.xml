@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Lucas Gelape</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>© 2026</copyright><lastBuildDate>Sun, 18 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>© 2026</copyright><lastBuildDate>Thu, 23 Apr 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hufa00241f86c4313f35bbc31f9b413ce3_978835_512x512_fill_lanczos_center_3.png</url>
       <title>Lucas Gelape</title>
@@ -31,10 +31,16 @@
     <item>
       <title>Destaques</title>
       <link>/blog/destaques/</link>
-      <pubDate>Sun, 18 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
       <guid>/blog/destaques/</guid>
       <description>&lt;p&gt;Neste post, apresento alguns dos meus principais trabalhos de análise política, artigos de opinião, jornalismo de dados e divulgação científica:&lt;/p&gt;
 &lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Apresentações:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/blog/drclas/&#34;&gt;&lt;em&gt;Brazil’s 2026 Elections: Looking Ahead to October&lt;/em&gt;&lt;/a&gt;: apresentação no David Rockefeller Center for Latin American Studies (Harvard University), sobre as eleições brasileiras de 2026.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Artigos de opinião e/ou de análise política:&lt;/p&gt;
 &lt;ul&gt;
@@ -75,10 +81,16 @@
     <item>
       <title>Destaques</title>
       <link>/pt/blog/destaques/</link>
-      <pubDate>Sun, 18 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
       <guid>/pt/blog/destaques/</guid>
       <description>&lt;p&gt;Neste post, apresento alguns dos meus principais trabalhos de análise política, artigos de opinião, jornalismo de dados e divulgação científica:&lt;/p&gt;
 &lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Apresentações:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/blog/drclas/&#34;&gt;&lt;em&gt;Brazil’s 2026 Elections: Looking Ahead to October&lt;/em&gt;&lt;/a&gt;: apresentação no David Rockefeller Center for Latin American Studies (Harvard University), sobre as eleições brasileiras de 2026.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Artigos de opinião e/ou de análise política:&lt;/p&gt;
 &lt;ul&gt;
@@ -113,6 +125,26 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Brazil’s 2026 Elections: Looking Ahead to October</title>
+      <link>/blog/drclas/</link>
+      <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>/blog/drclas/</guid>
+      <description>&lt;p&gt;Participação no seminário &lt;a href=&#34;https://www.drclas.harvard.edu/event/brazils-2026-elections-looking-ahead-october&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Brazil’s 2026 Elections: Looking Ahead to October&lt;/a&gt;, em 14 de abril de 2026, no David Rockefeller Center for Latin American Studies (Harvard University), junto com Graziele Silotto, Fernando Bizzarro e mediação de Steven Levitsky.&lt;/p&gt;
+&lt;p&gt;A apresentação realizada está disponível &lt;a href=&#34;/presentations/Gelape2026_DRCLAS.pdf&#34;&gt;neste link&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Brazil’s 2026 Elections: Looking Ahead to October</title>
+      <link>/pt/blog/drclas/</link>
+      <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>/pt/blog/drclas/</guid>
+      <description>&lt;p&gt;Participação no seminário &lt;a href=&#34;https://www.drclas.harvard.edu/event/brazils-2026-elections-looking-ahead-october&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Brazil’s 2026 Elections: Looking Ahead to October&lt;/a&gt;, em 14 de abril de 2026, no David Rockefeller Center for Latin American Studies (Harvard University), junto com Graziele Silotto, Fernando Bizzarro e mediação de Steven Levitsky.&lt;/p&gt;
+&lt;p&gt;A apresentação realizada está disponível &lt;a href=&#34;/presentations/Gelape2026_DRCLAS.pdf&#34;&gt;neste link&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -1690,7 +1722,15 @@
 &lt;/ul&gt;
 &lt;h2 id=&#34;artigos-aceitos-para-publicação&#34;&gt;Artigos aceitos para publicação&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Gelape, Lucas; Thomé, Débora. Aonde vão as vereadoras? Uma análise das trajetórias de mulheres na política municipal. &lt;strong&gt;Brazilian Political Science Review&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Gelape, Lucas; Thomé, Débora. Where Do City Councilors Go? Gender and Political Career Trajectories in Municipal Politics. &lt;strong&gt;Brazilian Political Science Review&lt;/strong&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Gelape, Lucas; Faganello, Marco Antonio. Identificação de Bases Eleitorais a Partir da Votação de Candidatos: uma comparação de diferentes medidas. &lt;strong&gt;Dados&lt;/strong&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Gelape, Lucas; Rocha, Marta Mendes da; Meireles, Fernando; Duque, Guilheme de Abreu. Multilevel political connections and interest intermediation: identifying political alliances with social media data. &lt;strong&gt;Journal of Politics in Latin America&lt;/strong&gt;.&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;livros&#34;&gt;Livros&lt;/h2&gt;
 &lt;ul&gt;
@@ -1726,12 +1766,6 @@
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;Geografia eleitoral no Brasil: um diagnóstico teórico-conceitual. 2025. (&lt;em&gt;com Glauco Peres da Silva&lt;/em&gt;)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Identificação de Bases Eleitorais a Partir da Votação de Candidatos: uma comparação de diferentes medidas. 2025. (&lt;em&gt;com Marco Antonio Faganello&lt;/em&gt;)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Multilevel political connections and interest intermediation: identifying political alliances with social media data. 2025. (&lt;em&gt;com Marta Mendes da Rocha, Fernando Meireles, e Guilheme de Abreu Duque&lt;/em&gt;)&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Indicações legislativas como instrumento de representação: uma análise dos assuntos das indicações dos vereadores do município de São Paulo (1993–2020). 2025. (&lt;em&gt;com Julia Tachima&lt;/em&gt;)&lt;/p&gt;
@@ -1798,7 +1832,15 @@
 &lt;/ul&gt;
 &lt;h2 id=&#34;artigos-aceitos-para-publicação&#34;&gt;Artigos aceitos para publicação&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Gelape, Lucas; Thomé, Débora. Aonde vão as vereadoras? Uma análise das trajetórias de mulheres na política municipal. &lt;strong&gt;Brazilian Political Science Review&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Gelape, Lucas; Thomé, Débora. Where Do City Councilors Go? Gender and Political Career Trajectories in Municipal Politics. &lt;strong&gt;Brazilian Political Science Review&lt;/strong&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Gelape, Lucas; Faganello, Marco Antonio. Identificação de Bases Eleitorais a Partir da Votação de Candidatos: uma comparação de diferentes medidas. &lt;strong&gt;Dados&lt;/strong&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Gelape, Lucas; Rocha, Marta Mendes da; Meireles, Fernando; Duque, Guilheme de Abreu. Multilevel political connections and interest intermediation: identifying political alliances with social media data. &lt;strong&gt;Journal of Politics in Latin America&lt;/strong&gt;.&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;livros&#34;&gt;Livros&lt;/h2&gt;
 &lt;ul&gt;
@@ -1834,12 +1876,6 @@
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;Geografia eleitoral no Brasil: um diagnóstico teórico-conceitual. 2025. (&lt;em&gt;com Glauco Peres da Silva&lt;/em&gt;)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Identificação de Bases Eleitorais a Partir da Votação de Candidatos: uma comparação de diferentes medidas. 2025. (&lt;em&gt;com Marco Antonio Faganello&lt;/em&gt;)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Multilevel political connections and interest intermediation: identifying political alliances with social media data. 2025. (&lt;em&gt;com Marta Mendes da Rocha, Fernando Meireles, e Guilheme de Abreu Duque&lt;/em&gt;)&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Indicações legislativas como instrumento de representação: uma análise dos assuntos das indicações dos vereadores do município de São Paulo (1993–2020). 2025. (&lt;em&gt;com Julia Tachima&lt;/em&gt;)&lt;/p&gt;

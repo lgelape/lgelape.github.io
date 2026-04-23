@@ -5,7 +5,7 @@
     <link>/authors/admin/</link>
       <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Lucas Gelape</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>© 2026</copyright><lastBuildDate>Sun, 18 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>© 2026</copyright><lastBuildDate>Thu, 23 Apr 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/authors/admin/avatar_hu02aa61ae1d9de35cbe238d2676170cb9_90157_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Lucas Gelape</title>
@@ -15,10 +15,16 @@
     <item>
       <title>Destaques</title>
       <link>/blog/destaques/</link>
-      <pubDate>Sun, 18 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
       <guid>/blog/destaques/</guid>
       <description>&lt;p&gt;Neste post, apresento alguns dos meus principais trabalhos de análise política, artigos de opinião, jornalismo de dados e divulgação científica:&lt;/p&gt;
 &lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Apresentações:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/blog/drclas/&#34;&gt;&lt;em&gt;Brazil’s 2026 Elections: Looking Ahead to October&lt;/em&gt;&lt;/a&gt;: apresentação no David Rockefeller Center for Latin American Studies (Harvard University), sobre as eleições brasileiras de 2026.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Artigos de opinião e/ou de análise política:&lt;/p&gt;
 &lt;ul&gt;
@@ -59,10 +65,16 @@
     <item>
       <title>Destaques</title>
       <link>/pt/blog/destaques/</link>
-      <pubDate>Sun, 18 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
       <guid>/pt/blog/destaques/</guid>
       <description>&lt;p&gt;Neste post, apresento alguns dos meus principais trabalhos de análise política, artigos de opinião, jornalismo de dados e divulgação científica:&lt;/p&gt;
 &lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Apresentações:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/blog/drclas/&#34;&gt;&lt;em&gt;Brazil’s 2026 Elections: Looking Ahead to October&lt;/em&gt;&lt;/a&gt;: apresentação no David Rockefeller Center for Latin American Studies (Harvard University), sobre as eleições brasileiras de 2026.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Artigos de opinião e/ou de análise política:&lt;/p&gt;
 &lt;ul&gt;
@@ -97,6 +109,26 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Brazil’s 2026 Elections: Looking Ahead to October</title>
+      <link>/blog/drclas/</link>
+      <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>/blog/drclas/</guid>
+      <description>&lt;p&gt;Participação no seminário &lt;a href=&#34;https://www.drclas.harvard.edu/event/brazils-2026-elections-looking-ahead-october&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Brazil’s 2026 Elections: Looking Ahead to October&lt;/a&gt;, em 14 de abril de 2026, no David Rockefeller Center for Latin American Studies (Harvard University), junto com Graziele Silotto, Fernando Bizzarro e mediação de Steven Levitsky.&lt;/p&gt;
+&lt;p&gt;A apresentação realizada está disponível &lt;a href=&#34;/presentations/Gelape2026_DRCLAS.pdf&#34;&gt;neste link&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Brazil’s 2026 Elections: Looking Ahead to October</title>
+      <link>/pt/blog/drclas/</link>
+      <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>/pt/blog/drclas/</guid>
+      <description>&lt;p&gt;Participação no seminário &lt;a href=&#34;https://www.drclas.harvard.edu/event/brazils-2026-elections-looking-ahead-october&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Brazil’s 2026 Elections: Looking Ahead to October&lt;/a&gt;, em 14 de abril de 2026, no David Rockefeller Center for Latin American Studies (Harvard University), junto com Graziele Silotto, Fernando Bizzarro e mediação de Steven Levitsky.&lt;/p&gt;
+&lt;p&gt;A apresentação realizada está disponível &lt;a href=&#34;/presentations/Gelape2026_DRCLAS.pdf&#34;&gt;neste link&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
