@@ -5,12 +5,84 @@
     <link>/authors/admin/</link>
       <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Lucas Gelape</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>© 2026</copyright><lastBuildDate>Thu, 23 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>© 2026</copyright><lastBuildDate>Tue, 05 May 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/authors/admin/avatar_hu02aa61ae1d9de35cbe238d2676170cb9_90157_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>/media/icon_hufa00241f86c4313f35bbc31f9b413ce3_978835_512x512_fill_lanczos_center_3.png</url>
       <title>Lucas Gelape</title>
       <link>/authors/admin/</link>
     </image>
+    
+    <item>
+      <title>Multilevel Political Connections and Interest Intermediation: Identifying Political Alliances with Social Media Data</title>
+      <link>/pt/publication/multilevel_social_media/</link>
+      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
+      <guid>/pt/publication/multilevel_social_media/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Gelape, Lucas; Meireles, Fernando; Rocha, Marta Mendes da; Duque, Guilherme de Abreu. 2026. Multilevel Political Connections and Interest Intermediation: Identifying Political Alliances with Social Media Data. &lt;strong&gt;Journal of Politics in Latin America&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Resumo:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;É comum, tanto em países unitários quanto federativos, que políticos de diferentes níveis cooperem em busca de benefícios mútuos. Mas como podemos identificar quem coopera com quem para investigar os fatores por trás dessas alianças? Este artigo propõe uma estratégia inovadora para detectar alianças entre chefes de executivos locais e legisladores nacionais a partir de dados de redes sociais de prefeitos. Com base em mais de 2.000.000 de postagens de cerca de 2.000 prefeitos brasileiros, desenvolvemos, por meio de um modelo de aprendizado de máquina supervisionado, um indicador que mensura a força das relações entre prefeitos e parlamentares. Nossos resultados mostram que a maior parte das conexões é relativamente fraca, embora o alinhamento partidário esteja positivamente associado a vínculos mais fortes. Nossa abordagem oferece uma alternativa de baixo custo e replicável aos métodos tradicionais para o estudo da intermediação política. Ela avança a compreensão das dinâmicas políticas multinível em sistemas presidencialistas com executivos locais fortes e destaca o papel das autoridades eleitas locais como intermediárias (&lt;em&gt;brokers&lt;/em&gt;) centrais — ainda que frequentemente negligenciadas — na política comparada.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Figura: Distribuição do indicador de força de relação, por rede social.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./indicador_densidade.png&#34; alt=&#34;png&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Fonte: elaborado pelos autores, a partir de dados do TSE e do CrowdTangle.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Multilevel Political Connections and Interest Intermediation: Identifying Political Alliances with Social Media Data</title>
+      <link>/publication/multilevel_social_media/</link>
+      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/multilevel_social_media/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Gelape, Lucas; Meireles, Fernando; Rocha, Marta Mendes da; Duque, Guilherme de Abreu. 2026. Multilevel Political Connections and Interest Intermediation: Identifying Political Alliances with Social Media Data. &lt;strong&gt;Journal of Politics in Latin America&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Resumo:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;É comum, tanto em países unitários quanto federativos, que políticos de diferentes níveis cooperem em busca de benefícios mútuos. Mas como podemos identificar quem coopera com quem para investigar os fatores por trás dessas alianças? Este artigo propõe uma estratégia inovadora para detectar alianças entre chefes de executivos locais e legisladores nacionais a partir de dados de redes sociais de prefeitos. Com base em mais de 2.000.000 de postagens de cerca de 2.000 prefeitos brasileiros, desenvolvemos, por meio de um modelo de aprendizado de máquina supervisionado, um indicador que mensura a força das relações entre prefeitos e parlamentares. Nossos resultados mostram que a maior parte das conexões é relativamente fraca, embora o alinhamento partidário esteja positivamente associado a vínculos mais fortes. Nossa abordagem oferece uma alternativa de baixo custo e replicável aos métodos tradicionais para o estudo da intermediação política. Ela avança a compreensão das dinâmicas políticas multinível em sistemas presidencialistas com executivos locais fortes e destaca o papel das autoridades eleitas locais como intermediárias (&lt;em&gt;brokers&lt;/em&gt;) centrais — ainda que frequentemente negligenciadas — na política comparada.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Figura: Distribuição do indicador de força de relação, por rede social.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./indicador_densidade.png&#34; alt=&#34;png&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Fonte: elaborado pelos autores, a partir de dados do TSE e do CrowdTangle.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Destaques</title>
@@ -129,6 +201,28 @@
       <guid>/pt/blog/drclas/</guid>
       <description>&lt;p&gt;Participação no seminário &lt;a href=&#34;https://www.drclas.harvard.edu/event/brazils-2026-elections-looking-ahead-october&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Brazil’s 2026 Elections: Looking Ahead to October&lt;/a&gt;, em 14 de abril de 2026, no David Rockefeller Center for Latin American Studies (Harvard University), junto com Graziele Silotto, Fernando Bizzarro e mediação de Steven Levitsky.&lt;/p&gt;
 &lt;p&gt;A apresentação realizada está disponível &lt;a href=&#34;/presentations/Gelape2026_DRCLAS.pdf&#34;&gt;neste link&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Do juridiquês à linguagem simples: pela construção de uma documentação jurídica inteligente e acessível</title>
+      <link>/blog/juridiques/</link>
+      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>/blog/juridiques/</guid>
+      <description>&lt;p&gt;Artigo publicado, em coautoria com a profa. Fabiana de Menezes Soares, na seção &amp;ldquo;Fábrica de Leis&amp;rdquo; do &lt;a href=&#34;https://www.estadao.com.br/opiniao/espaco-aberto/k-99-um-candidato-bom-para-os-cachorros/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Consultor Jurídico&lt;/em&gt;&lt;/a&gt;, em 31 de março de 2026.&lt;/p&gt;
+&lt;p&gt;Trecho da introdução do texto:&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Textos jurídicos são conhecidos por apresentarem dificuldades para quem os lê e uma profissão de fé ou perdição para quem os aplica. Os motivos para tanto podem ser vários, e permanece a dúvida de por que operadores do Direito insistem nesse tipo de redação. Neste artigo, apresentamos uma série de achados empíricos recentes, que buscam compreender porque textos jurídicos são difíceis. Adiantamos aos leitores que, infelizmente, as evidências preliminares indicam que a culpa é dos próprios operadores do Direito, que reincidem no juridiquês em vez de simplificar a linguagem usada em seus textos. Ao final, abordamos como estudar essas questões no Direito brasileiro.&amp;rdquo;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Do juridiquês à linguagem simples: pela construção de uma documentação jurídica inteligente e acessível</title>
+      <link>/pt/blog/juridiques/</link>
+      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>/pt/blog/juridiques/</guid>
+      <description>&lt;p&gt;Artigo publicado, em coautoria com a profa. Fabiana de Menezes Soares, na seção &amp;ldquo;Fábrica de Leis&amp;rdquo; do &lt;a href=&#34;https://www.estadao.com.br/opiniao/espaco-aberto/k-99-um-candidato-bom-para-os-cachorros/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Consultor Jurídico&lt;/em&gt;&lt;/a&gt;, em 31 de março de 2026.&lt;/p&gt;
+&lt;p&gt;Trecho da introdução do texto:&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Textos jurídicos são conhecidos por apresentarem dificuldades para quem os lê e uma profissão de fé ou perdição para quem os aplica. Os motivos para tanto podem ser vários, e permanece a dúvida de por que operadores do Direito insistem nesse tipo de redação. Neste artigo, apresentamos uma série de achados empíricos recentes, que buscam compreender porque textos jurídicos são difíceis. Adiantamos aos leitores que, infelizmente, as evidências preliminares indicam que a culpa é dos próprios operadores do Direito, que reincidem no juridiquês em vez de simplificar a linguagem usada em seus textos. Ao final, abordamos como estudar essas questões no Direito brasileiro.&amp;rdquo;&lt;/p&gt;
 </description>
     </item>
     

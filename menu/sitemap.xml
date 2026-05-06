@@ -60,13 +60,13 @@
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="pt"
-                href="/publication_types/"
+                hreflang="en"
+                href="/en/publication_types/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="/en/publication_types/"
+                hreflang="pt"
+                href="/publication_types/"
                 />
     <xhtml:link
                 rel="alternate"

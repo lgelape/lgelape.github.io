@@ -15,8 +15,22 @@
                 href="/en/about/"
                 />
   </url><url>
+    <loc>/en/publication-type/2/</loc>
+    <lastmod>2026-05-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/publication-type/2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/publication-type/2/"
+                />
+  </url><url>
     <loc>/en/authors/</loc>
-    <lastmod>2026-04-23T00:00:00+00:00</lastmod>
+    <lastmod>2026-05-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -32,6 +46,173 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/authors/"
+                />
+  </url><url>
+    <loc>/en/tag/brokers/</loc>
+    <lastmod>2026-05-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/tag/brokers/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tag/brokers/"
+                />
+  </url><url>
+    <loc>/en/authors/fernando-meireles/</loc>
+    <lastmod>2026-05-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/authors/fernando-meireles/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/authors/fernando-meireles/"
+                />
+  </url><url>
+    <loc>/en/authors/guilherme-de-abreu-duque/</loc>
+    <lastmod>2026-05-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/authors/guilherme-de-abreu-duque/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/authors/guilherme-de-abreu-duque/"
+                />
+  </url><url>
+    <loc>/en/tag/local-politics/</loc>
+    <lastmod>2026-05-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/en/</loc>
+    <lastmod>2026-05-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="menu"
+                href="/menu/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/"
+                />
+  </url><url>
+    <loc>/en/authors/admin/</loc>
+    <lastmod>2026-05-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/authors/admin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/authors/admin/"
+                />
+  </url><url>
+    <loc>/en/authors/marta-mendes-da-rocha/</loc>
+    <lastmod>2026-05-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/authors/marta-mendes-da-rocha/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/authors/marta-mendes-da-rocha/"
+                />
+  </url><url>
+    <loc>/en/tag/mayors/</loc>
+    <lastmod>2026-05-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/en/publication/multilevel_social_media/</loc>
+    <lastmod>2026-05-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/publication/multilevel_social_media/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/publication/multilevel_social_media/"
+                />
+  </url><url>
+    <loc>/en/tag/parties/</loc>
+    <lastmod>2026-05-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/en/publication_types/</loc>
+    <lastmod>2026-05-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="menu"
+                href="/menu/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/publication_types/"
+                />
+  </url><url>
+    <loc>/en/publication/</loc>
+    <lastmod>2026-05-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/publication/"
+                />
+  </url><url>
+    <loc>/en/tags/</loc>
+    <lastmod>2026-05-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="menu"
+                href="/menu/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/"
                 />
   </url><url>
     <loc>/en/blog/</loc>
@@ -118,39 +299,6 @@
                 href="/en/tag/elections/"
                 />
   </url><url>
-    <loc>/en/</loc>
-    <lastmod>2026-04-23T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="menu"
-                href="/menu/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/"
-                />
-  </url><url>
-    <loc>/en/authors/admin/</loc>
-    <lastmod>2026-04-23T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="/authors/admin/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/authors/admin/"
-                />
-  </url><url>
     <loc>/en/tag/science/</loc>
     <lastmod>2026-04-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -163,25 +311,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/tag/science/"
-                />
-  </url><url>
-    <loc>/en/tags/</loc>
-    <lastmod>2026-04-23T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="menu"
-                href="/menu/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/"
                 />
   </url><url>
     <loc>/en/tag/twitter/</loc>
@@ -215,6 +344,56 @@
                 hreflang="en"
                 href="/en/blog/drclas/"
                 />
+  </url><url>
+    <loc>/en/authors/fabiana-de-menezes-soares/</loc>
+    <lastmod>2026-03-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/authors/fabiana-de-menezes-soares/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/authors/fabiana-de-menezes-soares/"
+                />
+  </url><url>
+    <loc>/en/blog/juridiques/</loc>
+    <lastmod>2026-03-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/blog/juridiques/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/blog/juridiques/"
+                />
+  </url><url>
+    <loc>/en/tag/legalese/</loc>
+    <lastmod>2026-03-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/en/tag/legislab/</loc>
+    <lastmod>2026-03-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/tag/legislab/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tag/legislab/"
+                />
+  </url><url>
+    <loc>/en/tag/legistics/</loc>
+    <lastmod>2026-03-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>/en/tag/extrema-direita/</loc>
     <lastmod>2025-12-11T00:00:00+00:00</lastmod>
@@ -358,20 +537,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/tag/direito/"
-                />
-  </url><url>
-    <loc>/en/authors/fabiana-de-menezes-soares/</loc>
-    <lastmod>2024-11-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="/authors/fabiana-de-menezes-soares/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/authors/fabiana-de-menezes-soares/"
                 />
   </url><url>
     <loc>/en/tag/interdisciplinariedade/</loc>
@@ -694,39 +859,6 @@
                 href="/en/tag/gambiarra/"
                 />
   </url><url>
-    <loc>/en/publication_types/</loc>
-    <lastmod>2023-05-11T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="/publication_types/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="menu"
-                href="/menu/publication_types/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/publication_types/"
-                />
-  </url><url>
-    <loc>/en/publication/</loc>
-    <lastmod>2023-05-11T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="/publication/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/publication/"
-                />
-  </url><url>
     <loc>/en/authors/ricardo-fabrino-mendonca/</loc>
     <lastmod>2023-05-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -753,52 +885,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/publication/political_affairs/"
-                />
-  </url><url>
-    <loc>/en/publication-type/2/</loc>
-    <lastmod>2023-04-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="/publication-type/2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/publication-type/2/"
-                />
-  </url><url>
-    <loc>/en/tag/brokers/</loc>
-    <lastmod>2023-04-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="/tag/brokers/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tag/brokers/"
-                />
-  </url><url>
-    <loc>/en/tag/local-politics/</loc>
-    <lastmod>2023-04-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>/en/authors/marta-mendes-da-rocha/</loc>
-    <lastmod>2023-04-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="/authors/marta-mendes-da-rocha/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/authors/marta-mendes-da-rocha/"
                 />
   </url><url>
     <loc>/en/tag/multilevel-connections/</loc>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Legislab | Lucas Gelape</title>
+    <link>/en/tag/legislab/</link>
+      <atom:link href="/en/tag/legislab/index.xml" rel="self" type="application/rss+xml" />
+    <description>Legislab</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><copyright>© 2026</copyright><lastBuildDate>Tue, 31 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hufa00241f86c4313f35bbc31f9b413ce3_978835_512x512_fill_lanczos_center_3.png</url>
+      <title>Legislab</title>
+      <link>/en/tag/legislab/</link>
+    </image>
+    
+    <item>
+      <title>From legalese to plain language: toward building intelligent and accessible legal documentation</title>
+      <link>/en/blog/juridiques/</link>
+      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>/en/blog/juridiques/</guid>
+      <description>&lt;p&gt;Article co-authored with Prof. Fabiana de Menezes Soares in the &amp;ldquo;Fábrica de Leis&amp;rdquo; section of &lt;a href=&#34;https://www.estadao.com.br/opiniao/espaco-aberto/k-99-um-candidato-bom-para-os-cachorros/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Consultor Jurídico&lt;/em&gt;&lt;/a&gt;, on March 31, 2026. (in Portuguese)&lt;/p&gt;
+&lt;p&gt;Excerpt from the introduction:&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Legal texts are known for presenting difficulties to those who read them and as either a leap of faith or a path to ruin for those who apply them. The reasons for this may be many, and the question remains as to why legal practitioners insist on this type of writing. In this article, we present a series of recent empirical findings that seek to understand why legal texts are difficult. We anticipate to readers that, unfortunately, preliminary evidence indicates that the blame lies with legal practitioners themselves, who fall back on legalese instead of simplifying the language used in their texts. At the end, we address how to study these issues in Brazilian law.&amp;rdquo;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
