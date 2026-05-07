@@ -392,6 +392,36 @@
     <lastmod>2026-03-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>/tag/educacao-legislativa/</loc>
+    <lastmod>2026-03-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/blog/escola_cmsl/</loc>
+    <lastmod>2026-03-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/blog/escola_cmsl/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/blog/escola_cmsl/"
+                />
+  </url><url>
+    <loc>/pt/blog/escola_cmsl/</loc>
+    <lastmod>2026-03-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/tag/parlamento-jovem/</loc>
+    <lastmod>2026-03-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/tag/poder-legislativo/</loc>
+    <lastmod>2026-03-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>/blog/impressa_auditavel/</loc>
     <lastmod>2025-12-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>

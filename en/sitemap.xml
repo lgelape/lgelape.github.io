@@ -395,6 +395,32 @@
     <lastmod>2026-03-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>/en/tag/legislative-branch/</loc>
+    <lastmod>2026-03-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/en/tag/legislative-education/</loc>
+    <lastmod>2026-03-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/en/blog/escola_cmsl/</loc>
+    <lastmod>2026-03-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/blog/escola_cmsl/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/blog/escola_cmsl/"
+                />
+  </url><url>
+    <loc>/en/tag/youth-parliament/</loc>
+    <lastmod>2026-03-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>/en/tag/extrema-direita/</loc>
     <lastmod>2025-12-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
